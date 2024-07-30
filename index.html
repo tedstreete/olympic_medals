@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sortable CSV Table</title>
+  <style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    th,
+    td {
+      border: 1px solid #ddd;
+      padding: 8px;
+      text-align: left;
+    }
+
+    th {
+      cursor: pointer;
+      background-color: #f2f2f2;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Sortable CSV Table</h1>
+  <input type="file" id="csvFileInput" accept=".csv" />
+  <table id="csvTable">
+    <thead id="csvTableHead"></thead>
+    <tbody id="csvTableBody"></tbody>
+  </table>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+  <script>
+    document.getElementById('csvFileInput').addEventListener('change', function (event) {
+      const file = event.target.files[0];
+      if (file) {
+        const reader = new FileReader();
+        reader.onload = function (e) {
+          const text = e.target.result;
+          Papa.parse(text, {
+            header: true,
+            complete: function (results) {
+              const csvData = results.data;
+              generateTable(csvData);
+            }
+          });
+        };
+        reader.readAsText(file);
+      }
+    });
+
+    function generateTable(data) {
+      const tableHead = document.getElementById('csvTableHead');
+      const tableBody = document.getElementById('csvTableBody');
+      tableHead.innerHTML = '';
+      tableBody.innerHTML = '';
+
+      if (data.length > 0) {
+        const headers = Object.keys(data[0]);
+        const headerRow = document.createElement('tr');
+
+        headers.forEach((header, index) => {
+          const th = document.createElement('th');
+          th.innerText = header;
+          th.addEventListener('click', () => sortTable(index));
+          headerRow.appendChild(th);
+        });
+
+        tableHead.appendChild(headerRow);
+
+        data.forEach(row => {
+          const rowElement = document.createElement('tr');
+          headers.forEach(header => {
+            const td = document.createElement('td');
+            td.innerText = row[header];
+            rowElement.appendChild(td);
+          });
+          tableBody.appendChild(rowElement);
+        });
+      }
+    }
+
+    function sortTable(columnIndex) {
+      const table = document.getElementById('csvTable');
+      let rows, switching, i, x, y, shouldSwitch, direction, switchCount = 0;
+      switching = true;
+      direction = "asc";
+
+      while (switching) {
+        switching = false;
+        rows = table.rows;
+        for (i = 1; i < (rows.length - 1); i++) {
+          shouldSwitch = false;
+          x = rows[i].getElementsByTagName("TD")[columnIndex];
+          y = rows[i + 1].getElementsByTagName("TD")[columnIndex];
+          if (direction == "asc") {
+            if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
+              shouldSwitch = true;
+              break;
+            }
+          } else if (direction == "desc") {
+            if (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) {
+              shouldSwitch = true;
+              break;
+            }
+          }
+        }
+        if (shouldSwitch) {
+          rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+          switching = true;
+          switchCount++;
+        } else {
+          if (switchCount == 0 && direction == "asc") {
+            direction = "desc";
+            switching = true;
+          }
+        }
+      }
+    }
+  </script>
+</body>
+
+</html>
