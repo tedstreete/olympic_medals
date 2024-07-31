@@ -33,22 +33,36 @@
 
     <h2>2024 Olympic medals</h2>
 
-    This table presents the cost of an Olympic medal during the 2024 games:- <ol>
-        <li>GDP Per Medal: This divides the GDP by the number of medals a country has won, to evaluate how of the GDP
-            each medal cost</li>
-        <li>GDP per head of population: This divides the GDP per person (the GDP divided by the population) by the
-            number of medals a country has won, to evaluate how much of the relative GDP each medal cost.</li>
+    Determining the most "successful" country in the Olympics is not a trivial matter. The obvious approach that
+    compares total medals fails to account for other significant differences between any two countries. The table below
+    attempts to correct for this discrepancy by calculating the cost, in dollars of GDP, per medal. While not a precise
+    measure, GDP is a reasonable indicator by which the medal counts can be weighted to create a better comparison.
+
+    In the table below, the last two
+    columns present the:-
+    <ol>
+        <li>Cost of each medal as a function of the GDP. A country with a lower GDP will have a lower cost per medal
+            when compared to a country with higher GDP when the medal counts for the two countries is identical.</li>
+        <li>Cost of each medal as a function of the GDP, weighting for the population size. This table uses the GDP per
+            capita rather than the total GDP to weight the cost per medal. This approach includes both GDP and
+            population difference between two coutries when making medal comparisons.</li>
     </ol>
-    Click on a column in the table to sort by that column.
+    Click on a column title in the table to sort by that column.
 
     <h3>Data sources</h3>
-    <div>The country data was sourced from the world bank indicator API at "https://api.worldbank.org/v2/country/"</div>
-    <div>The medal data is scraped from the CBS medals table at
-        "https://www.cbssports.com/olympics/news/2024-paris-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-each-country-has-won/"
+    <div>The country data was sourced from the world bank indicator API at <a
+            href="https://datahelpdesk.worldbank.org/knowledgebase/topics/125589-developer-information">https://datahelpdesk.worldbank.org/knowledgebase/topics/125589-developer-information</a>
+    </div>
+    <div>The medal data is scraped from the CBS medals table at <a
+            href="https://www.cbssports.com/olympics/news/2024-paris-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-each-country-has-won/">
+            "https://www.cbssports.com/olympics/news/2024-paris-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-each-country-has-won/"</a>
     </div>
     <div>The raw data can be downloaded from
         <a
-            href="https://github.com/tedstreete/olympic_medals/blob/master/Medal-Records.csv">https://github.com/tedstreete/olympic_medals/blob/master/Medal-Records.csv</a>
+            href="https://github.com/tedstreete/olympic_medals/blob/master/Medal-Records.csv">https://github.com/tedstreete/olympic_medals/blob/master/Medal-Records.csv</a>.
+        Alternatively, if you'd like to analyse the data differently, you can clone the repository from <a
+            href="https://github.com/tedstreete/olympic_medals/tree/master">https://github.com/tedstreete/olympic_medals/tree/master</a>
+        and add your analysis.
     </div>
     <p></p>
     <div>
@@ -58,12 +72,13 @@
                     <th onclick="sortTable(0, 'string')">Country Name</th>
                     <th onclick="sortTable(1, 'currency')">GDP</th>
                     <th onclick="sortTable(2, 'number')">Population</th>
-                    <th onclick="sortTable(3, 'currency')">GDP per Head</th>
+                    <th onclick="sortTable(3, 'currency')">GDP per capita</th>
                     <th onclick="sortTable(4, 'number')">Gold</th>
                     <th onclick="sortTable(5, 'number')">Silver</th>
                     <th onclick="sortTable(6, 'number')">Bronze</th>
                     <th onclick="sortTable(7, 'number')">Total</th>
-                    <th onclick="sortTable(8, 'currency')">GDP per Medal</th>
+                    <th onclick="sortTable(8, 'currency')">Medal cost in $ of GDP</th>
+                    <th onclick="sortTable(9, 'currency')">Medal cost in $ of GDP per capita</th>
                 </tr>
             </thead>
             <tbody>

@@ -39,7 +39,7 @@ fn get_html_table(table_data: &Vec<MedalsRecord>) -> String {
         ));
         table.push_str(&format!(
             "      <td>{}</td>",
-            dollar(country_medals.gdp_per_head)
+            dollar(country_medals.gdp_per_capita)
         ));
         table.push_str(&format!(
             "      <td>{}</td>",
@@ -60,6 +60,10 @@ fn get_html_table(table_data: &Vec<MedalsRecord>) -> String {
         table.push_str(&format!(
             "      <td>{}</td>",
             dollar(country_medals.gdp_per_medal)
+        ));
+        table.push_str(&format!(
+            "      <td>{}</td>",
+            dollar(country_medals.gdp_per_capita_per_medal)
         ));
         table.push_str("    </tr>\n");
     }

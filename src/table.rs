@@ -8,12 +8,13 @@ pub struct MedalsRecord {
     pub country_name: String,
     pub gdp: u64,
     pub population: u64,
-    pub gdp_per_head: u64,
+    pub gdp_per_capita: u64,
     pub gold: u32,
     pub silver: u32,
     pub bronze: u32,
     pub total: u32,
     pub gdp_per_medal: u64,
+    pub gdp_per_capita_per_medal: u64,
 }
 
 pub fn assemble_table(
@@ -36,12 +37,13 @@ pub fn assemble_table(
             country_name: country_data.get(country_code).unwrap().country_name.clone(),
             gdp,
             population,
-            gdp_per_head: gdp / population,
+            gdp_per_capita: gdp / population,
             gold: country.gold,
             silver: country.silver,
             bronze: country.bronze,
             total: country.total,
             gdp_per_medal: gdp / country.total as u64,
+            gdp_per_capita_per_medal: (gdp / population) / country.total as u64,
         };
         medals_table.push(medals_record);
     }
@@ -49,6 +51,7 @@ pub fn assemble_table(
     medals_table
 }
 
+// Fix-up the difference in coutry codes used by the World Bank and CBS
 fn fix_country_code(code: &str) -> &str {
     match code {
         "GER" => "DEU",
