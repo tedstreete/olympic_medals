@@ -4,19 +4,16 @@ use crate::{country_data::CountryData, medals::Medals};
 
 #[derive(serde::Serialize)]
 pub struct MedalsRecord {
-    country_code: String,
-    country_name: String,
-    gdp: u64,
-    population: u64,
-    gdp_per_head: u64,
-    gold: u32,
-    silver: u32,
-    bronze: u32,
-    total: u32,
-    // gold_by_gdp: u32,
-    // silver_by_gdp: u32,
-    // bronze_by_gdp: u32,
-    // total_by_gdp: u32,
+    pub country_code: String,
+    pub country_name: String,
+    pub gdp: u64,
+    pub population: u64,
+    pub gdp_per_head: u64,
+    pub gold: u32,
+    pub silver: u32,
+    pub bronze: u32,
+    pub total: u32,
+    pub gdp_per_medal: u64,
 }
 
 pub fn assemble_table(
@@ -30,10 +27,7 @@ pub fn assemble_table(
             "Country: {} :: {}",
             &country.country_code, country.country_name
         );
-        let country_code = match country_data.get(&country.country_code) {
-            Some(_) => &country.country_code,
-            None => &fix_country_code(&country.country_code),
-        };
+        let country_code = fix_country_code(&country.country_code);
 
         let gdp = country_data.get(country_code).unwrap().gdp;
         let population = country_data.get(country_code).unwrap().population;
@@ -47,6 +41,7 @@ pub fn assemble_table(
             silver: country.silver,
             bronze: country.bronze,
             total: country.total,
+            gdp_per_medal: gdp / country.total as u64,
         };
         medals_table.push(medals_record);
     }
@@ -54,18 +49,18 @@ pub fn assemble_table(
     medals_table
 }
 
-fn fix_country_code(code: &str) -> String {
+fn fix_country_code(code: &str) -> &str {
     match code {
-        "GER" => "DEU".to_string(),
-        "RSA" => "ZAF".to_string(),
-        "ROM" => "ROU".to_string(),
-        "TKE" => "TUR".to_string(),
-        "FIJ" => "FJI".to_string(),
-        "KOS" => "XKX".to_string(),
-        "MGL" => "MNG".to_string(),
-        "CRO" => "HRV".to_string(),
-        "EIR" => "IRL".to_string(),
-        "SUI" => "CHE".to_string(),
-        _ => "XXX".to_string(),
+        "GER" => "DEU",
+        "RSA" => "ZAF",
+        "ROM" => "ROU",
+        "TKE" => "TUR",
+        "FIJ" => "FJI",
+        "KOS" => "XKX",
+        "MGL" => "MNG",
+        "CRO" => "HRV",
+        "EIR" => "IRL",
+        "SUI" => "CHE",
+        _ => code,
     }
 }

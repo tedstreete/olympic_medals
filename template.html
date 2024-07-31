@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2024 Olympic medals</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th,
+        td {
+            padding: 10px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+
+        th {
+            cursor: pointer;
+            background-color: #f2f2f2;
+        }
+
+        th:hover {
+            background-color: #ddd;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h2>2024 Olympic medals</h2>
+
+    This table presents the cost of an Olympic medal during the 2024 games:- <ol>
+        <li>GDP Per Medal: This divides the GDP by the number of medals a country has won, to evaluate how of the GDP
+            each medal cost</li>
+        <li>GDP per head of population: This divides the GDP per person (the GDP divided by the population) by the
+            number of medals a country has won, to evaluate how much of the relative GDP each medal cost.</li>
+    </ol>
+    Click on a column in the table to sort by that column.
+
+    <h3>Data sources</h3>
+    <div>The country data was sourced from the world bank indicator API at "https://api.worldbank.org/v2/country/"</div>
+    <div>The medal data is scraped from the CBS medals table at
+        "https://www.cbssports.com/olympics/news/2024-paris-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-each-country-has-won/"
+    </div>
+    <div>The raw data can be downloaded from
+        <a
+            href="https://github.com/tedstreete/olympic_medals/blob/master/Medal-Records.csv">https://github.com/tedstreete/olympic_medals/blob/master/Medal-Records.csv</a>
+    </div>
+    <p></p>
+    <div>
+        <table id="medalsTable">
+            <thead>
+                <tr>
+                    <th onclick="sortTable(0, 'string')">Country Name</th>
+                    <th onclick="sortTable(1, 'currency')">GDP</th>
+                    <th onclick="sortTable(2, 'number')">Population</th>
+                    <th onclick="sortTable(3, 'currency')">GDP per Head</th>
+                    <th onclick="sortTable(4, 'number')">Gold</th>
+                    <th onclick="sortTable(5, 'number')">Silver</th>
+                    <th onclick="sortTable(6, 'number')">Bronze</th>
+                    <th onclick="sortTable(7, 'number')">Total</th>
+                    <th onclick="sortTable(8, 'currency')">GDP per Medal</th>
+                </tr>
+            </thead>
+            <tbody>
+                [template]
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        function sortTable(n, type) {
+            const table = document.getElementById("medalsTable");
+            let rows, switching, i, x, y, shouldSwitch, dir, switchCount = 0;
+            switching = true;
+            dir = "asc";
+            while (switching) {
+                switching = false;
+                rows = table.rows;
+                for (i = 1; i < (rows.length - 1); i++) {
+                    shouldSwitch = false;
+                    x = rows[i].getElementsByTagName("TD")[n];
+                    y = rows[i + 1].getElementsByTagName("TD")[n];
+
+                    let xContent = x.innerHTML;
+                    let yContent = y.innerHTML;
+
+                    if (type === 'number') {
+                        xContent = parseFloat(xContent.replace(/,/g, ''));
+                        yContent = parseFloat(yContent.replace(/,/g, ''));
+                    } else if (type === 'currency') {
+                        xContent = parseFloat(xContent.replace(/[$,]/g, ''));
+                        yContent = parseFloat(yContent.replace(/[$,]/g, ''));
+                    }
+
+                    if (dir === "asc") {
+                        if (xContent > yContent) {
+                            shouldSwitch = true;
+                            break;
+                        }
+                    } else if (dir === "desc") {
+                        if (xContent < yContent) {
+                            shouldSwitch = true;
+                            break;
+                        }
+                    }
+                }
+                if (shouldSwitch) {
+                    rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+                    switching = true;
+                    switchCount++;
+                } else {
+                    if (switchCount === 0 && dir === "asc") {
+                        dir = "desc";
+                        switching = true;
+                    }
+                }
+            }
+        }
+    </script>
+
+</body>
+
+</html>
