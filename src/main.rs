@@ -2,11 +2,13 @@ mod country_data;
 mod medals;
 mod table;
 
+use chrono::{DateTime, Local};
 use num_format::{Locale, ToFormattedString};
 use std::{
     error::Error,
-    fs::File,
+    fs::{self, File},
     io::{Read, Write},
+    path::Path,
 };
 
 use country_data::CountryData;
@@ -19,7 +21,8 @@ fn main() -> Result<(), Box<dyn Error>> {
     let medals = Medals::fetch_medals().unwrap();
     let table_data = table::assemble_table(country_data, medals);
     let html_table = get_html_table(&table_data);
-    create_index_html(&html_table)?;
+    let modified_date = get_last_update_timestamp(&medals::CACHE.to_string());
+    create_index_html(&html_table, &modified_date)?;
     save_to_csv(&table_data, "Medal-Records.csv")?;
 
     Ok(())
@@ -69,15 +72,16 @@ fn get_html_table(table_data: &Vec<MedalsRecord>) -> String {
     table
 }
 
-fn create_index_html(replacement: &str) -> Result<(), Box<dyn Error>> {
+fn create_index_html(html_table: &str, modified_timestame: &str) -> Result<(), Box<dyn Error>> {
     // Read the file content
     let mut content = String::new();
     File::open("template.html")?.read_to_string(&mut content)?;
-    let modified_content = content.replace("[template]", replacement);
+    let content = content.replace("[template]", html_table);
+    let content = content.replace("[modified_timestamp]", modified_timestame);
 
     // Write the modified content back to the file
     let mut file = File::create("index.html")?;
-    file.write_all(modified_content.as_bytes())?;
+    file.write_all(content.as_bytes())?;
 
     Ok(())
 }
@@ -104,4 +108,25 @@ fn dollar<T: Into<u64>>(num: T) -> String {
     let comma_format = comma_delim(num_u64);
     currency.push_str(&comma_format);
     currency
+}
+
+fn get_last_update_timestamp<P: AsRef<Path>>(path: &P) -> String {
+    let mut modified_comment = String::new();
+
+    let metadata = match fs::metadata(path) {
+        Ok(metadata) => metadata,
+        Err(_) => return "".to_string(),
+    };
+
+    if let Ok(modified_time) = metadata.modified() {
+        let datetime: DateTime<Local> = modified_time.into();
+        // Print the modification time in the desired format
+
+        modified_comment = format!(
+            "The medals table was last updated at {} pacific daylight time on {}",
+            datetime.format("%I:%M:%S %p"),
+            datetime.format("%A, %B %d, %Y")
+        );
+    }
+    modified_comment
 }

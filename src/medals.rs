@@ -7,7 +7,7 @@ use std::{
     time::{Duration, SystemTime},
 };
 
-const CACHE: &str = "contents.txt";
+pub const CACHE: &str = "contents.txt";
 
 #[derive(Debug)]
 pub(crate) struct Medals {

@@ -1,5 +1,5 @@
 country_code,country_name,gdp,population,gdp_per_capita,gold,silver,bronze,total,gdp_per_medal,gdp_per_capita_per_medal
-PRK,"Korea, Dem. People's Rep.",1,26160821,0,0,2,0,2,0,0
+PRK,"Korea, Dem. People's Rep. (See Note 1.)",1,26160821,0,0,2,0,2,0,0
 KOS,Kosovo,10438351483,1756374,5943,0,1,1,2,5219175741,2971
 FIJ,Fiji,5494797540,936375,5868,0,1,0,1,5494797540,5868
 MDA,Moldova,16539436547,2486891,6650,0,0,2,2,8269718273,3325
