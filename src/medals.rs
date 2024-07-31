@@ -102,7 +102,6 @@ fn save_to_file(filename: &str, content: &str) -> Result<(), Box<dyn Error>> {
     Ok(())
 }
 
-// Function to load a string from a text file
 fn load_from_file(filename: &str) -> Result<String, Box<dyn Error>> {
     let mut file = File::open(filename)?;
     let mut content = String::new();

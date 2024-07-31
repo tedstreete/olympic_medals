@@ -42,7 +42,6 @@ fn fetch_world_bank_data(
 
 fn fetch_all_countries_data(
     client: &Client,
-    // country_codes: &[&str],
     countries: &Vec<(String, String)>,
 ) -> Result<Vec<CountryData>, Box<dyn Error>> {
     let gdp_indicator = "NY.GDP.MKTP.CD";
@@ -92,18 +91,6 @@ fn write_to_csv(country_data_list: &[CountryData], file_path: &str) -> Result<()
     Ok(())
 }
 
-/* fn main() -> Result<(), Box<dyn Error>> {
-    let client = Client::new();
-    let country_codes = ["USA", "CAN", "GBR"]; // Add more country codes as needed
-
-    let country_data_list = fetch_all_countries_data(&client, &country_codes)?;
-
-    write_to_csv(&country_data_list, "country_data.csv")?;
-
-    println!("CSV file 'country_data.csv' has been created with the GDP and population data.");
-    Ok(())
-}
- */
 #[derive(Debug, Deserialize)]
 struct Country {
     id: String,
@@ -141,17 +128,8 @@ fn fetch_country_codes_and_names(client: &Client) -> Result<Vec<(String, String)
 fn setup() -> Result<(), Box<dyn Error>> {
     let client = Client::new();
     let country_data = fetch_country_codes_and_names(&client)?;
-
-    /*    println!("Country codes and names:");
-    for (code, name) in country_data {
-        println!("{} - {}", code, name);
-    } */
-
     let country_data_list = fetch_all_countries_data(&client, &country_data)?;
-
     write_to_csv(&country_data_list, "country_data.csv")?;
-
     println!("CSV file 'country_data.csv' has been created with the GDP and population data.");
-
     Ok(())
 }

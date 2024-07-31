@@ -74,13 +74,11 @@ fn get_html_table(table_data: &Vec<MedalsRecord>) -> String {
 }
 
 fn create_index_html(html_table: &str, modified_timestame: &str) -> Result<(), Box<dyn Error>> {
-    // Read the file content
     let mut content = String::new();
     File::open("template.html")?.read_to_string(&mut content)?;
     let content = content.replace("[template]", html_table);
     let content = content.replace("[modified_timestamp]", modified_timestame);
 
-    // Write the modified content back to the file
     let mut file = File::create("index.html")?;
     file.write_all(content.as_bytes())?;
 
@@ -121,7 +119,6 @@ fn get_last_update_timestamp<P: AsRef<Path>>(path: &P) -> String {
 
     if let Ok(modified_time) = metadata.modified() {
         let datetime: DateTime<Local> = modified_time.into();
-        // Print the modification time in the desired format
 
         modified_comment = format!(
             "The medals table was last updated at {} pacific daylight time on {}",
