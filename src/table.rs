@@ -1,4 +1,4 @@
-use std::collections::HashMap;
+use std::{cmp::Ordering, collections::HashMap};
 
 use crate::{country_data::CountryData, medals::Medals};
 
@@ -48,7 +48,18 @@ pub fn assemble_table(
         medals_table.push(medals_record);
     }
 
+    medals_table.sort_by(|country_1: &MedalsRecord, country_2: &MedalsRecord| {
+        sort_by_gdp(country_1, country_2)
+    });
+
     medals_table
+}
+
+fn sort_by_gdp(country_1: &MedalsRecord, country_2: &MedalsRecord) -> Ordering {
+    match country_1.gdp_per_medal < country_2.gdp_per_medal {
+        true => Ordering::Less,
+        false => Ordering::Greater,
+    }
 }
 
 // Fix-up the difference in coutry codes used by the World Bank and CBS
