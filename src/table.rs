@@ -75,6 +75,9 @@ fn fix_country_code(code: &str) -> &str {
         "CRO" => "HRV",
         "EIR" => "IRL",
         "SUI" => "CHE",
+        "NED" => "NLD",
+        "SLO" => "SVN",
+        "GUA" => "GTM",
         _ => code,
     }
 }

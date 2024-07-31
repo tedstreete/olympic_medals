@@ -1,7 +1,13 @@
 use regex::Regex;
-use reqwest::blocking::Client;
 use scraper::{Html, Selector};
-use std::{error::Error, fs::File};
+use std::{
+    error::Error,
+    fs::{self, File},
+    path::Path,
+    time::{Duration, SystemTime},
+};
+
+const CACHE: &str = "contents.txt";
 
 #[derive(Debug)]
 pub(crate) struct Medals {
@@ -15,11 +21,12 @@ pub(crate) struct Medals {
 
 impl Medals {
     pub fn fetch_medals() -> Result<Vec<Medals>, Box<dyn Error>> {
-        // let client = Client::new();
-        // let url = "https://www.cbssports.com/olympics/news/2024-paris-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-each-country-has-won/";
-        // let response = reqwest::blocking::get(url)?.text()?;
-        // save_to_file("contents.txt", &response);
-        let mut response = load_from_file("contents.txt")?;
+        if update_records(CACHE) {
+            let url = "https://www.cbssports.com/olympics/news/2024-paris-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-each-country-has-won/";
+            let response = reqwest::blocking::get(url)?.text()?;
+            save_to_file("contents.txt", &response)?;
+        }
+        let mut response = load_from_file(CACHE)?;
 
         response.insert_str(0, "<table>");
         if response.len() > 1 {
@@ -30,6 +37,7 @@ impl Medals {
     }
 
     fn extract_table(contents: &str) -> Vec<Medals> {
+        // Ignore superflous html prior to the medals table
         let re_frame =
             Regex::new(r"(?sm)(?P<frame><h2>\s*2024 Paris Olympics medal count\s*</h2>.*</table>)")
                 .unwrap();
@@ -100,4 +108,21 @@ fn load_from_file(filename: &str) -> Result<String, Box<dyn Error>> {
     let mut content = String::new();
     std::io::Read::read_to_string(&mut file, &mut content)?;
     Ok(content)
+}
+
+// Don't update the records more frequently than every 60 minutes
+fn update_records<P: AsRef<Path>>(path: P) -> bool {
+    let now = SystemTime::now();
+    let metadata = match fs::metadata(path) {
+        Ok(metadata) => metadata,
+        Err(_) => return true,
+    };
+
+    if let Ok(modified_time) = metadata.modified() {
+        if let Ok(duration_since_modified) = now.duration_since(modified_time) {
+            return duration_since_modified >= Duration::from_secs(60 * 60);
+        }
+    }
+
+    false
 }

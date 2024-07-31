@@ -12,7 +12,6 @@ use std::{
 use country_data::CountryData;
 use csv::Writer;
 use medals::Medals;
-use regex::Regex;
 use table::MedalsRecord;
 
 fn main() -> Result<(), Box<dyn Error>> {
