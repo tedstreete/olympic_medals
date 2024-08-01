@@ -24,12 +24,15 @@ pub fn assemble_table(
     let mut medals_table = Vec::new();
 
     for country in medals {
-        println!(
-            "Country: {} :: {}",
-            &country.country_code, country.country_name
-        );
         let country_code = fix_country_code(&country.country_code);
 
+        if country_data.get(country_code).is_none() {
+            eprintln!(
+                "Failed to find {} :: {} in World Bank data",
+                &country.country_code, country.country_name
+            );
+            std::process::exit(1);
+        }
         let gdp = country_data.get(country_code).unwrap().gdp;
         let population = country_data.get(country_code).unwrap().population;
         let medals_record = MedalsRecord {
