@@ -82,6 +82,7 @@ fn fix_country_code(code: &str) -> &str {
         "SLO" => "SVN",
         "GUA" => "GTM",
         "GRE" => "GRC",
+        "POR" => "PRT",
         _ => code,
     }
 }
