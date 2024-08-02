@@ -1814,6 +1814,90 @@
                                                                                 
                                                         
                 
+            <a href="/olympics/news/2024-paris-olympics-mens-basketball-scores-germany-topples-france-as-six-of-eight-quarterfinalists-confirmed/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="bruno-caboclo-brazil-olympics-g.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/02/584bc752-a9b5-49a0-a55a-2ebd1305352f/thumbnail/160x160/825122a37b3b6fac3521fb80d2795367/dennis-schroder-germany-olympics-g.jpg" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/2024-paris-olympics-mens-basketball-scores-germany-topples-france-as-six-of-eight-quarterfinalists-confirmed/">
+                                    Olympic men's basketball: 6 quarterfinalists confirmed
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    James Herbert
+                                                                • 13 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
+            <a href="/olympics/news/team-usa-3x3-basketball-2024-paris-olympics-schedule-score-live-stream-standings-rules-explained/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="Olympics: Basketball 3x3-Men Pool-SRB vs USA" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/02/017bda31-4b69-44be-8a5a-241031369c21/thumbnail/160x160/4fc586b7bae3e127967f158636e1e6ed/gettyimages-2165016983.jpg" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/team-usa-3x3-basketball-2024-paris-olympics-schedule-score-live-stream-standings-rules-explained/">
+                                    2024 Olympics Men's Basketball 3x3 rules, schedule
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    Kyle Boone
+                                                                • 2 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
+            <a href="/olympics/news/2024-olympics-mens-basketball-schedule-standings-scores-live-stream-how-to-watch-team-usa-more-in-paris/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="2024 USA Basketball Showcase - USA v Australia" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/01/bd3b96ba-e59f-4bd1-8412-8c23b23123f6/thumbnail/160x160/c417c362f757f1a9dafc515096b3ee54/lebron-james-team-usa-g.jpg" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/2024-olympics-mens-basketball-schedule-standings-scores-live-stream-how-to-watch-team-usa-more-in-paris/">
+                                    2024 Olympics men's basketball schedule, standings
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    Sam Quinn
+                                                                • 2 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
+            <a href="/olympics/news/2024-paris-olympics-swimming-caeleb-dressel-falls-short-in-50m-freestyle-regan-smith-earns-third-silver/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="regan-smith-silver.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/02/9030e05a-2de8-4f45-8a0f-f8db6d52e2ce/thumbnail/160x160/e0dfab7271921ce699a6bf74a27c9d24/caeleb-dressel-prerace.jpg" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/2024-paris-olympics-swimming-caeleb-dressel-falls-short-in-50m-freestyle-regan-smith-earns-third-silver/">
+                                    Dressel fails to medal in 50m final; Smith earns silver
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    Chris Bengel
+                                                                • 2 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
             <a href="/olympics/news/usa-soccers-men-might-be-out-of-the-2024-paris-olympics-but-that-doesnt-make-the-tournament-a-failure/" class="LatestNewsBox-imageUrl">
                                                 <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="untitled-design-2024-08-02t180751-037.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/02/2a8974a6-d4ee-4e99-b293-fe3b2f6715c7/thumbnail/160x160/a4f10c2fea061cac357f689da512969f/untitled-design-2024-08-02t180751-037.png" src="" height="160" width="160"></figure>
                     </a>
@@ -1848,90 +1932,6 @@
                             <h5 class="LatestNewsBox-itemInfo">
                                                                     Matt Norlander
                                                                 • 5 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/usa-basketball-vs-puerto-rico-five-things-to-know-as-americans-look-for-third-straight-win-at-2024-olympics/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="anthony-edwards-team-usa-g.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/02/22c11e8d-ee17-4505-a781-445381f6f70e/thumbnail/160x160/454666aa4a0aef7aece12e4c1d4b9c1c/anthony-edwards-team-usa-g.jpg" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/usa-basketball-vs-puerto-rico-five-things-to-know-as-americans-look-for-third-straight-win-at-2024-olympics/">
-                                    USA Basketball vs. Puerto Rico: Five things to know
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Sam Quinn
-                                                                • 4 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/2024-olympics-mens-basketball-schedule-standings-scores-live-stream-how-to-watch-team-usa-more-in-paris/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="2024 USA Basketball Showcase - USA v Australia" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/01/bd3b96ba-e59f-4bd1-8412-8c23b23123f6/thumbnail/160x160/c417c362f757f1a9dafc515096b3ee54/lebron-james-team-usa-g.jpg" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/2024-olympics-mens-basketball-schedule-standings-scores-live-stream-how-to-watch-team-usa-more-in-paris/">
-                                    2024 Olympics men's basketball schedule, standings
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Sam Quinn
-                                                                • 2 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/team-usa-3x3-basketball-2024-paris-olympics-schedule-score-standings-live-stream-rules-explained/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="Olympics: Basketball 3x3-Men Pool-SRB vs USA" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/02/abdd4f19-6b07-45b1-8959-d0a39a8ed4f2/thumbnail/160x160/fb21a4f2f1e0074269322135091072fd/usa-3-hoops.jpg" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/team-usa-3x3-basketball-2024-paris-olympics-schedule-score-standings-live-stream-rules-explained/">
-                                    2024 Olympics Men's Basketball 3x3 rules, schedule
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Kyle Boone
-                                                                • 3 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/2024-olympics-angela-carini-issues-apology-to-imane-khelif-after-loss-sparked-gender-debate/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="khelif-carini.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/02/7773dbdc-e1ad-49cc-81b0-40fa0386b3e1/thumbnail/160x160/8aad6441ae54d426777b375de7433fe7/khelif-carini.jpg" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/2024-olympics-angela-carini-issues-apology-to-imane-khelif-after-loss-sparked-gender-debate/">
-                                    Carini issues apology to Khelif over hysteria
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Brent Brookhouse
-                                                                • 1 min read
                             </h5>
                         </div>
                     </div>
