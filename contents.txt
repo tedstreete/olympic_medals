@@ -321,7 +321,7 @@
                 
     	
     <script type="text/javascript">
-        var _utag_obj = {"isEnabled":true,"articleAuthorId":["73d2ab1f-1fd8-4927-ad62-87e88ca51107"],"articleAuthorName":["Zachary Pereles"],"articleId":"4127b3de-155f-44b5-b9c8-26c85fb66f6a","articlePubDate":"2024-07-26 15:24:24","articleTitle":"2024 Olympics medal count: Tracker for how many gold, silver, bronze medals USA, each country has won in Paris","articleType":"content_article_vembed:story","deviceType":"desktop","pageNum":1,"pageType":"stories","siteHier":["media","olympics","stories"],"siteSection":["media","olympics","","","stories",""],"siteType":"desktop web","topicId":["1a6353f0-049c-11e5-b0ea-005056a03fba"],"topicName":["olympics"],"userState":"not authenticated","userType":"anon","dwAccount":"cbsicbssportssite","dwHost":"dw.cbsi.com","siteId":175,"reportSuiteId":"cbsicbssportssite","bkSiteId":3344,"limit":4,"articleSequenceCount":"1","contentOrigin":"CBSSports.com Original","pageName":"\/olympics\/news\/2024-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-each-country-has-won-in-paris\/","taboolaFlag":"false","siteName":"cbssports","tealium":{"profile":"cbssportssite","env":"prod"},"brandPlatformId":"cbssports_site_desktop","isAvia":true};
+        var _utag_obj = {"isEnabled":true,"articleAuthorId":["73d2ab1f-1fd8-4927-ad62-87e88ca51107"],"articleAuthorName":["Zachary Pereles"],"articleId":"4127b3de-155f-44b5-b9c8-26c85fb66f6a","articlePubDate":"2024-07-26 15:24:24","articleTitle":"2024 Olympics medal count: Tracker for how many gold, silver, bronze medals USA, each country has won in Paris","articleType":"content_article_vembed:story","deviceType":"desktop","pageNum":1,"pageType":"stories","siteHier":["media","olympics","stories"],"siteSection":["media","olympics","","","stories",""],"siteType":"desktop web","topicId":["1a6353f0-049c-11e5-b0ea-005056a03fba"],"topicName":["olympics"],"userId":2567748,"userState":"authenticated","userType":"registered","dwAccount":"cbsicbssportssite","dwHost":"dw.cbsi.com","siteId":175,"reportSuiteId":"cbsicbssportssite","bkSiteId":3344,"limit":4,"articleSequenceCount":"1","contentOrigin":"CBSSports.com Original","pageName":"\/olympics\/news\/2024-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-each-country-has-won-in-paris\/","taboolaFlag":"false","siteName":"cbssports","tealium":{"profile":"cbssportssite","env":"prod"},"brandPlatformId":"cbssports_site_desktop","isAvia":true};
         _utag_obj.pageViewGuid = __window_vguid;
         var utag_data = _utag_obj;
     </script>
@@ -478,7 +478,7 @@
 </div>
 <meta itemprop="keywords" content="Olympics">
 <meta itemprop="url" content="https://www.cbssports.com/olympics/news/2024-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-each-country-has-won-in-paris/">
-<meta itemprop="datePublished" content="2024-08-03 11:52:00">
+<meta itemprop="datePublished" content="2024-08-03 16:24:00">
 <meta itemprop="thumbnailUrl" content="https://sportshub.cbsistatic.com/i/r/2024/08/01/c83f273a-2c09-4f10-b9f1-bc21209aa54e/thumbnail/1200x675/66de9b332f4adfdf1f0b372bbd7a53ed/gymnastics-all-around-medals-2024.png">
 <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
     <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
@@ -540,13 +540,13 @@
                             <div class="ArticleAuthor-time">
                                 
                 
-    <time class="TimeStamp" datetime="2024-08-03 11:52:00 UTC" data-component="dateTimeAgo" data-date-time-ago-options='{"day":"3","hour":"11","min":"52","month":"8","year":"2024","hideAfter24Hours":false}'>
+    <time class="TimeStamp" datetime="2024-08-03 16:24:00 UTC" data-component="dateTimeAgo" data-date-time-ago-options='{"day":"3","hour":"16","min":"24","month":"8","year":"2024","hideAfter24Hours":false}'>
                     
     Aug 3, 2024
                             <span>
                     at
                             
-    7:52 am ET</span></time>
+    12:24 pm ET</span></time>
                         <span class="ArticleAuthor-separator">
                 •
             </span>
@@ -674,28 +674,7 @@
         China
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">13</td><td class="TableBase-bodyTd">9</td><td class="TableBase-bodyTd">9</td><td class="TableBase-bodyTd">31</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
-            <img class=" is-lazy-image" alt="FRA" data-lazy="https://sports.cbsimg.net/fly/images/flags/FRA.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        FRA
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        France
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">11</td><td class="TableBase-bodyTd">13</td><td class="TableBase-bodyTd">13</td><td class="TableBase-bodyTd">37</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">15</td><td class="TableBase-bodyTd">11</td><td class="TableBase-bodyTd">9</td><td class="TableBase-bodyTd">35</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -716,28 +695,7 @@
         Australia
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">11</td><td class="TableBase-bodyTd">6</td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">22</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
-            <img class=" is-lazy-image" alt="GBR" data-lazy="https://sports.cbsimg.net/fly/images/flags/GBR.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        GBR
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        Great Britain
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">10</td><td class="TableBase-bodyTd">10</td><td class="TableBase-bodyTd">9</td><td class="TableBase-bodyTd">29</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">12</td><td class="TableBase-bodyTd">7</td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">24</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -758,7 +716,49 @@
         United States
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">9</td><td class="TableBase-bodyTd">18</td><td class="TableBase-bodyTd">17</td><td class="TableBase-bodyTd">44</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">11</td><td class="TableBase-bodyTd">20</td><td class="TableBase-bodyTd">20</td><td class="TableBase-bodyTd">51</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
+            <img class=" is-lazy-image" alt="FRA" data-lazy="https://sports.cbsimg.net/fly/images/flags/FRA.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        FRA
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        France
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">11</td><td class="TableBase-bodyTd">14</td><td class="TableBase-bodyTd">15</td><td class="TableBase-bodyTd">40</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
+            <img class=" is-lazy-image" alt="GBR" data-lazy="https://sports.cbsimg.net/fly/images/flags/GBR.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        GBR
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Great Britain
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">10</td><td class="TableBase-bodyTd">10</td><td class="TableBase-bodyTd">12</td><td class="TableBase-bodyTd">32</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -779,7 +779,7 @@
         South Korea
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">8</td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">4</td><td class="TableBase-bodyTd">17</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">9</td><td class="TableBase-bodyTd">6</td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">20</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -800,7 +800,7 @@
         Japan
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">8</td><td class="TableBase-bodyTd">4</td><td class="TableBase-bodyTd">6</td><td class="TableBase-bodyTd">18</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">8</td><td class="TableBase-bodyTd">4</td><td class="TableBase-bodyTd">8</td><td class="TableBase-bodyTd">20</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -821,7 +821,7 @@
         Italy
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">8</td><td class="TableBase-bodyTd">4</td><td class="TableBase-bodyTd">17</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">6</td><td class="TableBase-bodyTd">8</td><td class="TableBase-bodyTd">4</td><td class="TableBase-bodyTd">18</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -842,7 +842,28 @@
         Netherlands
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">4</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">12</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">4</td><td class="TableBase-bodyTd">4</td><td class="TableBase-bodyTd">13</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
+            <img class=" is-lazy-image" alt="GER" data-lazy="https://sports.cbsimg.net/fly/images/flags/DEU.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        GER
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Germany
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">4</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">9</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -872,27 +893,6 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
-            <img class=" is-lazy-image" alt="GER" data-lazy="https://sports.cbsimg.net/fly/images/flags/DEU.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        GER
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        Germany
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">8</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
             <img class=" is-lazy-image" alt="ROM" data-lazy="https://sports.cbsimg.net/fly/images/flags/ROM.svg" src="">
                     </div>
     
@@ -906,6 +906,27 @@
     </span>
 </div>
     </td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">7</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
+            <img class=" is-lazy-image" alt="EIR" data-lazy="https://sports.cbsimg.net/fly/images/flags/EIR.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        EIR
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Ireland
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">5</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -956,16 +977,16 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
-            <img class=" is-lazy-image" alt="HKG" data-lazy="https://sports.cbsimg.net/fly/images/flags/HKG.svg" src="">
+            <img class=" is-lazy-image" alt="BEL" data-lazy="https://sports.cbsimg.net/fly/images/flags/BEL.svg" src="">
                     </div>
     
 
     <span class="CountryFlagNameLockup-name--mobile">
-        HKG
+        BEL
     </span>
 
     <span class="CountryFlagNameLockup-name">
-        Hong Kong
+        Belgium
     </span>
 </div>
     </td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">4</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
@@ -977,16 +998,16 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
-            <img class=" is-lazy-image" alt="EIR" data-lazy="https://sports.cbsimg.net/fly/images/flags/EIR.svg" src="">
+            <img class=" is-lazy-image" alt="HKG" data-lazy="https://sports.cbsimg.net/fly/images/flags/HKG.svg" src="">
                     </div>
     
 
     <span class="CountryFlagNameLockup-name--mobile">
-        EIR
+        HKG
     </span>
 
     <span class="CountryFlagNameLockup-name">
-        Ireland
+        Hong Kong
     </span>
 </div>
     </td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">4</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
@@ -1052,7 +1073,28 @@
         Brazil
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">7</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">4</td><td class="TableBase-bodyTd">4</td><td class="TableBase-bodyTd">9</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
+            <img class=" is-lazy-image" alt="ISR" data-lazy="https://sports.cbsimg.net/fly/images/flags/ISR.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        ISR
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Israel
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">4</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">6</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -1145,6 +1187,27 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
+            <img class=" is-lazy-image" alt="KAZ" data-lazy="https://sports.cbsimg.net/fly/images/flags/KAZ.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        KAZ
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Kazakhstan
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">4</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
             <img class=" is-lazy-image" alt="RSA" data-lazy="https://sports.cbsimg.net/fly/images/flags/RSA.svg" src="">
                     </div>
     
@@ -1158,48 +1221,6 @@
     </span>
 </div>
     </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">4</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
-            <img class=" is-lazy-image" alt="BEL" data-lazy="https://sports.cbsimg.net/fly/images/flags/BEL.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        BEL
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        Belgium
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">3</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
-            <img class=" is-lazy-image" alt="KAZ" data-lazy="https://sports.cbsimg.net/fly/images/flags/KAZ.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        KAZ
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        Kazakhstan
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">3</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -1262,7 +1283,7 @@
         Guatemala
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">3</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">2</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -1302,6 +1323,27 @@
 
     <span class="CountryFlagNameLockup-name">
         Ecuador
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">1</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
+            <img class=" is-lazy-image" alt="PHI" data-lazy="https://sports.cbsimg.net/fly/images/flags/PHI.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        PHI
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Philippines
     </span>
 </div>
     </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">1</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
@@ -1368,27 +1410,6 @@
     </span>
 </div>
     </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">1</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
-            <img class=" is-lazy-image" alt="ISR" data-lazy="https://sports.cbsimg.net/fly/images/flags/ISR.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        ISR
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        Israel
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">3</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -1544,6 +1565,27 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
+            <img class=" is-lazy-image" alt="DEN" data-lazy="https://sports.cbsimg.net/fly/images/flags/DNK.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        DEN
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Denmark
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">1</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
             <img class=" is-lazy-image" alt="ETH" data-lazy="https://sports.cbsimg.net/fly/images/flags/ETH.svg" src="">
                     </div>
     
@@ -1680,6 +1722,27 @@
 
     <span class="CountryFlagNameLockup-name">
         Tajikistan
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">2</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
+            <img class=" is-lazy-image" alt="TPE" data-lazy="https://sports.cbsimg.net/fly/images/flags/TPE.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        TPE
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Chinese Taipei
     </span>
 </div>
     </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">2</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
@@ -1890,6 +1953,69 @@
                                                                                 
                                                         
                 
+            <a href="/olympics/news/uswnt-player-ratings-vs-japan-trinity-rodman-got-the-goal-team-usa-needed-at-the-2024-paris-olympics/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="untitled-design-2024-08-03t180952-145.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/03/4459f981-6806-4b81-bbff-9373e4e7dd90/thumbnail/160x160/16a5ffd5d0df896bfc1807a1fd0ac42a/untitled-design-2024-08-03t180952-145.png" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/uswnt-player-ratings-vs-japan-trinity-rodman-got-the-goal-team-usa-needed-at-the-2024-paris-olympics/">
+                                    USWNT player ratings: Rodman carries Team USA to semis
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    Sandra Herrera
+                                                                • 3 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
+            <a href="/olympics/news/2024-olympics-simone-biles-adds-seventh-gold-medal-to-sterling-resume-as-jade-carey-wins-bronze-on-vault/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="simone-biles-gold-7-us-g.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/03/54520403-5dd4-47a0-8d66-e828357ea720/thumbnail/160x160/d8cd83d73c6c1447e2c064307a3c9925/simone-biles-gold-7-us-g.png" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/2024-olympics-simone-biles-adds-seventh-gold-medal-to-sterling-resume-as-jade-carey-wins-bronze-on-vault/">
+                                    Biles wins seventh gold, Carey adds bronze on vault
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    Lyle Fitzsimmons
+                                                                • 2 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
+            <a href="/olympics/news/team-usa-vs-germany-prediction-odds-time-2024-paris-olympics-womens-basketball-picks-by-proven-expert/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="giannis-greece-getty-1.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/03/051fda0f-4931-4dd1-84fc-a27e8db63465/thumbnail/160x160/75cd7fcb2a6d84714536cbf975b334f9/aja-wilson-usa-getty.jpg" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/team-usa-vs-germany-prediction-odds-time-2024-paris-olympics-womens-basketball-picks-by-proven-expert/">
+                                    USA vs. Germany odds, Olympic women's basketball picks
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    CBS Sports Staff
+                                                                • 3 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
             <a href="/olympics/news/2024-paris-olympics-daily-schedule-when-to-watch-simone-biles-katie-ledecky-caeleb-dressel-and-team-usa/" class="LatestNewsBox-imageUrl">
                                                 <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="olympics-rings-louvre-g.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/02/dbea1ed5-58d4-4eff-819c-67f3225f5acc/thumbnail/160x160/560768ceb3139a5b57ecf2245ca7277f/olympics-rings-louvre-g.png" src="" height="160" width="160"></figure>
                     </a>
@@ -1945,69 +2071,6 @@
                             <h5 class="LatestNewsBox-itemInfo">
                                                                     Jordan Pagkalinawan
                                                                 • 3 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/2024-paris-olympics-carlos-arroyo-reflects-on-puerto-ricos-stunning-upset-over-usa-two-decades-ago/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="carlos-arroyo-puerto-rico-2004-g.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/07/26/1b3fd19b-9569-4ac2-b7a1-19fb48437cd9/thumbnail/160x160/6579d9e04b02ce9a23a8649b1bfb72ac/carlos-arroyo-puerto-rico-2004-g.jpg" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/2024-paris-olympics-carlos-arroyo-reflects-on-puerto-ricos-stunning-upset-over-usa-two-decades-ago/">
-                                    Can Puerto Rico pull another stunning upset over USA?
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Jasmyn Wimbish
-                                                                • 7 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/2024-olympics-mens-basketball-schedule-standings-scores-live-stream-how-to-watch-team-usa-more-in-paris/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="2024 USA Basketball Showcase - USA v Australia" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/01/bd3b96ba-e59f-4bd1-8412-8c23b23123f6/thumbnail/160x160/c417c362f757f1a9dafc515096b3ee54/lebron-james-team-usa-g.jpg" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/2024-olympics-mens-basketball-schedule-standings-scores-live-stream-how-to-watch-team-usa-more-in-paris/">
-                                    2024 Olympics men's basketball schedule, standings
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Sam Quinn
-                                                                • 2 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/2024-paris-olympics-mens-basketball-scores-germany-topples-france-as-six-of-eight-quarterfinalists-confirmed/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="bruno-caboclo-brazil-olympics-g.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/02/584bc752-a9b5-49a0-a55a-2ebd1305352f/thumbnail/160x160/825122a37b3b6fac3521fb80d2795367/dennis-schroder-germany-olympics-g.jpg" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/2024-paris-olympics-mens-basketball-scores-germany-topples-france-as-six-of-eight-quarterfinalists-confirmed/">
-                                    Olympic men's basketball: 6 quarterfinalists confirmed
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    James Herbert
-                                                                • 13 min read
                             </h5>
                         </div>
                     </div>
@@ -2522,53 +2585,6 @@
                                         "moduleLocation": "article-9",
                                         "moduleAction": "click-hyperlink",
                                         "moduleCampaign": "infinite scroll"
-                                    }' data-url="/olympics/news/paris-olympics-2024-turkish-shooter-yusuf-dikec-goes-viral-on-social-media-after-understated-shooting-pose/">
-                                                            <article class="NewsFeed-container">
-                                    <div class="NewsFeed-imageCol NewsFeed-imageCol--medium">
-                                                                                    <a href="/olympics/news/paris-olympics-2024-turkish-shooter-yusuf-dikec-goes-viral-on-social-media-after-understated-shooting-pose/">
-                                                                                                                                                                                                                                        
-                                                
-                                                <div class="NewsFeed-image NewsFeed-image--medium">
-                                                                <figure class=" img"><img class=" " alt="" src="https://sportshub.cbsistatic.com/i/r/2024/08/01/aa79e659-6e1f-465c-9b26-a82710dbf29d/thumbnail/140x140/764bb511d231b7545e635127750c611e/gettyimages-2164330058-1-1.jpg" height="140" width="140"></figure>
-                                                                                                            <div class="NewsFeed-progressImageOverlay"></div>
-                                                                                                    </div>
-                                                                                                                                </a>
-                                                                            </div>
-
-                                    <div class="NewsFeed-content NewsFeed-content--medium">
-                                                                                    <h3 class="NewsFeed-title NewsFeed-title--medium">
-                                                                                                                                                                                                            
-                        <a href="/olympics/news/paris-olympics-2024-turkish-shooter-yusuf-dikec-goes-viral-on-social-media-after-understated-shooting-pose/" class="">Turkish shooter goes viral for understated pose</a>
-            
-                                                                                                                                                </h3>
-                                                                                
-                                        <div class="NewsFeed-byline">
-                                            
-                                                                                            <span class="NewsFeed-author NewsFeed-bylineItem">
-                                                    Steven Taranto
-                                                </span>
-                                            
-                                            
-                                                                                            <span class="NewsFeed-date NewsFeed-bylineItem">
-                                                     1 min read
-                                                </span>
-                                                                                    </div>
-                                                                                    <div class="NewsFeed-progressBar" data-article-id="8">
-                                                <div class="NewsFeed-progressBarSlider"></div>
-                                            </div>
-                                                                            </div>
-                                </article>
-                                                    </li>
-                                                                                                                                                                                                                                                                                                                                
-                        
-                                                
-                                                                                                                                                                                                                    
-                        
-                        <li class="NewsFeed-item " data-article-id="9" data-reading-list-item="9" data-track-action='{
-                                        "moduleName": "sideRail-suggestedContent",
-                                        "moduleLocation": "article-10",
-                                        "moduleAction": "click-hyperlink",
-                                        "moduleCampaign": "infinite scroll"
                                     }' data-url="/olympics/news/winter-olympics-2018-five-questions-for-team-usa-bobsledder-elana-meyers-taylor/">
                                                             <article class="NewsFeed-container">
                                     <div class="NewsFeed-imageCol NewsFeed-imageCol--medium">
@@ -2598,6 +2614,53 @@
                                             
                                                                                             <span class="NewsFeed-date NewsFeed-bylineItem">
                                                      2 min read
+                                                </span>
+                                                                                    </div>
+                                                                                    <div class="NewsFeed-progressBar" data-article-id="8">
+                                                <div class="NewsFeed-progressBarSlider"></div>
+                                            </div>
+                                                                            </div>
+                                </article>
+                                                    </li>
+                                                                                                                                                                                                                                                                                                                                
+                        
+                                                
+                                                                                                                                                                                                                    
+                        
+                        <li class="NewsFeed-item " data-article-id="9" data-reading-list-item="9" data-track-action='{
+                                        "moduleName": "sideRail-suggestedContent",
+                                        "moduleLocation": "article-10",
+                                        "moduleAction": "click-hyperlink",
+                                        "moduleCampaign": "infinite scroll"
+                                    }' data-url="/olympics/news/winter-olympics-lindsey-vonn-scatters-grandfathers-ashes-near-downhill-course/">
+                                                            <article class="NewsFeed-container">
+                                    <div class="NewsFeed-imageCol NewsFeed-imageCol--medium">
+                                                                                    <a href="/olympics/news/winter-olympics-lindsey-vonn-scatters-grandfathers-ashes-near-downhill-course/">
+                                                                                                                                                                                                                                        
+                                                
+                                                <div class="NewsFeed-image NewsFeed-image--medium">
+                                                                <figure class=" img"><img class=" " alt="" src="https://sportshub.cbsistatic.com/i/r/2018/02/21/40e3ba86-c12c-4e28-a2d2-7c1625e97b2e/thumbnail/140x140/39424a1cf081d9d9b5ee4b2f1f371929/lindsey-vonn.jpg" height="140" width="140"></figure>
+                                                                                                            <div class="NewsFeed-progressImageOverlay"></div>
+                                                                                                    </div>
+                                                                                                                                </a>
+                                                                            </div>
+
+                                    <div class="NewsFeed-content NewsFeed-content--medium">
+                                                                                    <h3 class="NewsFeed-title NewsFeed-title--medium">
+                                                                                                                                                                                                            
+                        <a href="/olympics/news/winter-olympics-lindsey-vonn-scatters-grandfathers-ashes-near-downhill-course/" class="">Vonn scatters grandfather's ashes</a>
+            
+                                                                                                                                                </h3>
+                                                                                
+                                        <div class="NewsFeed-byline">
+                                            
+                                                                                            <span class="NewsFeed-author NewsFeed-bylineItem">
+                                                    Kevin Skiver
+                                                </span>
+                                            
+                                            
+                                                                                            <span class="NewsFeed-date NewsFeed-bylineItem">
+                                                     1 min read
                                                 </span>
                                                                                     </div>
                                                                                     <div class="NewsFeed-progressBar" data-article-id="9">
