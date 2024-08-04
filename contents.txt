@@ -2223,6 +2223,27 @@
                                                                                 
                                                         
                 
+            <a href="/olympics/news/2024-paris-olympics-odds-predictions-best-bets-for-monday-august-5-expert-reveals-top-picks/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="AS Monaco v RB Leipzig - UEFA Champions League" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/04/f7690038-47fa-4f8f-9713-0cd53d01d275/thumbnail/160x160/be859872d7f41a746acb0506f379a8af/u-s-mens-volleyball-getty-images.jpg" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/2024-paris-olympics-odds-predictions-best-bets-for-monday-august-5-expert-reveals-top-picks/">
+                                    2024 Olympics odds, picks, predictions for Aug. 5
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    CBS Sports Staff
+                                                                • 2 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
             <a href="/olympics/news/2024-olympics-noah-lyles-delivers-on-promise-with-first-100-meter-gold-medal-for-united-states-in-20-years/" class="LatestNewsBox-imageUrl">
                                                 <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="noah-lyles-100-usa-g.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/04/7bd3c31a-f9ca-4e22-8bf2-d898975f5a6c/thumbnail/160x160/376dc8f9271b3ee236674eae960b65b8/noah-lyles-flag-point-usa-g.jpg" src="" height="160" width="160"></figure>
                     </a>
@@ -2319,27 +2340,6 @@
                             </h4>
                             <h5 class="LatestNewsBox-itemInfo">
                                                                     James Herbert
-                                                                • 3 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/soccer/news/where-to-watch-france-vs-egypt-mens-olympic-soccer-semifinals-live-online-tv-prediction-pick-odds/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="france-4.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/04/2453acfd-8136-4530-90ee-7d1fdd0aad7e/thumbnail/160x160/37d6c4daa2719cea2818f297b82bed3c/france-4.jpg" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/soccer/news/where-to-watch-france-vs-egypt-mens-olympic-soccer-semifinals-live-online-tv-prediction-pick-odds/">
-                                    What to know about France vs. Egypt
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Jonathan Johnson
                                                                 • 3 min read
                             </h5>
                         </div>
