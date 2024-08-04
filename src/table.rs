@@ -35,6 +35,7 @@ pub fn assemble_table(
         }
         let gdp = country_data.get(country_code).unwrap().gdp;
         let population = country_data.get(country_code).unwrap().population;
+        let total = country.gold + country.silver + country.bronze;
         let medals_record = MedalsRecord {
             country_code: country.country_code.clone(),
             country_name: country_data.get(country_code).unwrap().country_name.clone(),
@@ -44,9 +45,9 @@ pub fn assemble_table(
             gold: country.gold,
             silver: country.silver,
             bronze: country.bronze,
-            total: country.total,
-            gdp_per_medal: gdp / country.total as u64,
-            gdp_per_capita_per_medal: (gdp / population) / country.total as u64,
+            total,
+            gdp_per_medal: gdp / total as u64,
+            gdp_per_capita_per_medal: (gdp / population) / total as u64,
         };
         medals_table.push(medals_record);
     }
@@ -83,6 +84,9 @@ fn fix_country_code(code: &str) -> &str {
         "GUA" => "GTM",
         "GRE" => "GRC",
         "POR" => "PRT",
+        "PHI" => "PHL",
+        "DEN" => "DNK",
+        "GRN" => "GRD",
         _ => code,
     }
 }
