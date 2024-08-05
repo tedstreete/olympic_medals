@@ -2244,6 +2244,27 @@
                                                                                 
                                                         
                 
+            <a href="/olympics/news/golf-tennis-at-2024-paris-olympics-exemplify-thrill-of-victory-agony-of-defeat-when-playing-for-your-country/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="scottie-scheffler-fist-pump-olympics-g.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/05/5822316a-a0c0-4bd4-a31a-bb8c160227d3/thumbnail/160x160/f44f6cd2f0a6028450e61d8376031f2a/scottie-scheffler-fist-pump-olympics-g.jpg" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/golf-tennis-at-2024-paris-olympics-exemplify-thrill-of-victory-agony-of-defeat-when-playing-for-your-country/">
+                                    Olympic golf, tennis embody rush of playing for country
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    Kyle Porter
+                                                                • 5 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
             <a href="/olympics/news/usa-basketball-if-stephen-curry-continues-to-struggle-how-long-can-steve-kerr-keep-playing-him/" class="LatestNewsBox-imageUrl">
                                                 <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="steph-curry-team-usa-g.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/02/6bdeccd8-9503-4726-8fb2-3f7adae9c16e/thumbnail/160x160/0795159d1c81c3945b56e0e913ae6fd5/steph-curry-team-usa-g.jpg" src="" height="160" width="160"></figure>
                     </a>
@@ -2336,27 +2357,6 @@
                             <h4 class="LatestNewsBox-itemTitle">
                                 <a href="/olympics/news/2024-paris-olympics-mens-basketball-bracket-schedule-no-1-seed-team-usa-draws-brazil-in-quarterfinals/">
                                     Olympics men's quarterfinal bracket: USA draws Brazil
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Sam Quinn
-                                                                • 2 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/2024-olympics-mens-basketball-schedule-standings-scores-live-stream-how-to-watch-team-usa-more-in-paris/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="2024 USA Basketball Showcase - USA v Australia" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/03/dc641208-b096-412a-aa40-afda393fb7ab/thumbnail/160x160/354697486b561d23e5523633c2ea4b72/joel-embiid-team-usa-g.jpg" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/2024-olympics-mens-basketball-schedule-standings-scores-live-stream-how-to-watch-team-usa-more-in-paris/">
-                                    2024 Olympics men's basketball schedule, standings
                                 </a>
                             </h4>
                             <h5 class="LatestNewsBox-itemInfo">
