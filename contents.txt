@@ -2289,6 +2289,27 @@
                                                                                 
                                                         
                 
+            <a href="/olympics/news/2024-paris-olympics-mens-basketball-power-rankings-team-usa-still-no-1-as-canada-germany-looking-for-upset/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="anthony-edwards-team-usa-serbia-g.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/05/ae25900f-b068-4f1f-8d1e-41ea84c3b3c2/thumbnail/160x160/b9953af9fdf30c6584e33bcf35bd24e3/lebron-james-team-usa-g.jpg" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/2024-paris-olympics-mens-basketball-power-rankings-team-usa-still-no-1-as-canada-germany-looking-for-upset/">
+                                    Olympics men's basketball power rankings: USA on top
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    Jasmyn Wimbish
+                                                                • 6 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
             <a href="/olympics/news/team-usa-3x3-basketball-mens-squad-fails-to-advance-past-pool-play-at-2024-paris-olympics/" class="LatestNewsBox-imageUrl">
                                                 <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="Olympics: Basketball 3x3-Men Pool-SRB vs USA" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/04/e74b447f-e974-417c-acb6-b24d46e1fabb/thumbnail/160x160/ee731a923ae0b7f3c75aed6e6f53edd4/usa-netherlands.jpg" src="" height="160" width="160"></figure>
                     </a>
@@ -2386,27 +2407,6 @@
                             <h5 class="LatestNewsBox-itemInfo">
                                                                     CBS Sports Staff
                                                                 • 3 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/former-nba-player-chase-budinger-not-ruling-out-beach-volleyball-return-for-team-usa-at-2028-olympics-in-l-a/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="chase-budinger-team-usa-volleyball-g.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/05/ee03f00e-5435-4bf9-a0d5-50b1e8fed746/thumbnail/160x160/08edf8399a984aaaf1f7b74320e37fbe/chase-budinger-team-usa-volleyball-g.jpg" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/former-nba-player-chase-budinger-not-ruling-out-beach-volleyball-return-for-team-usa-at-2028-olympics-in-l-a/">
-                                    Ex-NBA player may return in 2028 for USA volleyball
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Jasmyn Wimbish
-                                                                • 2 min read
                             </h5>
                         </div>
                     </div>
