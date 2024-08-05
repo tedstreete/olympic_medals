@@ -2244,6 +2244,27 @@
                                                                                 
                                                         
                 
+            <a href="/soccer/news/2024-paris-olympic-mens-soccer-scores-spain-fight-back-and-add-gold-medal-match-to-euro-2024-triumph/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="untitled-design-2024-08-05t203613-620.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/05/41a522ab-af6a-4a17-8ea5-31bbc9ec7e0f/thumbnail/160x160/522e4444ce6ab9bbd0ffc0f14e344f9b/untitled-design-2024-08-05t203613-620.png" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/soccer/news/2024-paris-olympic-mens-soccer-scores-spain-fight-back-and-add-gold-medal-match-to-euro-2024-triumph/">
+                                    Olympic men's semifinals: Spain to play for gold
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    Jonathan Johnson
+                                                                • 1 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
             <a href="/olympics/news/uswnt-vs-germany-prediction-odds-time-2024-paris-olympics-picks-womens-soccer-bets-by-proven-expert/" class="LatestNewsBox-imageUrl">
                                                 <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="robert-lewandowski-barcelona-getty-images.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/05/de150f96-7e84-4451-ad2e-fad3e2f78645/thumbnail/160x160/e68fc40a8a41677687e9cd49db270b0c/trinityrodman-olympics-getty.jpg" src="" height="160" width="160"></figure>
                     </a>
@@ -2341,27 +2362,6 @@
                             <h5 class="LatestNewsBox-itemInfo">
                                                                     Kyle Porter
                                                                 • 5 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/usa-basketball-if-stephen-curry-continues-to-struggle-how-long-can-steve-kerr-keep-playing-him/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="steph-curry-team-usa-g.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/02/6bdeccd8-9503-4726-8fb2-3f7adae9c16e/thumbnail/160x160/0795159d1c81c3945b56e0e913ae6fd5/steph-curry-team-usa-g.jpg" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/usa-basketball-if-stephen-curry-continues-to-struggle-how-long-can-steve-kerr-keep-playing-him/">
-                                    Curry's struggles with Team USA puts Kerr in tight spot
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Brad Botkin
-                                                                • 7 min read
                             </h5>
                         </div>
                     </div>
