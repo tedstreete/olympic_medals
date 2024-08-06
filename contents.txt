@@ -468,7 +468,7 @@
 
 
     
-<meta itemprop="mainEntityOfPage" content="https://www.cbssports.com//olympics/news/2024-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-nations-are-winning-in-paris/">
+<meta itemprop="mainEntityOfPage" content="http://www.cbssports.com//olympics/news/2024-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-nations-are-winning-in-paris/">
 <meta itemprop="headline" content="2024 Olympics medal count: Tracker for how many gold, silver, bronze medals USA, nations are winning in Paris">
 <meta itemprop="description" content="Olympic medal count for the 2024 Paris Games being updated across each day of competition">
 <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
@@ -477,7 +477,7 @@
     <meta itemprop="height" content="675">
 </div>
 <meta itemprop="keywords" content="Olympics">
-<meta itemprop="url" content="https://www.cbssports.com/olympics/news/2024-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-nations-are-winning-in-paris/">
+<meta itemprop="url" content="http://www.cbssports.com/olympics/news/2024-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-nations-are-winning-in-paris/">
 <meta itemprop="datePublished" content="2024-08-06 01:44:00">
 <meta itemprop="thumbnailUrl" content="https://sportshub.cbsistatic.com/i/r/2024/08/05/224a37ec-ef21-40bd-89f6-cde021d11158/thumbnail/1200x675/561e6f4a68baec5d9bfd8e68c7ea6810/untitled-design-2024-08-05t135408-239.png">
 <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
@@ -2289,6 +2289,27 @@
                                                                                 
                                                         
                 
+            <a href="/olympics/news/2024-paris-olympics-odds-predictions-for-tuesday-august-6-expert-picks-for-basketball-volleyball-more/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="AS Monaco v RB Leipzig - UEFA Champions League" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/06/c2f12c7a-53e8-4567-9b55-162b2342a6a7/thumbnail/160x160/4aad52a978931936636f667d95ebc563/bruno-caboclo-brazil-getty-images.jpg" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/2024-paris-olympics-odds-predictions-for-tuesday-august-6-expert-picks-for-basketball-volleyball-more/">
+                                    2024 Paris Olympics odds, predictions for August 6
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    CBS Sports Staff
+                                                                • 2 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
             <a href="/olympics/news/team-usa-vs-brazil-prediction-odds-start-time-2024-paris-olympics-mens-basketball-picks-by-proven-expert/" class="LatestNewsBox-imageUrl">
                                                 <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="giannis-greece-getty-1.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/05/2309b1fb-d6f9-4935-ad2b-a9f81765ace8/thumbnail/160x160/0635f297d41b076b954fd73476c5a1c1/lebron-james-usa-getty-images.jpg" src="" height="160" width="160"></figure>
                     </a>
@@ -2331,39 +2352,18 @@
                                                                                 
                                                         
                 
-            <a href="/olympics/news/2024-olympics-mens-basketball-team-usa-vs-brazil-best-bets/" class="LatestNewsBox-imageUrl">
+            <a href="/olympics/news/2024-olympics-mens-basketball-team-usa-vs-brazil-best-bets-with-low-scoring-game-on-the-line/" class="LatestNewsBox-imageUrl">
                                                 <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="lebron-kd-ad-team-usa-g.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/03/52dcab05-77de-4d4d-978d-0722d93326e4/thumbnail/160x160/f8769fdfe4da8fa9c6ad4981a44bcb24/lebron-james-olympics-g.jpg" src="" height="160" width="160"></figure>
                     </a>
     
                         <div class="LatestNewsBox-textGroup">
                             <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/2024-olympics-mens-basketball-team-usa-vs-brazil-best-bets/">
+                                <a href="/olympics/news/2024-olympics-mens-basketball-team-usa-vs-brazil-best-bets-with-low-scoring-game-on-the-line/">
                                     2024 Olympics Men's Basketball: USA-Brazil best bets
                                 </a>
                             </h4>
                             <h5 class="LatestNewsBox-itemInfo">
                                                                     Sam Quinn
-                                                                • 2 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/2024-paris-olympics-odds-predictions-bets-for-tuesday-august-6-expert-reveals-top-beach-volleyball-picks/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="AS Monaco v RB Leipzig - UEFA Champions League" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/04/8c7ea440-39cc-4ad2-996a-1ec90779daa0/thumbnail/160x160/34336ceed6b76381e36607c436f291bd/noah-lyles-usa-getty.jpg" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/2024-paris-olympics-odds-predictions-bets-for-tuesday-august-6-expert-reveals-top-beach-volleyball-picks/">
-                                    2024 Olympics odds, picks, predictions for August 6
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    CBS Sports Staff
                                                                 • 2 min read
                             </h5>
                         </div>
