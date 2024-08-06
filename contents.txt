@@ -2289,6 +2289,27 @@
                                                                                 
                                                         
                 
+            <a href="/olympics/news/2024-paris-olympics-how-kendall-ellis-unique-path-to-france-had-her-going-from-the-loo-to-the-louvre/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="untitled-design-2024-08-06t001509-295.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/06/22a916cc-9c1f-4ac1-902c-8cea3225607c/thumbnail/160x160/9b7dff9d40a5ce2abacb1850c079a557/untitled-design-2024-08-06t001509-295.png" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/2024-paris-olympics-how-kendall-ellis-unique-path-to-france-had-her-going-from-the-loo-to-the-louvre/">
+                                    From the loo to the Louvre: One runner's path to Paris
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    Isabel Gonzalez
+                                                                • 3 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
             <a href="/olympics/news/2024-olympics-mens-basketball-team-usa-vs-brazil-best-bets/" class="LatestNewsBox-imageUrl">
                                                 <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="lebron-kd-ad-team-usa-g.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/03/52dcab05-77de-4d4d-978d-0722d93326e4/thumbnail/160x160/f8769fdfe4da8fa9c6ad4981a44bcb24/lebron-james-olympics-g.jpg" src="" height="160" width="160"></figure>
                     </a>
@@ -2386,27 +2407,6 @@
                             <h5 class="LatestNewsBox-itemInfo">
                                                                     Jack Maloney
                                                                 • 4 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/2024-paris-olympics-mens-basketball-power-rankings-team-usa-still-no-1-as-canada-germany-looking-for-upset/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="anthony-edwards-team-usa-serbia-g.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/05/ae25900f-b068-4f1f-8d1e-41ea84c3b3c2/thumbnail/160x160/b9953af9fdf30c6584e33bcf35bd24e3/lebron-james-team-usa-g.jpg" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/2024-paris-olympics-mens-basketball-power-rankings-team-usa-still-no-1-as-canada-germany-looking-for-upset/">
-                                    Olympics men's basketball power rankings: USA on top
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Jasmyn Wimbish
-                                                                • 6 min read
                             </h5>
                         </div>
                     </div>
