@@ -662,6 +662,27 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
+            <img class=" is-lazy-image" alt="CHN" data-lazy="https://sports.cbsimg.net/fly/images/flags/CHN.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        CHN
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        China
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">22</td><td class="TableBase-bodyTd">19</td><td class="TableBase-bodyTd">14</td><td class="TableBase-bodyTd">55</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
             <img class=" is-lazy-image" alt="USA" data-lazy="https://sports.cbsimg.net/fly/images/flags/USA.svg" src="">
                     </div>
     
@@ -675,27 +696,6 @@
     </span>
 </div>
     </td><td class="TableBase-bodyTd">21</td><td class="TableBase-bodyTd">30</td><td class="TableBase-bodyTd">28</td><td class="TableBase-bodyTd">79</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
-            <img class=" is-lazy-image" alt="CHN" data-lazy="https://sports.cbsimg.net/fly/images/flags/CHN.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        CHN
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        China
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">21</td><td class="TableBase-bodyTd">18</td><td class="TableBase-bodyTd">14</td><td class="TableBase-bodyTd">53</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -830,27 +830,6 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
-            <img class=" is-lazy-image" alt="NED" data-lazy="https://sports.cbsimg.net/fly/images/flags/NLD.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        NED
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        Netherlands
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">7</td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">17</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
             <img class=" is-lazy-image" alt="GER" data-lazy="https://sports.cbsimg.net/fly/images/flags/DEU.svg" src="">
                     </div>
     
@@ -863,7 +842,28 @@
         Germany
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">7</td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">4</td><td class="TableBase-bodyTd">16</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">8</td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">4</td><td class="TableBase-bodyTd">17</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
+            <img class=" is-lazy-image" alt="NED" data-lazy="https://sports.cbsimg.net/fly/images/flags/NLD.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        NED
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Netherlands
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">7</td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">6</td><td class="TableBase-bodyTd">18</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -1208,6 +1208,27 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
+            <img class=" is-lazy-image" alt="SUI" data-lazy="https://sports.cbsimg.net/fly/images/flags/SUI.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        SUI
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Switzerland
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">4</td><td class="TableBase-bodyTd">7</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
             <img class=" is-lazy-image" alt="GEO" data-lazy="https://sports.cbsimg.net/fly/images/flags/GEO.svg" src="">
                     </div>
     
@@ -1221,27 +1242,6 @@
     </span>
 </div>
     </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">4</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
-            <img class=" is-lazy-image" alt="SUI" data-lazy="https://sports.cbsimg.net/fly/images/flags/SUI.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        SUI
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        Switzerland
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">4</td><td class="TableBase-bodyTd">6</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -1607,6 +1607,27 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
+            <img class=" is-lazy-image" alt="PRK" data-lazy="https://sports.cbsimg.net/fly/images/flags/PRK.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        PRK
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        North Korea
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">4</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
             <img class=" is-lazy-image" alt="JAM" data-lazy="https://sports.cbsimg.net/fly/images/flags/JAM.svg" src="">
                     </div>
     
@@ -1638,27 +1659,6 @@
 
     <span class="CountryFlagNameLockup-name">
         Mexico
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">3</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
-            <img class=" is-lazy-image" alt="PRK" data-lazy="https://sports.cbsimg.net/fly/images/flags/PRK.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        PRK
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        North Korea
     </span>
 </div>
     </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">3</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
@@ -2289,6 +2289,48 @@
                                                                                 
                                                         
                 
+            <a href="/olympics/news/uswnt-vs-germany-prediction-odds-time-2024-paris-olympics-picks-womens-soccer-bets-by-proven-expert/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="robert-lewandowski-barcelona-getty-images.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/07/25/20096c28-8c6b-4dbe-b8f4-980896e5e33e/thumbnail/160x160/e37069ee4ce4d62b0cbe8c749bcc1b9b/mallory-swanson-uswnt-getty.jpg" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/uswnt-vs-germany-prediction-odds-time-2024-paris-olympics-picks-womens-soccer-bets-by-proven-expert/">
+                                    USWNT vs. Germany odds, Olympic women's soccer picks
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    CBS Sports Staff
+                                                                • 3 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
+            <a href="/olympics/news/2024-olympics-mens-basketball-team-usa-vs-brazil-best-bets-with-low-scoring-game-on-the-line/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="lebron-kd-ad-team-usa-g.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/03/52dcab05-77de-4d4d-978d-0722d93326e4/thumbnail/160x160/f8769fdfe4da8fa9c6ad4981a44bcb24/lebron-james-olympics-g.jpg" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/2024-olympics-mens-basketball-team-usa-vs-brazil-best-bets-with-low-scoring-game-on-the-line/">
+                                    2024 Olympics Men's Basketball: USA-Brazil best bets
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    Sam Quinn
+                                                                • 2 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
             <a href="/olympics/news/previewing-big-usa-mens-basketball-uswnt-games-is-a-brandon-aiyuk-trade-imminent/" class="LatestNewsBox-imageUrl">
                                                 <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="untitled-design-2024-07-29t025416-174.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/07/29/70ec1137-3fa7-4308-b6e8-093aac3e5ae6/thumbnail/160x160/bd972c6a34c0b0478a7c38a51be7b548/untitled-design-2024-07-29t025416-174.png" src="" height="160" width="160"></figure>
                     </a>
@@ -2365,48 +2407,6 @@
                             <h5 class="LatestNewsBox-itemInfo">
                                                                     Isabel Gonzalez
                                                                 • 3 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/2024-olympics-mens-basketball-team-usa-vs-brazil-best-bets-with-low-scoring-game-on-the-line/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="lebron-kd-ad-team-usa-g.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/03/52dcab05-77de-4d4d-978d-0722d93326e4/thumbnail/160x160/f8769fdfe4da8fa9c6ad4981a44bcb24/lebron-james-olympics-g.jpg" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/2024-olympics-mens-basketball-team-usa-vs-brazil-best-bets-with-low-scoring-game-on-the-line/">
-                                    2024 Olympics Men's Basketball: USA-Brazil best bets
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Sam Quinn
-                                                                • 2 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/brazil-vs-spain-prediction-odds-time-2024-olympics-womens-soccer-picks-best-bets-from-proven-expert/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="mohamed-salah-approved-liverpool-getty-images.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/05/f6d2318c-539a-4704-b0ff-2b997c209428/thumbnail/160x160/9c14e3732d96eb2ff25628e8d86dd0b0/tarciane-brazil-olympics-getty.jpg" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/brazil-vs-spain-prediction-odds-time-2024-olympics-womens-soccer-picks-best-bets-from-proven-expert/">
-                                    Brazil vs. Spain odds, 2024 Olympic soccer picks
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    CBS Sports Staff
-                                                                • 2 min read
                             </h5>
                         </div>
                     </div>
