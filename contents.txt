@@ -468,7 +468,7 @@
 
 
     
-<meta itemprop="mainEntityOfPage" content="http://www.cbssports.com//olympics/news/2024-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-nations-are-winning-in-paris/">
+<meta itemprop="mainEntityOfPage" content="https://www.cbssports.com//olympics/news/2024-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-nations-are-winning-in-paris/">
 <meta itemprop="headline" content="2024 Olympics medal count: Tracker for how many gold, silver, bronze medals USA, nations are winning in Paris">
 <meta itemprop="description" content="Olympic medal count for the 2024 Paris Games being updated across each day of competition">
 <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
@@ -477,7 +477,7 @@
     <meta itemprop="height" content="675">
 </div>
 <meta itemprop="keywords" content="Olympics">
-<meta itemprop="url" content="http://www.cbssports.com/olympics/news/2024-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-nations-are-winning-in-paris/">
+<meta itemprop="url" content="https://www.cbssports.com/olympics/news/2024-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-nations-are-winning-in-paris/">
 <meta itemprop="datePublished" content="2024-08-06 01:44:00">
 <meta itemprop="thumbnailUrl" content="https://sportshub.cbsistatic.com/i/r/2024/08/05/224a37ec-ef21-40bd-89f6-cde021d11158/thumbnail/1200x675/561e6f4a68baec5d9bfd8e68c7ea6810/untitled-design-2024-08-05t135408-239.png">
 <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
@@ -2289,6 +2289,27 @@
                                                                                 
                                                         
                 
+            <a href="/olympics/news/previewing-big-usa-mens-basketball-uswnt-games-is-a-brandon-aiyuk-trade-imminent/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="untitled-design-2024-07-29t025416-174.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/07/29/70ec1137-3fa7-4308-b6e8-093aac3e5ae6/thumbnail/160x160/bd972c6a34c0b0478a7c38a51be7b548/untitled-design-2024-07-29t025416-174.png" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/previewing-big-usa-mens-basketball-uswnt-games-is-a-brandon-aiyuk-trade-imminent/">
+                                    Previewing huge USA men's basketball, USWNT games
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    Zachary Pereles
+                                                                • 7 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
             <a href="/olympics/news/2024-paris-olympics-odds-predictions-for-tuesday-august-6-expert-picks-for-basketball-volleyball-more/" class="LatestNewsBox-imageUrl">
                                                 <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="AS Monaco v RB Leipzig - UEFA Champions League" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/06/c2f12c7a-53e8-4567-9b55-162b2342a6a7/thumbnail/160x160/4aad52a978931936636f667d95ebc563/bruno-caboclo-brazil-getty-images.jpg" src="" height="160" width="160"></figure>
                     </a>
@@ -2386,27 +2407,6 @@
                             <h5 class="LatestNewsBox-itemInfo">
                                                                     CBS Sports Staff
                                                                 • 2 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/big3-challenges-olympic-3x3-gold-medal-winner-netherlands-in-winner-take-all-game-for-150k/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="untitled-design.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/06/4e6753c8-7252-4270-bfde-c106571cf945/thumbnail/160x160/60d4824091ecd2cb883684290ba42b39/untitled-design.jpg" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/big3-challenges-olympic-3x3-gold-medal-winner-netherlands-in-winner-take-all-game-for-150k/">
-                                    BIG 3 challenges Dutch 3x3 team to game for $150K
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Jack Maloney
-                                                                • 1 min read
                             </h5>
                         </div>
                     </div>
