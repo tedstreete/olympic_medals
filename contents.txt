@@ -689,7 +689,7 @@
         China
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">22</td><td class="TableBase-bodyTd">21</td><td class="TableBase-bodyTd">16</td><td class="TableBase-bodyTd">59</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">22</td><td class="TableBase-bodyTd">22</td><td class="TableBase-bodyTd">16</td><td class="TableBase-bodyTd">60</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -710,7 +710,7 @@
         Australia
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">14</td><td class="TableBase-bodyTd">12</td><td class="TableBase-bodyTd">9</td><td class="TableBase-bodyTd">35</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">14</td><td class="TableBase-bodyTd">12</td><td class="TableBase-bodyTd">10</td><td class="TableBase-bodyTd">36</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -836,7 +836,7 @@
         Netherlands
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">8</td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">6</td><td class="TableBase-bodyTd">19</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">9</td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">6</td><td class="TableBase-bodyTd">20</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -1013,6 +1013,27 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
+            <img class=" is-lazy-image" alt="ESP" data-lazy="https://sports.cbsimg.net/fly/images/flags/ESP.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        ESP
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Spain
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">10</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
             <img class=" is-lazy-image" alt="UKR" data-lazy="https://sports.cbsimg.net/fly/images/flags/UKR.svg" src="">
                     </div>
     
@@ -1181,27 +1202,6 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
-            <img class=" is-lazy-image" alt="ESP" data-lazy="https://sports.cbsimg.net/fly/images/flags/ESP.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        ESP
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        Spain
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">9</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
             <img class=" is-lazy-image" alt="SUI" data-lazy="https://sports.cbsimg.net/fly/images/flags/SUI.svg" src="">
                     </div>
     
@@ -1244,6 +1244,27 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
+            <img class=" is-lazy-image" alt="DEN" data-lazy="https://sports.cbsimg.net/fly/images/flags/DNK.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        DEN
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Denmark
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">3</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
             <img class=" is-lazy-image" alt="GRE" data-lazy="https://sports.cbsimg.net/fly/images/flags/GRE.svg" src="">
                     </div>
     
@@ -1265,6 +1286,27 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
+            <img class=" is-lazy-image" alt="POL" data-lazy="https://sports.cbsimg.net/fly/images/flags/POL.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        POL
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Poland
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">4</td><td class="TableBase-bodyTd">6</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
             <img class=" is-lazy-image" alt="KAZ" data-lazy="https://sports.cbsimg.net/fly/images/flags/KAZ.svg" src="">
                     </div>
     
@@ -1277,7 +1319,7 @@
         Kazakhstan
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">4</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">5</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -1349,16 +1391,16 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
-            <img class=" is-lazy-image" alt="DEN" data-lazy="https://sports.cbsimg.net/fly/images/flags/DNK.svg" src="">
+            <img class=" is-lazy-image" alt="ECU" data-lazy="https://sports.cbsimg.net/fly/images/flags/ECU.svg" src="">
                     </div>
     
 
     <span class="CountryFlagNameLockup-name--mobile">
-        DEN
+        ECU
     </span>
 
     <span class="CountryFlagNameLockup-name">
-        Denmark
+        Ecuador
     </span>
 </div>
     </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">2</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
@@ -1517,6 +1559,27 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
+            <img class=" is-lazy-image" alt="NOR" data-lazy="https://sports.cbsimg.net/fly/images/flags/NOR.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        NOR
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Norway
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">2</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
             <img class=" is-lazy-image" alt="ALG" data-lazy="https://sports.cbsimg.net/fly/images/flags/ALG.svg" src="">
                     </div>
     
@@ -1601,48 +1664,6 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
-            <img class=" is-lazy-image" alt="ECU" data-lazy="https://sports.cbsimg.net/fly/images/flags/ECU.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        ECU
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        Ecuador
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">1</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
-            <img class=" is-lazy-image" alt="NOR" data-lazy="https://sports.cbsimg.net/fly/images/flags/NOR.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        NOR
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        Norway
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">1</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
             <img class=" is-lazy-image" alt="SLO" data-lazy="https://sports.cbsimg.net/fly/images/flags/SLO.svg" src="">
                     </div>
     
@@ -1697,7 +1718,7 @@
         North Korea
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">4</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">5</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -1740,27 +1761,6 @@
     </span>
 </div>
     </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">2</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
-            <img class=" is-lazy-image" alt="POL" data-lazy="https://sports.cbsimg.net/fly/images/flags/POL.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        POL
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        Poland
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">4</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -2346,29 +2346,8 @@
                                                                                 
                                                         
                 
-            <a href="/olympics/news/2024-olympics-mykayla-skinner-pleads-for-cyberbullying-to-stop-after-simone-biles-clapback-to-gymnastics-team/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="untitled-design-2024-08-06t174914-395.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/07/1d3b77e7-06cf-46a4-a77d-ea9f8e317370/thumbnail/160x160/a6676f48410292bc8d2c457be77848d2/untitled-design-2024-08-06t174914-395.png" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/2024-olympics-mykayla-skinner-pleads-for-cyberbullying-to-stop-after-simone-biles-clapback-to-gymnastics-team/">
-                                    Skinner asks Biles to urge fans to stop cyberbullying
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Isabel Gonzalez
-                                                                • 2 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
             <a href="/olympics/news/team-usa-womens-basketball-roster-schedule-for-2024-paris-olympics-americans-eyeing-eighth-consecutive-gold/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="gettyimages-2162842922-1-1.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/02/580890c6-980b-4752-92c3-4872244775e1/thumbnail/160x160/63ca78e853c67d452235a43fad857353/gettyimages-2164852913-1-1.jpg" src="" height="160" width="160"></figure>
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="gettyimages-2162842922-1-1.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/07/cfa4883a-abc5-407f-9ec1-4a819825c41b/thumbnail/160x160/54bf4ecbcc526359f26e1df910e42d1f/gettyimages-2165253199-1-1.jpg" src="" height="160" width="160"></figure>
                     </a>
     
                         <div class="LatestNewsBox-textGroup">
@@ -2388,8 +2367,71 @@
                                                                                 
                                                         
                 
+            <a href="/olympics/news/kevin-durant-makes-history-as-team-usa-mens-basketball-cruises-more-unfortunate-49ers-news/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="untitled-design-2024-08-07t024643-100.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/07/e8808337-3a0f-4205-8caa-2b3d8496f1d2/thumbnail/160x160/7f9aca582673595ba5a9777127ba4905/untitled-design-2024-08-07t024643-100.png" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/kevin-durant-makes-history-as-team-usa-mens-basketball-cruises-more-unfortunate-49ers-news/">
+                                    Durant, Team USA men's basketball cruise to semifinals
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    Zachary Pereles
+                                                                • 6 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
+            <a href="/olympics/news/germany-vs-france-prediction-odds-time-2024-paris-olympics-mens-basketball-semifinal-expert-picks/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="giannis-greece-getty-1.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/06/e0bcbef8-dd86-49a1-b72d-261199f6b33d/thumbnail/160x160/09e0d896af8f3caeb7df321ae9734caa/victor-wembanyama-usatsi-cbs.jpg" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/germany-vs-france-prediction-odds-time-2024-paris-olympics-mens-basketball-semifinal-expert-picks/">
+                                    Germany vs. France odds, Olympic basketball picks, bets
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    CBS Sports Staff
+                                                                • 3 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
+            <a href="/olympics/news/team-usa-vs-nigeria-prediction-odds-time-2024-paris-olympics-womens-basketball-picks-from-proven-expert/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="giannis-greece-getty-1.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/07/3b6c4961-0cd1-47a4-b063-2d2adca8106e/thumbnail/160x160/701fa02269d091f4de259ea228ed78d7/aja-wilson-team-usa-getty-images.jpg" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/team-usa-vs-nigeria-prediction-odds-time-2024-paris-olympics-womens-basketball-picks-from-proven-expert/">
+                                    Team USA-Nigeria odds, Olympic women's basketball picks
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    CBS Sports Staff
+                                                                • 3 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
             <a href="/olympics/news/2024-paris-olympics-odds-predictions-for-wednesday-august-7-expert-picks-for-basketball-volleyball-track/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="AS Monaco v RB Leipzig - UEFA Champions League" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/07/ac7888c8-80df-4ec7-a3db-75d1013c1ae9/thumbnail/160x160/e4df39ae27f344c9fb44943e16da7b10/willy-hernangomez-getty-images-cbs.jpg" src="" height="160" width="160"></figure>
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="AS Monaco v RB Leipzig - UEFA Champions League" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/07/fee0d38d-a523-4f4c-a418-ad98a3cd31b2/thumbnail/160x160/96a26d13a24b0ee0e57d40855bccbd25/megan-gustafson-spain-getty-images.jpg" src="" height="160" width="160"></figure>
                     </a>
     
                         <div class="LatestNewsBox-textGroup">
@@ -2409,61 +2451,19 @@
                                                                                 
                                                         
                 
-            <a href="/olympics/news/usa-basketball-kevin-durant-passes-lisa-leslie-as-usas-all-time-olympic-scoring-leader-with-dunk-vs-brazil/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="kevin-durant-usa-brazil-olympics-g.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/06/d966c181-08c2-40a2-a560-e86856b195b5/thumbnail/160x160/d5304fd2308f30aea035e86eb09a7ccd/kevin-durant-usa-brazil-olympics-g.jpg" src="" height="160" width="160"></figure>
+            <a href="/olympics/news/2024-olympics-mykayla-skinner-pleads-for-cyberbullying-to-stop-after-simone-biles-clapback-to-gymnastics-team/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="untitled-design-2024-08-06t174914-395.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/07/1d3b77e7-06cf-46a4-a77d-ea9f8e317370/thumbnail/160x160/a6676f48410292bc8d2c457be77848d2/untitled-design-2024-08-06t174914-395.png" src="" height="160" width="160"></figure>
                     </a>
     
                         <div class="LatestNewsBox-textGroup">
                             <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/usa-basketball-kevin-durant-passes-lisa-leslie-as-usas-all-time-olympic-scoring-leader-with-dunk-vs-brazil/">
-                                    KD passes Leslie as USA's all-time Olympic top scorer
+                                <a href="/olympics/news/2024-olympics-mykayla-skinner-pleads-for-cyberbullying-to-stop-after-simone-biles-clapback-to-gymnastics-team/">
+                                    Skinner asks Biles to urge fans to stop cyberbullying
                                 </a>
                             </h4>
                             <h5 class="LatestNewsBox-itemInfo">
-                                                                    Sam Quinn
+                                                                    Isabel Gonzalez
                                                                 • 2 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/2024-paris-olympics-noah-lyles-gabby-thomas-cole-hocker-have-united-states-ahead-of-the-pack-on-the-track/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="untitled-design-2024-08-06t151610-162.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/06/890facf9-cacb-4186-9fce-e6dfeed4192a/thumbnail/160x160/d849617462fbd18da55fb0931a99fdf9/untitled-design-2024-08-06t151610-162.png" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/2024-paris-olympics-noah-lyles-gabby-thomas-cole-hocker-have-united-states-ahead-of-the-pack-on-the-track/">
-                                    Lyles, Thomas, Hocker have U.S. ahead of pack on track
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Matt Norlander
-                                                                • 5 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/2024-paris-olympics-marta-has-shot-to-cement-legacy-vs-uswnt-after-brazil-shock-spain-without-veteran-star/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="marta.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/06/0b3a5b19-2d8d-4718-a00a-ebb4f0324008/thumbnail/160x160/7133b52eba012bd541877832528cea6d/marta.jpg" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/2024-paris-olympics-marta-has-shot-to-cement-legacy-vs-uswnt-after-brazil-shock-spain-without-veteran-star/">
-                                    Marta has chance to cement legacy vs. USWNT
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Sandra Herrera
-                                                                • 1 min read
                             </h5>
                         </div>
                     </div>
@@ -2649,14 +2649,14 @@
                                         "moduleLocation": "article-2",
                                         "moduleAction": "click-hyperlink",
                                         "moduleCampaign": "infinite scroll"
-                                    }' data-url="/olympics/news/where-to-watch-usa-basketball-vs-brazil-tv-channel-time-live-stream-for-2024-paris-olympics-odds/">
+                                    }' data-url="/olympics/news/2024-paris-olympics-noah-lyles-gabby-thomas-cole-hocker-have-united-states-ahead-of-the-pack-on-the-track/">
                                                             <article class="NewsFeed-container">
                                     <div class="NewsFeed-imageCol NewsFeed-imageCol--medium">
-                                                                                    <a href="/olympics/news/where-to-watch-usa-basketball-vs-brazil-tv-channel-time-live-stream-for-2024-paris-olympics-odds/">
+                                                                                    <a href="/olympics/news/2024-paris-olympics-noah-lyles-gabby-thomas-cole-hocker-have-united-states-ahead-of-the-pack-on-the-track/">
                                                                                                                                                                                                                                         
                                                 
                                                 <div class="NewsFeed-image NewsFeed-image--medium">
-                                                                <figure class=" img"><img class=" " alt="" src="https://sportshub.cbsistatic.com/i/r/2024/07/28/3fbde102-8ec9-495d-a386-7db3d62a1020/thumbnail/140x140/d4afce8a782fd8283f0cae850f5c7561/gettyimages-2164065917-kevin-durant-2024-oly-usa-1h-1400.jpg" height="140" width="140"></figure>
+                                                                <figure class=" img"><img class=" " alt="" src="https://sportshub.cbsistatic.com/i/r/2024/08/06/890facf9-cacb-4186-9fce-e6dfeed4192a/thumbnail/140x140/aacb1d92782e618f1c81acb55d374a15/untitled-design-2024-08-06t151610-162.png" height="140" width="140"></figure>
                                                                                                             <div class="NewsFeed-progressImageOverlay"></div>
                                                                                                     </div>
                                                                                                                                 </a>
@@ -2665,19 +2665,19 @@
                                     <div class="NewsFeed-content NewsFeed-content--medium">
                                                                                     <h3 class="NewsFeed-title NewsFeed-title--medium">
                                                                                                                                                                                                             
-                        <a href="/olympics/news/where-to-watch-usa-basketball-vs-brazil-tv-channel-time-live-stream-for-2024-paris-olympics-odds/" class="">Team USA ready to face Brazil in quarterfinals</a>
+                        <a href="/olympics/news/2024-paris-olympics-noah-lyles-gabby-thomas-cole-hocker-have-united-states-ahead-of-the-pack-on-the-track/" class="">United States running ahead of pack on track</a>
             
                                                                                                                                                 </h3>
                                                                                 
                                         <div class="NewsFeed-byline">
                                             
                                                                                             <span class="NewsFeed-author NewsFeed-bylineItem">
-                                                    Jack Maloney
+                                                    Matt Norlander
                                                 </span>
                                             
                                             
                                                                                             <span class="NewsFeed-date NewsFeed-bylineItem">
-                                                     4 min read
+                                                     5 min read
                                                 </span>
                                                                                     </div>
                                                                                     <div class="NewsFeed-progressBar" data-article-id="1">
@@ -2696,14 +2696,14 @@
                                         "moduleLocation": "article-3",
                                         "moduleAction": "click-hyperlink",
                                         "moduleCampaign": "infinite scroll"
-                                    }' data-url="/olympics/news/paris-olympics-2024-simone-biles-jordan-chiles-finish-redemption-tour-with-silver-bronze-on-floor-exercise/">
+                                    }' data-url="/olympics/news/uswnt-player-ratings-usa-soccer-into-2024-paris-olympics-gold-medal-match-behind-sophia-smith-alyssa-naeher/">
                                                             <article class="NewsFeed-container">
                                     <div class="NewsFeed-imageCol NewsFeed-imageCol--medium">
-                                                                                    <a href="/olympics/news/paris-olympics-2024-simone-biles-jordan-chiles-finish-redemption-tour-with-silver-bronze-on-floor-exercise/">
+                                                                                    <a href="/olympics/news/uswnt-player-ratings-usa-soccer-into-2024-paris-olympics-gold-medal-match-behind-sophia-smith-alyssa-naeher/">
                                                                                                                                                                                                                                         
                                                 
                                                 <div class="NewsFeed-image NewsFeed-image--medium">
-                                                                <figure class=" img"><img class=" " alt="" src="https://sportshub.cbsistatic.com/i/r/2024/08/06/6e46f548-11de-433e-8528-5d339b188a73/thumbnail/140x140/610077aa26c1e06c7cbb0519e25196b8/untitled-design-2024-08-05t215528-924.png" height="140" width="140"></figure>
+                                                                <figure class=" img"><img class=" " alt="" src="https://sportshub.cbsistatic.com/i/r/2024/08/06/3cba0c25-d90d-42d9-aa7c-d219e0bc30c4/thumbnail/140x140/215c378c71ecffb8fae514d1283db9bc/usa2-1-1.jpg" height="140" width="140"></figure>
                                                                                                             <div class="NewsFeed-progressImageOverlay"></div>
                                                                                                     </div>
                                                                                                                                 </a>
@@ -2712,19 +2712,19 @@
                                     <div class="NewsFeed-content NewsFeed-content--medium">
                                                                                     <h3 class="NewsFeed-title NewsFeed-title--medium">
                                                                                                                                                                                                             
-                        <a href="/olympics/news/paris-olympics-2024-simone-biles-jordan-chiles-finish-redemption-tour-with-silver-bronze-on-floor-exercise/" class="">Biles' redemption tour ends on podium</a>
+                        <a href="/olympics/news/uswnt-player-ratings-usa-soccer-into-2024-paris-olympics-gold-medal-match-behind-sophia-smith-alyssa-naeher/" class="">Women's soccer player ratings</a>
             
                                                                                                                                                 </h3>
                                                                                 
                                         <div class="NewsFeed-byline">
                                             
                                                                                             <span class="NewsFeed-author NewsFeed-bylineItem">
-                                                    Lyle Fitzsimmons
+                                                    Sandra Herrera
                                                 </span>
                                             
                                             
                                                                                             <span class="NewsFeed-date NewsFeed-bylineItem">
-                                                     3 min read
+                                                     4 min read
                                                 </span>
                                                                                     </div>
                                                                                     <div class="NewsFeed-progressBar" data-article-id="2">
@@ -2790,6 +2790,53 @@
                                         "moduleLocation": "article-5",
                                         "moduleAction": "click-hyperlink",
                                         "moduleCampaign": "infinite scroll"
+                                    }' data-url="/olympics/news/2024-paris-olympics-imane-khelif-advances-to-gold-medal-fight-with-win-in-semifinals-as-debate-continues/">
+                                                            <article class="NewsFeed-container">
+                                    <div class="NewsFeed-imageCol NewsFeed-imageCol--medium">
+                                                                                    <a href="/olympics/news/2024-paris-olympics-imane-khelif-advances-to-gold-medal-fight-with-win-in-semifinals-as-debate-continues/">
+                                                                                                                                                                                                                                        
+                                                
+                                                <div class="NewsFeed-image NewsFeed-image--medium">
+                                                                <figure class=" img"><img class=" " alt="" src="https://sportshub.cbsistatic.com/i/r/2024/08/06/f45ea508-b322-48da-934a-cc32436f0d3d/thumbnail/140x140/768264be9d3e7bf82654a6ae8de91883/imane-khelif-win-semis.jpg" height="140" width="140"></figure>
+                                                                                                            <div class="NewsFeed-progressImageOverlay"></div>
+                                                                                                    </div>
+                                                                                                                                </a>
+                                                                            </div>
+
+                                    <div class="NewsFeed-content NewsFeed-content--medium">
+                                                                                    <h3 class="NewsFeed-title NewsFeed-title--medium">
+                                                                                                                                                                                                            
+                        <a href="/olympics/news/2024-paris-olympics-imane-khelif-advances-to-gold-medal-fight-with-win-in-semifinals-as-debate-continues/" class="">Khelif advances to gold medal match</a>
+            
+                                                                                                                                                </h3>
+                                                                                
+                                        <div class="NewsFeed-byline">
+                                            
+                                                                                            <span class="NewsFeed-author NewsFeed-bylineItem">
+                                                    Brent Brookhouse
+                                                </span>
+                                            
+                                            
+                                                                                            <span class="NewsFeed-date NewsFeed-bylineItem">
+                                                     2 min read
+                                                </span>
+                                                                                    </div>
+                                                                                    <div class="NewsFeed-progressBar" data-article-id="4">
+                                                <div class="NewsFeed-progressBarSlider"></div>
+                                            </div>
+                                                                            </div>
+                                </article>
+                                                    </li>
+                                                                                                                                                                                                                                                                                                                                
+                        
+                                                
+                                                                                                                                                                                                                    
+                        
+                        <li class="NewsFeed-item " data-article-id="5" data-reading-list-item="5" data-track-action='{
+                                        "moduleName": "sideRail-suggestedContent",
+                                        "moduleLocation": "article-6",
+                                        "moduleAction": "click-hyperlink",
+                                        "moduleCampaign": "infinite scroll"
                                     }' data-url="/olympics/news/big3-challenges-olympic-3x3-gold-medal-winner-netherlands-in-winner-take-all-game-for-150k/">
                                                             <article class="NewsFeed-container">
                                     <div class="NewsFeed-imageCol NewsFeed-imageCol--medium">
@@ -2821,7 +2868,7 @@
                                                      1 min read
                                                 </span>
                                                                                     </div>
-                                                                                    <div class="NewsFeed-progressBar" data-article-id="4">
+                                                                                    <div class="NewsFeed-progressBar" data-article-id="5">
                                                 <div class="NewsFeed-progressBarSlider"></div>
                                             </div>
                                                                             </div>
@@ -2832,9 +2879,9 @@
                                                 
                                                                                                                                                                                                                     
                         
-                        <li class="NewsFeed-item " data-article-id="5" data-reading-list-item="5" data-track-action='{
+                        <li class="NewsFeed-item " data-article-id="6" data-reading-list-item="6" data-track-action='{
                                         "moduleName": "sideRail-suggestedContent",
-                                        "moduleLocation": "article-6",
+                                        "moduleLocation": "article-7",
                                         "moduleAction": "click-hyperlink",
                                         "moduleCampaign": "infinite scroll"
                                     }' data-url="/olympics/news/golf-tennis-at-2024-paris-olympics-exemplify-thrill-of-victory-agony-of-defeat-when-playing-for-your-country/">
@@ -2868,53 +2915,6 @@
                                                      5 min read
                                                 </span>
                                                                                     </div>
-                                                                                    <div class="NewsFeed-progressBar" data-article-id="5">
-                                                <div class="NewsFeed-progressBarSlider"></div>
-                                            </div>
-                                                                            </div>
-                                </article>
-                                                    </li>
-                                                                                                                                                                                                                                                                                                                                
-                        
-                                                
-                                                                                                                                                                                                                    
-                        
-                        <li class="NewsFeed-item " data-article-id="6" data-reading-list-item="6" data-track-action='{
-                                        "moduleName": "sideRail-suggestedContent",
-                                        "moduleLocation": "article-7",
-                                        "moduleAction": "click-hyperlink",
-                                        "moduleCampaign": "infinite scroll"
-                                    }' data-url="/olympics/news/2024-olympics-noah-lyles-delivers-on-promise-with-first-100-meter-gold-medal-for-united-states-in-20-years/">
-                                                            <article class="NewsFeed-container">
-                                    <div class="NewsFeed-imageCol NewsFeed-imageCol--medium">
-                                                                                    <a href="/olympics/news/2024-olympics-noah-lyles-delivers-on-promise-with-first-100-meter-gold-medal-for-united-states-in-20-years/">
-                                                                                                                                                                                                                                        
-                                                
-                                                <div class="NewsFeed-image NewsFeed-image--medium">
-                                                                <figure class=" img"><img class=" " alt="" src="https://sportshub.cbsistatic.com/i/r/2024/08/04/7bd3c31a-f9ca-4e22-8bf2-d898975f5a6c/thumbnail/140x140/fde06ce75d50b75b8ace2d4048eb7da2/noah-lyles-flag-point-usa-g.jpg" height="140" width="140"></figure>
-                                                                                                            <div class="NewsFeed-progressImageOverlay"></div>
-                                                                                                    </div>
-                                                                                                                                </a>
-                                                                            </div>
-
-                                    <div class="NewsFeed-content NewsFeed-content--medium">
-                                                                                    <h3 class="NewsFeed-title NewsFeed-title--medium">
-                                                                                                                                                                                                            
-                        <a href="/olympics/news/2024-olympics-noah-lyles-delivers-on-promise-with-first-100-meter-gold-medal-for-united-states-in-20-years/" class="">Noah Lyles wins gold after photo finish in 100m</a>
-            
-                                                                                                                                                </h3>
-                                                                                
-                                        <div class="NewsFeed-byline">
-                                            
-                                                                                            <span class="NewsFeed-author NewsFeed-bylineItem">
-                                                    Adam Silverstein
-                                                </span>
-                                            
-                                            
-                                                                                            <span class="NewsFeed-date NewsFeed-bylineItem">
-                                                     1 min read
-                                                </span>
-                                                                                    </div>
                                                                                     <div class="NewsFeed-progressBar" data-article-id="6">
                                                 <div class="NewsFeed-progressBarSlider"></div>
                                             </div>
@@ -2931,14 +2931,14 @@
                                         "moduleLocation": "article-8",
                                         "moduleAction": "click-hyperlink",
                                         "moduleCampaign": "infinite scroll"
-                                    }' data-url="/olympics/news/2024-paris-olympics-united-states-beats-australia-again-as-hotly-contested-medal-battle-in-the-pool-concludes/">
+                                    }' data-url="/olympics/news/breaking-at-the-2024-paris-olympics-how-the-hip-hop-phenomenon-will-be-judged-and-scored-in-competition/">
                                                             <article class="NewsFeed-container">
                                     <div class="NewsFeed-imageCol NewsFeed-imageCol--medium">
-                                                                                    <a href="/olympics/news/2024-paris-olympics-united-states-beats-australia-again-as-hotly-contested-medal-battle-in-the-pool-concludes/">
+                                                                                    <a href="/olympics/news/breaking-at-the-2024-paris-olympics-how-the-hip-hop-phenomenon-will-be-judged-and-scored-in-competition/">
                                                                                                                                                                                                                                         
                                                 
                                                 <div class="NewsFeed-image NewsFeed-image--medium">
-                                                                <figure class=" img"><img class=" " alt="" src="https://sportshub.cbsistatic.com/i/r/2024/08/04/d7e18b5a-4d5f-4679-b9e9-2c78bb6bbded/thumbnail/140x140/566b650a8179db0a1f5dae2d6a42288b/untitled-design-2024-08-04t122118-088.png" height="140" width="140"></figure>
+                                                                <figure class=" img"><img class=" " alt="" src="https://sportshub.cbsistatic.com/i/r/2024/07/26/f8a84c16-6295-45a6-ba5c-6dae6717290b/thumbnail/140x140/0216a189fc3fe2da666151253bd6ab90/breakdancing-olympics.jpg" height="140" width="140"></figure>
                                                                                                             <div class="NewsFeed-progressImageOverlay"></div>
                                                                                                     </div>
                                                                                                                                 </a>
@@ -2947,19 +2947,19 @@
                                     <div class="NewsFeed-content NewsFeed-content--medium">
                                                                                     <h3 class="NewsFeed-title NewsFeed-title--medium">
                                                                                                                                                                                                             
-                        <a href="/olympics/news/2024-paris-olympics-united-states-beats-australia-again-as-hotly-contested-medal-battle-in-the-pool-concludes/" class="">U.S. edges Australia in final swimming count</a>
+                        <a href="/olympics/news/breaking-at-the-2024-paris-olympics-how-the-hip-hop-phenomenon-will-be-judged-and-scored-in-competition/" class="">What you need to know about Breaking in the Olympics</a>
             
                                                                                                                                                 </h3>
                                                                                 
                                         <div class="NewsFeed-byline">
                                             
                                                                                             <span class="NewsFeed-author NewsFeed-bylineItem">
-                                                    Lyle Fitzsimmons
+                                                    Jordan Pagkalinawan
                                                 </span>
                                             
                                             
                                                                                             <span class="NewsFeed-date NewsFeed-bylineItem">
-                                                     1 min read
+                                                     2 min read
                                                 </span>
                                                                                     </div>
                                                                                     <div class="NewsFeed-progressBar" data-article-id="7">
@@ -2976,6 +2976,53 @@
                         <li class="NewsFeed-item " data-article-id="8" data-reading-list-item="8" data-track-action='{
                                         "moduleName": "sideRail-suggestedContent",
                                         "moduleLocation": "article-9",
+                                        "moduleAction": "click-hyperlink",
+                                        "moduleCampaign": "infinite scroll"
+                                    }' data-url="/olympics/news/paris-olympics-2024-how-the-polluted-seine-river-has-affected-athletes-health-outdoor-swimming-events/">
+                                                            <article class="NewsFeed-container">
+                                    <div class="NewsFeed-imageCol NewsFeed-imageCol--medium">
+                                                                                    <a href="/olympics/news/paris-olympics-2024-how-the-polluted-seine-river-has-affected-athletes-health-outdoor-swimming-events/">
+                                                                                                                                                                                                                                        
+                                                
+                                                <div class="NewsFeed-image NewsFeed-image--medium">
+                                                                <figure class=" img"><img class=" " alt="" src="https://sportshub.cbsistatic.com/i/r/2024/08/06/d9f93776-d7fe-44e3-8732-f2cea68d288d/thumbnail/140x140/98045822746963071d778669fe62914f/gettyimages-2163971481-1-1.jpg" height="140" width="140"></figure>
+                                                                                                            <div class="NewsFeed-progressImageOverlay"></div>
+                                                                                                    </div>
+                                                                                                                                </a>
+                                                                            </div>
+
+                                    <div class="NewsFeed-content NewsFeed-content--medium">
+                                                                                    <h3 class="NewsFeed-title NewsFeed-title--medium">
+                                                                                                                                                                                                            
+                        <a href="/olympics/news/paris-olympics-2024-how-the-polluted-seine-river-has-affected-athletes-health-outdoor-swimming-events/" class="">How the Seine River has affected the Paris Games</a>
+            
+                                                                                                                                                </h3>
+                                                                                
+                                        <div class="NewsFeed-byline">
+                                            
+                                                                                            <span class="NewsFeed-author NewsFeed-bylineItem">
+                                                    Chris Bengel
+                                                </span>
+                                            
+                                            
+                                                                                            <span class="NewsFeed-date NewsFeed-bylineItem">
+                                                     4 min read
+                                                </span>
+                                                                                    </div>
+                                                                                    <div class="NewsFeed-progressBar" data-article-id="8">
+                                                <div class="NewsFeed-progressBarSlider"></div>
+                                            </div>
+                                                                            </div>
+                                </article>
+                                                    </li>
+                                                                                                                                                                                                                                                                                                                                
+                        
+                                                
+                                                                                                                                                                                                                    
+                        
+                        <li class="NewsFeed-item " data-article-id="9" data-reading-list-item="9" data-track-action='{
+                                        "moduleName": "sideRail-suggestedContent",
+                                        "moduleLocation": "article-10",
                                         "moduleAction": "click-hyperlink",
                                         "moduleCampaign": "infinite scroll"
                                     }' data-url="/olympics/news/winter-olympics-2018-five-questions-for-team-usa-bobsledder-elana-meyers-taylor/">
@@ -3007,53 +3054,6 @@
                                             
                                                                                             <span class="NewsFeed-date NewsFeed-bylineItem">
                                                      2 min read
-                                                </span>
-                                                                                    </div>
-                                                                                    <div class="NewsFeed-progressBar" data-article-id="8">
-                                                <div class="NewsFeed-progressBarSlider"></div>
-                                            </div>
-                                                                            </div>
-                                </article>
-                                                    </li>
-                                                                                                                                                                                                                                                                                                                                
-                        
-                                                
-                                                                                                                                                                                                                    
-                        
-                        <li class="NewsFeed-item " data-article-id="9" data-reading-list-item="9" data-track-action='{
-                                        "moduleName": "sideRail-suggestedContent",
-                                        "moduleLocation": "article-10",
-                                        "moduleAction": "click-hyperlink",
-                                        "moduleCampaign": "infinite scroll"
-                                    }' data-url="/olympics/news/winter-olympics-lindsey-vonn-scatters-grandfathers-ashes-near-downhill-course/">
-                                                            <article class="NewsFeed-container">
-                                    <div class="NewsFeed-imageCol NewsFeed-imageCol--medium">
-                                                                                    <a href="/olympics/news/winter-olympics-lindsey-vonn-scatters-grandfathers-ashes-near-downhill-course/">
-                                                                                                                                                                                                                                        
-                                                
-                                                <div class="NewsFeed-image NewsFeed-image--medium">
-                                                                <figure class=" img"><img class=" " alt="" src="https://sportshub.cbsistatic.com/i/r/2018/02/21/40e3ba86-c12c-4e28-a2d2-7c1625e97b2e/thumbnail/140x140/39424a1cf081d9d9b5ee4b2f1f371929/lindsey-vonn.jpg" height="140" width="140"></figure>
-                                                                                                            <div class="NewsFeed-progressImageOverlay"></div>
-                                                                                                    </div>
-                                                                                                                                </a>
-                                                                            </div>
-
-                                    <div class="NewsFeed-content NewsFeed-content--medium">
-                                                                                    <h3 class="NewsFeed-title NewsFeed-title--medium">
-                                                                                                                                                                                                            
-                        <a href="/olympics/news/winter-olympics-lindsey-vonn-scatters-grandfathers-ashes-near-downhill-course/" class="">Vonn scatters grandfather's ashes</a>
-            
-                                                                                                                                                </h3>
-                                                                                
-                                        <div class="NewsFeed-byline">
-                                            
-                                                                                            <span class="NewsFeed-author NewsFeed-bylineItem">
-                                                    Kevin Skiver
-                                                </span>
-                                            
-                                            
-                                                                                            <span class="NewsFeed-date NewsFeed-bylineItem">
-                                                     1 min read
                                                 </span>
                                                                                     </div>
                                                                                     <div class="NewsFeed-progressBar" data-article-id="9">
