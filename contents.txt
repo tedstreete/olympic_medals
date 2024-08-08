@@ -2430,6 +2430,48 @@
                                                                                 
                                                         
                 
+            <a href="/olympics/news/usa-basketball-grant-hill-says-jaylen-brown-will-be-considered-for-2028-olympics-after-omission-in-paris/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="jaylen-brown-celtics-g.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/08/a384c8d3-af06-4e00-8fe8-41d8dc2ede5a/thumbnail/160x160/092a3f0846b9891b29c9620cafdfb214/jaylen-brown-celtics-g.jpg" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/usa-basketball-grant-hill-says-jaylen-brown-will-be-considered-for-2028-olympics-after-omission-in-paris/">
+                                    Hill says Brown could be in the mix for 2028 Olympics
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    Jasmyn Wimbish
+                                                                • 3 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
+            <a href="/olympics/news/2024-olympics-who-is-the-masked-shot-putter-why-you-wont-see-raven-saunders-face-during-their-competition/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="raven-saunders-shot-put.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/08/7a5aa322-6e10-4df6-b196-ab032bbcd7c5/thumbnail/160x160/3bee4de90a51be6bcd9479283b2569e8/raven-saunders-shot-put.jpg" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/2024-olympics-who-is-the-masked-shot-putter-why-you-wont-see-raven-saunders-face-during-their-competition/">
+                                    Who is the masked shot putter on Team USA?
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    Chris Bengel
+                                                                • 1 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
             <a href="/olympics/news/2024-paris-olympics-odds-predictions-for-thursday-august-8-expert-picks-for-basketball-volleyball-track/" class="LatestNewsBox-imageUrl">
                                                 <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="AS Monaco v RB Leipzig - UEFA Champions League" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/08/36efcb44-a3fc-45aa-a9f4-a20b6ba958ca/thumbnail/160x160/23bb8f201c04907048ba408c23979cae/femke-bol-olympics-usatsi.jpg" src="" height="160" width="160"></figure>
                     </a>
@@ -2501,48 +2543,6 @@
                             <h4 class="LatestNewsBox-itemTitle">
                                 <a href="/olympics/news/team-usa-vs-serbia-prediction-odds-start-time-2024-paris-olympics-mens-basketball-semifinal-expert-picks/">
                                     USA vs. Serbia odds, Olympic basketball picks, bets
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    CBS Sports Staff
-                                                                • 3 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/egypt-vs-morocco-prediction-odds-time-2024-paris-olympics-picks-mens-soccer-best-bets-by-proven-expert/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="robert-lewandowski-barcelona-getty-images.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/06/0d56d773-a7c5-4852-a415-ecf64cf652b7/thumbnail/160x160/91daa46a6fa5ebacdc9930c748bb6873/hakimi-morocco-olympics-getty.jpg" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/egypt-vs-morocco-prediction-odds-time-2024-paris-olympics-picks-mens-soccer-best-bets-by-proven-expert/">
-                                    Egypt vs. Morocco odds, Olympic soccer picks, best bets
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    CBS Sports Staff
-                                                                • 3 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/germany-vs-france-prediction-odds-time-2024-paris-olympics-mens-basketball-semifinal-expert-picks/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="giannis-greece-getty-1.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/06/e0bcbef8-dd86-49a1-b72d-261199f6b33d/thumbnail/160x160/09e0d896af8f3caeb7df321ae9734caa/victor-wembanyama-usatsi-cbs.jpg" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/germany-vs-france-prediction-odds-time-2024-paris-olympics-mens-basketball-semifinal-expert-picks/">
-                                    Germany vs. France odds, Olympic basketball picks, bets
                                 </a>
                             </h4>
                             <h5 class="LatestNewsBox-itemInfo">
