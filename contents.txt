@@ -31,7 +31,7 @@
 <meta property="og:site_name" content="CBSSports.com">
 <meta property="og:title" content="2024 Olympics medal count: Tracker for how many gold, silver, bronze medals USA, nations are winning in Paris">
 <meta property="og:description" content="Olympic medal count for the 2024 Paris Games being updated across each day of competition">
-    <meta property="og:image" content="https://sportshub.cbsistatic.com/i/r/2024/08/07/0014a255-97cf-41fa-a798-8cd504813ffa/thumbnail/1200x675/084f87c998b82edff0e27da4d1680b93/untitled-design-2024-08-06t184435-830.png">
+    <meta property="og:image" content="https://sportshub.cbsistatic.com/i/r/2024/08/02/dbea1ed5-58d4-4eff-819c-67f3225f5acc/thumbnail/1200x675/892122aba8ebc5f7425ecfff9919310e/olympics-rings-louvre-g.png">
 <meta property="og:type" content="article">
     <meta property="og:url" content="https://www.cbssports.com/olympics/news/2024-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-nations-are-winning-in-paris/">
     <meta property="article:opinion" content="false">
@@ -53,7 +53,7 @@
 <meta content="@zach_pereles" name="twitter:creator">
 <meta content="2024 Olympics medal count: Tracker for how many gold, silver, bronze medals USA, nations are winning in Paris - CBSSports.com" name="twitter:title">
 <meta content="Olympic medal count for the 2024 Paris Games being updated across each day of competition" name="twitter:description">
-<meta content="https://sportshub.cbsistatic.com/i/r/2024/08/07/0014a255-97cf-41fa-a798-8cd504813ffa/thumbnail/1200x675/084f87c998b82edff0e27da4d1680b93/untitled-design-2024-08-06t184435-830.png" name="twitter:image">
+<meta content="https://sportshub.cbsistatic.com/i/r/2024/08/02/dbea1ed5-58d4-4eff-819c-67f3225f5acc/thumbnail/1200x675/892122aba8ebc5f7425ecfff9919310e/olympics-rings-louvre-g.png" name="twitter:image">
 <meta content="CBSSports.com features live scoring and news for NFL football, MLB baseball, NBA basketball, NHL hockey, college basketball and football. CBSSports.com is also your source for fantasy sports news." name="msapplication-tooltip">
 <meta content="https://www.cbssports.com/" name="msapplication-starturl">
 <meta content="width=1024;height=768" name="msapplication-window">
@@ -472,14 +472,14 @@
 <meta itemprop="headline" content="2024 Olympics medal count: Tracker for how many gold, silver, bronze medals USA, nations are winning in Paris">
 <meta itemprop="description" content="Olympic medal count for the 2024 Paris Games being updated across each day of competition">
 <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-    <meta itemprop="url" content="https://sportshub.cbsistatic.com/i/r/2024/08/07/0014a255-97cf-41fa-a798-8cd504813ffa/thumbnail/1200x675/084f87c998b82edff0e27da4d1680b93/untitled-design-2024-08-06t184435-830.png">
+    <meta itemprop="url" content="https://sportshub.cbsistatic.com/i/r/2024/08/02/dbea1ed5-58d4-4eff-819c-67f3225f5acc/thumbnail/1200x675/892122aba8ebc5f7425ecfff9919310e/olympics-rings-louvre-g.png">
     <meta itemprop="width" content="1200">
     <meta itemprop="height" content="675">
 </div>
 <meta itemprop="keywords" content="Olympics">
 <meta itemprop="url" content="https://www.cbssports.com/olympics/news/2024-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-nations-are-winning-in-paris/">
 <meta itemprop="datePublished" content="2024-08-08 00:29:00">
-<meta itemprop="thumbnailUrl" content="https://sportshub.cbsistatic.com/i/r/2024/08/07/0014a255-97cf-41fa-a798-8cd504813ffa/thumbnail/1200x675/084f87c998b82edff0e27da4d1680b93/untitled-design-2024-08-06t184435-830.png">
+<meta itemprop="thumbnailUrl" content="https://sportshub.cbsistatic.com/i/r/2024/08/02/dbea1ed5-58d4-4eff-819c-67f3225f5acc/thumbnail/1200x675/892122aba8ebc5f7425ecfff9919310e/olympics-rings-louvre-g.png">
 <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
     <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
         <meta itemprop="url" content="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediacss/images/core/cbssports-logo-60x289.png">
@@ -626,7 +626,7 @@
         
                 
     <div class="Article-featuredImage">
-                                <figure class=" img"><img class="Article-featuredImageImg is-lazy-image" alt="untitled-design-2024-08-06t184435-830.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/07/0014a255-97cf-41fa-a798-8cd504813ffa/thumbnail/770x433/269551b36294b7a8b17bf0d177df2439/untitled-design-2024-08-06t184435-830.png" src="" height="433" width="770"></figure>
+                                <figure class=" img"><img class="Article-featuredImageImg is-lazy-image" alt="untitled-design-2024-08-06t184435-830.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/02/dbea1ed5-58d4-4eff-819c-67f3225f5acc/thumbnail/770x433/0d05f527d459911a7f4f181961e5e07f/olympics-rings-louvre-g.png" src="" height="433" width="770"></figure>
         
                     <figcaption class="MediaShortcode-figcaption MediaShortcode-figcaption--indent">
                 <span class="MediaShortcode-credit">Getty Images</span>
@@ -2430,6 +2430,27 @@
                                                                                 
                                                         
                 
+            <a href="/olympics/news/2024-paris-olympics-odds-predictions-for-thursday-august-8-expert-picks-for-basketball-volleyball-track/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="AS Monaco v RB Leipzig - UEFA Champions League" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/08/36efcb44-a3fc-45aa-a9f4-a20b6ba958ca/thumbnail/160x160/23bb8f201c04907048ba408c23979cae/femke-bol-olympics-usatsi.jpg" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/2024-paris-olympics-odds-predictions-for-thursday-august-8-expert-picks-for-basketball-volleyball-track/">
+                                    2024 Paris Olympics odds, predictions for August 8
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    CBS Sports Staff
+                                                                • 2 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
             <a href="/olympics/news/team-usa-womens-basketball-roster-schedule-for-2024-paris-olympics-americans-eyeing-eighth-consecutive-gold/" class="LatestNewsBox-imageUrl">
                                                 <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="gettyimages-2162842922-1-1.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/07/bf3ed2a3-791f-42df-8e66-65336f04de52/thumbnail/160x160/e9198091ab5ff77796b7f0acafd673a7/gettyimages-2165772855-1-1.jpg" src="" height="160" width="160"></figure>
                     </a>
@@ -2527,27 +2548,6 @@
                             <h5 class="LatestNewsBox-itemInfo">
                                                                     Chris Bengel
                                                                 • 3 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/2024-paris-olympics-mens-basketball-power-rankings-france-shocked-canada-and-could-challenge-team-usa/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="kd-antman.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/06/768d94d4-5100-422c-86e7-317f94cba0a5/thumbnail/160x160/3c20e62bf53e357ee8cad3689add45bc/lebron-james-team-usa-brazil-getty.png" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/2024-paris-olympics-mens-basketball-power-rankings-france-shocked-canada-and-could-challenge-team-usa/">
-                                    Olympic men's basketball semifinal power rankings
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Jasmyn Wimbish
-                                                                • 4 min read
                             </h5>
                         </div>
                     </div>
@@ -2696,7 +2696,7 @@
                                                                                                                                                                                                                                         
                                                 
                                                 <div class="NewsFeed-image NewsFeed-image--medium">
-                                                                <figure class=" img"><img class=" " alt="" src="https://sportshub.cbsistatic.com/i/r/2024/08/07/0014a255-97cf-41fa-a798-8cd504813ffa/thumbnail/140x140/148d4fba9ce978738e94c565ca9454e9/untitled-design-2024-08-06t184435-830.png" height="140" width="140"></figure>
+                                                                <figure class=" img"><img class=" " alt="" src="https://sportshub.cbsistatic.com/i/r/2024/08/02/dbea1ed5-58d4-4eff-819c-67f3225f5acc/thumbnail/140x140/124585778160e61eb501b6b55f361553/olympics-rings-louvre-g.png" height="140" width="140"></figure>
                                                                                                             <div class="NewsFeed-progressImageOverlay"></div>
                                                                                                     </div>
                                                                                                                         </div>
