@@ -64,7 +64,7 @@
 
 
 
-<link rel="preload" fetchpriority="high" as="image" href="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediacss/images/core/cbssports-promo-landscape.png?width=960&amp;height=540&amp;fit=crop" type="image/jpg">
+<link rel="preload" fetchpriority="high" as="image" href="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediacss/images/core/cbssports-promo-landscape.png?width=960&amp;height=540&amp;fit=crop" type="image/jpg">
         <meta name="viewport" content="width=device-width, maximum-scale=5">
     
             
@@ -73,19 +73,19 @@
 <link rel="icon" type="image/x-icon" href="/favicon.ico">
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="blue">
 
-    <link rel="apple-touch-icon" href="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediacss/images/core/webclips/touch-icon-iphone.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediacss/images/core/webclips/touch-icon-ipad.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediacss/images/core/webclips/touch-icon-iphone-retina.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediacss/images/core/webclips/touch-icon-ipad-retina.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediacss/images/core/webclips/apple-touch-icon-180.png">
+    <link rel="apple-touch-icon" href="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediacss/images/core/webclips/touch-icon-iphone.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediacss/images/core/webclips/touch-icon-ipad.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediacss/images/core/webclips/touch-icon-iphone-retina.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediacss/images/core/webclips/touch-icon-ipad-retina.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediacss/images/core/webclips/apple-touch-icon-180.png">
     
-                    <link rel="stylesheet" href="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediacss/css/v2/default.css">
-    <link rel="stylesheet" href="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediacss/css/v2/pages/article/article.desktop.css">
+                    <link rel="stylesheet" href="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediacss/css/v2/default.css">
+    <link rel="stylesheet" href="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediacss/css/v2/pages/article/article.desktop.css">
             
-            <link rel="stylesheet" href="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediacss/css/v2/pages/esi/pre-esi-reset.css">
+            <link rel="stylesheet" href="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediacss/css/v2/pages/esi/pre-esi-reset.css">
         <link rel="stylesheet" href="https://www.cbssports.com/_next/static/css/esi/layout.css?_c=hfsF1E1oxu1TjnH2sAv17"><link rel="stylesheet" href="https://www.cbssports.com/_next/static/css/esi/page.css?_c=hfsF1E1oxu1TjnH2sAv17">
 
-        <link rel="stylesheet" href="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediacss/css/v2/pages/esi/esi-nav-overrides.css">
+        <link rel="stylesheet" href="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediacss/css/v2/pages/esi/esi-nav-overrides.css">
     
                     <script src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
 <script type="text/javascript">
@@ -228,11 +228,11 @@
     });
 </script>
     
-        <script type="text/javascript" src="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediajs/js-build/libs/require-2.3.5.js"></script>
+        <script type="text/javascript" src="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediajs/js-build/libs/require-2.3.5.js"></script>
 <script type="text/javascript">
 
             
-    require.config({"baseUrl":"https:\/\/sportsfly.cbsistatic.com\/fly-0759\/bundles\/sportsmediajs\/js-build","config":{"version":{"fly\/components\/accordion":"1.0","fly\/components\/alert":"1.0","fly\/components\/base":"1.0","fly\/components\/carousel":"1.0","fly\/components\/dropdown":"1.0","fly\/components\/fixate":"1.0","fly\/components\/form-validate":"1.0","fly\/components\/image-gallery":"1.0","fly\/components\/iframe-messenger":"1.0","fly\/components\/load-more":"1.0","fly\/components\/load-more-article":"1.0","fly\/components\/load-more-scroll":"1.0","fly\/components\/loading":"1.0","fly\/components\/modal":"1.0","fly\/components\/modal-iframe":"1.0","fly\/components\/network-bar":"1.0","fly\/components\/poll":"1.0","fly\/components\/search-player":"1.0","fly\/components\/social-button":"1.0","fly\/components\/social-counts":"1.0","fly\/components\/social-links":"1.0","fly\/components\/tabs":"1.0","fly\/components\/video":"1.0","fly\/libs\/easy-xdm":"2.4.17.1","fly\/libs\/jquery.cookie":"1.2","fly\/libs\/jquery.throttle-debounce":"1.1","fly\/libs\/jquery.widget":"1.9.2","fly\/libs\/omniture.s-code":"1.0","fly\/utils\/jquery-mobile-init":"1.0","fly\/libs\/jquery.mobile":"1.3.2","fly\/libs\/backbone":"1.0.0","fly\/libs\/underscore":"1.5.1","fly\/libs\/jquery.easing":"1.3","fly\/managers\/ad":"2.0","fly\/managers\/components":"1.0","fly\/managers\/cookie":"1.0","fly\/managers\/debug":"1.0","fly\/managers\/geo":"1.0","fly\/managers\/gpt":"4.3","fly\/managers\/history":"2.0","fly\/managers\/madison":"1.0","fly\/managers\/social-authentication":"1.0","fly\/utils\/data-prefix":"1.0","fly\/utils\/data-selector":"1.0","fly\/utils\/function-natives":"1.0","fly\/utils\/guid":"1.0","fly\/utils\/log":"1.0","fly\/utils\/object-helper":"1.0","fly\/utils\/string-helper":"1.0","fly\/utils\/string-vars":"1.0","fly\/utils\/url-helper":"1.0","libs\/jshashtable":"2.1","libs\/select2":"3.5.1","libs\/jsonp":"2.4.0","libs\/jquery\/mobile":"1.4.5","libs\/modernizr.custom":"2.6.2","libs\/velocity":"1.2.2","libs\/dataTables":"1.10.6","libs\/dataTables.fixedColumns":"3.0.4","libs\/dataTables.fixedHeader":"2.1.2","libs\/dateformat":"1.0.3","libs\/waypoints\/infinite":"3.1.1","libs\/waypoints\/inview":"3.1.1","libs\/waypoints\/jquery.waypoints":"3.1.1","libs\/waypoints\/sticky":"3.1.1","libs\/jquery\/dotdotdot":"1.6.1","libs\/jquery\/flexslider":"2.1","libs\/jquery\/lazyload":"1.9.3","libs\/jquery\/maskedinput":"1.3.1","libs\/jquery\/marquee":"1.3.1","libs\/jquery\/numberformatter":"1.2.3","libs\/jquery\/placeholder":"0.2.4","libs\/jquery\/scrollbar":"0.1.6","libs\/jquery\/tablesorter":"2.0.5","libs\/jquery\/touchswipe":"1.6.18","libs\/jquery\/ui\/jquery.ui.core":"1.11.4","libs\/jquery\/ui\/jquery.ui.draggable":"1.11.4","libs\/jquery\/ui\/jquery.ui.mouse":"1.11.4","libs\/jquery\/ui\/jquery.ui.position":"1.11.4","libs\/jquery\/ui\/jquery.ui.slider":"1.11.4","libs\/jquery\/ui\/jquery.ui.sortable":"1.11.4","libs\/jquery\/ui\/jquery.ui.touch-punch":"0.2.3","libs\/jquery\/ui\/jquery.ui.autocomplete":"1.11.4","libs\/jquery\/ui\/jquery.ui.accordion":"1.11.4","libs\/jquery\/ui\/jquery.ui.tabs":"1.11.4","libs\/jquery\/ui\/jquery.ui.menu":"1.11.4","libs\/jquery\/ui\/jquery.ui.dialog":"1.11.4","libs\/jquery\/ui\/jquery.ui.resizable":"1.11.4","libs\/jquery\/ui\/jquery.ui.button":"1.11.4","libs\/jquery\/ui\/jquery.ui.tooltip":"1.11.4","libs\/jquery\/ui\/jquery.ui.effects":"1.11.4","libs\/jquery\/ui\/jquery.ui.datepicker":"1.11.4"}},"shim":{"liveconnection\/managers\/connection":{"deps":["liveconnection\/libs\/sockjs-0.3.4"]},"liveconnection\/libs\/sockjs-0.3.4":{"exports":"SockJS"},"libs\/setValueFromArray":{"exports":"set"},"libs\/getValueFromArray":{"exports":"get"},"fly\/libs\/jquery.mobile-1.3.2":["version!fly\/utils\/jquery-mobile-init"],"libs\/backbone.marionette":{"deps":["jquery","version!fly\/libs\/underscore","version!fly\/libs\/backbone"],"exports":"Marionette"},"fly\/libs\/underscore-1.5.1":{"exports":"_"},"fly\/libs\/backbone-1.0.0":{"deps":["version!fly\/libs\/underscore","jquery"],"exports":"Backbone"},"libs\/jquery\/ui\/jquery.ui.tabs-1.11.4":["jquery","version!libs\/jquery\/ui\/jquery.ui.core","version!fly\/libs\/jquery.widget"],"libs\/jquery\/flexslider-2.1":["jquery"],"libs\/dataTables.fixedColumns-3.0.4":["jquery","version!libs\/dataTables"],"libs\/dataTables.fixedHeader-2.1.2":["jquery","version!libs\/dataTables"],"https:\/\/sports.cbsimg.net\/js\/CBSi\/app\/VideoPlayer\/AdobePass-min.js":["https:\/\/sports.cbsimg.net\/js\/CBSi\/util\/Utils-min.js"]},"map":{"*":{"adobe-pass":"https:\/\/sports.cbsimg.net\/js\/CBSi\/app\/VideoPlayer\/AdobePass-min.js","facebook":"https:\/\/connect.facebook.net\/en_US\/sdk.js","facebook-debug":"https:\/\/connect.facebook.net\/en_US\/all\/debug.js","google":"https:\/\/apis.google.com\/js\/plusone.js","google-csa":"https:\/\/www.google.com\/adsense\/search\/async-ads.js","google-javascript-api":"https:\/\/www.google.com\/jsapi","google-client-api":"https:\/\/accounts.google.com\/gsi\/client","gpt":"https:\/\/securepubads.g.doubleclick.net\/tag\/js\/gpt.js","hlsjs":"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hls.js\/1.0.7\/hls.js","recaptcha":"https:\/\/www.google.com\/recaptcha\/api.js?onload=loadRecaptcha&render=explicit","recaptcha_ajax":"https:\/\/www.google.com\/recaptcha\/api\/js\/recaptcha_ajax.js","supreme-golf":"https:\/\/sgapps-staging.supremegolf.com\/search\/assets\/js\/bundle.js","taboola":"https:\/\/cdn.taboola.com\/libtrc\/cbsinteractive-cbssports\/loader.js","twitter":"https:\/\/platform.twitter.com\/widgets.js","video-avia":"https:\/\/vidtech.cbsinteractive.com\/avia-js\/2.12.0\/player\/avia.min.js","video-avia-ui":"https:\/\/vidtech.cbsinteractive.com\/avia-js\/2.12.0\/plugins\/ui\/avia.ui.min.js","video-avia-gam":"https:\/\/vidtech.cbsinteractive.com\/avia-js\/2.12.0\/plugins\/gam\/avia.gam.min.js","video-avia-hls":"https:\/\/vidtech.cbsinteractive.com\/avia-js\/2.12.0\/plugins\/hls\/avia.hls.min.js","video-avia-playlist":"https:\/\/vidtech.cbsinteractive.com\/avia-js\/2.12.0\/plugins\/playlist\/avia.playlist.min.js","video-ima3":"https:\/\/imasdk.googleapis.com\/js\/sdkloader\/ima3.js","video-ima3-dai":"https:\/\/imasdk.googleapis.com\/js\/sdkloader\/ima3_dai.js","video-utils":"https:\/\/sports.cbsimg.net\/js\/CBSi\/util\/Utils-min.js","video-vast-tracking":"https:\/\/vidtech.cbsinteractive.com\/sb55\/vast-js\/vtg-vast-client.js"}},"waitSeconds":300});
+    require.config({"baseUrl":"https:\/\/sportsfly.cbsistatic.com\/fly-0760\/bundles\/sportsmediajs\/js-build","config":{"version":{"fly\/components\/accordion":"1.0","fly\/components\/alert":"1.0","fly\/components\/base":"1.0","fly\/components\/carousel":"1.0","fly\/components\/dropdown":"1.0","fly\/components\/fixate":"1.0","fly\/components\/form-validate":"1.0","fly\/components\/image-gallery":"1.0","fly\/components\/iframe-messenger":"1.0","fly\/components\/load-more":"1.0","fly\/components\/load-more-article":"1.0","fly\/components\/load-more-scroll":"1.0","fly\/components\/loading":"1.0","fly\/components\/modal":"1.0","fly\/components\/modal-iframe":"1.0","fly\/components\/network-bar":"1.0","fly\/components\/poll":"1.0","fly\/components\/search-player":"1.0","fly\/components\/social-button":"1.0","fly\/components\/social-counts":"1.0","fly\/components\/social-links":"1.0","fly\/components\/tabs":"1.0","fly\/components\/video":"1.0","fly\/libs\/easy-xdm":"2.4.17.1","fly\/libs\/jquery.cookie":"1.2","fly\/libs\/jquery.throttle-debounce":"1.1","fly\/libs\/jquery.widget":"1.9.2","fly\/libs\/omniture.s-code":"1.0","fly\/utils\/jquery-mobile-init":"1.0","fly\/libs\/jquery.mobile":"1.3.2","fly\/libs\/backbone":"1.0.0","fly\/libs\/underscore":"1.5.1","fly\/libs\/jquery.easing":"1.3","fly\/managers\/ad":"2.0","fly\/managers\/components":"1.0","fly\/managers\/cookie":"1.0","fly\/managers\/debug":"1.0","fly\/managers\/geo":"1.0","fly\/managers\/gpt":"4.3","fly\/managers\/history":"2.0","fly\/managers\/madison":"1.0","fly\/managers\/social-authentication":"1.0","fly\/utils\/data-prefix":"1.0","fly\/utils\/data-selector":"1.0","fly\/utils\/function-natives":"1.0","fly\/utils\/guid":"1.0","fly\/utils\/log":"1.0","fly\/utils\/object-helper":"1.0","fly\/utils\/string-helper":"1.0","fly\/utils\/string-vars":"1.0","fly\/utils\/url-helper":"1.0","libs\/jshashtable":"2.1","libs\/select2":"3.5.1","libs\/jsonp":"2.4.0","libs\/jquery\/mobile":"1.4.5","libs\/modernizr.custom":"2.6.2","libs\/velocity":"1.2.2","libs\/dataTables":"1.10.6","libs\/dataTables.fixedColumns":"3.0.4","libs\/dataTables.fixedHeader":"2.1.2","libs\/dateformat":"1.0.3","libs\/waypoints\/infinite":"3.1.1","libs\/waypoints\/inview":"3.1.1","libs\/waypoints\/jquery.waypoints":"3.1.1","libs\/waypoints\/sticky":"3.1.1","libs\/jquery\/dotdotdot":"1.6.1","libs\/jquery\/flexslider":"2.1","libs\/jquery\/lazyload":"1.9.3","libs\/jquery\/maskedinput":"1.3.1","libs\/jquery\/marquee":"1.3.1","libs\/jquery\/numberformatter":"1.2.3","libs\/jquery\/placeholder":"0.2.4","libs\/jquery\/scrollbar":"0.1.6","libs\/jquery\/tablesorter":"2.0.5","libs\/jquery\/touchswipe":"1.6.18","libs\/jquery\/ui\/jquery.ui.core":"1.11.4","libs\/jquery\/ui\/jquery.ui.draggable":"1.11.4","libs\/jquery\/ui\/jquery.ui.mouse":"1.11.4","libs\/jquery\/ui\/jquery.ui.position":"1.11.4","libs\/jquery\/ui\/jquery.ui.slider":"1.11.4","libs\/jquery\/ui\/jquery.ui.sortable":"1.11.4","libs\/jquery\/ui\/jquery.ui.touch-punch":"0.2.3","libs\/jquery\/ui\/jquery.ui.autocomplete":"1.11.4","libs\/jquery\/ui\/jquery.ui.accordion":"1.11.4","libs\/jquery\/ui\/jquery.ui.tabs":"1.11.4","libs\/jquery\/ui\/jquery.ui.menu":"1.11.4","libs\/jquery\/ui\/jquery.ui.dialog":"1.11.4","libs\/jquery\/ui\/jquery.ui.resizable":"1.11.4","libs\/jquery\/ui\/jquery.ui.button":"1.11.4","libs\/jquery\/ui\/jquery.ui.tooltip":"1.11.4","libs\/jquery\/ui\/jquery.ui.effects":"1.11.4","libs\/jquery\/ui\/jquery.ui.datepicker":"1.11.4"}},"shim":{"liveconnection\/managers\/connection":{"deps":["liveconnection\/libs\/sockjs-0.3.4"]},"liveconnection\/libs\/sockjs-0.3.4":{"exports":"SockJS"},"libs\/setValueFromArray":{"exports":"set"},"libs\/getValueFromArray":{"exports":"get"},"fly\/libs\/jquery.mobile-1.3.2":["version!fly\/utils\/jquery-mobile-init"],"libs\/backbone.marionette":{"deps":["jquery","version!fly\/libs\/underscore","version!fly\/libs\/backbone"],"exports":"Marionette"},"fly\/libs\/underscore-1.5.1":{"exports":"_"},"fly\/libs\/backbone-1.0.0":{"deps":["version!fly\/libs\/underscore","jquery"],"exports":"Backbone"},"libs\/jquery\/ui\/jquery.ui.tabs-1.11.4":["jquery","version!libs\/jquery\/ui\/jquery.ui.core","version!fly\/libs\/jquery.widget"],"libs\/jquery\/flexslider-2.1":["jquery"],"libs\/dataTables.fixedColumns-3.0.4":["jquery","version!libs\/dataTables"],"libs\/dataTables.fixedHeader-2.1.2":["jquery","version!libs\/dataTables"],"https:\/\/sports.cbsimg.net\/js\/CBSi\/app\/VideoPlayer\/AdobePass-min.js":["https:\/\/sports.cbsimg.net\/js\/CBSi\/util\/Utils-min.js"]},"map":{"*":{"adobe-pass":"https:\/\/sports.cbsimg.net\/js\/CBSi\/app\/VideoPlayer\/AdobePass-min.js","facebook":"https:\/\/connect.facebook.net\/en_US\/sdk.js","facebook-debug":"https:\/\/connect.facebook.net\/en_US\/all\/debug.js","google":"https:\/\/apis.google.com\/js\/plusone.js","google-csa":"https:\/\/www.google.com\/adsense\/search\/async-ads.js","google-javascript-api":"https:\/\/www.google.com\/jsapi","google-client-api":"https:\/\/accounts.google.com\/gsi\/client","gpt":"https:\/\/securepubads.g.doubleclick.net\/tag\/js\/gpt.js","hlsjs":"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/hls.js\/1.0.7\/hls.js","recaptcha":"https:\/\/www.google.com\/recaptcha\/api.js?onload=loadRecaptcha&render=explicit","recaptcha_ajax":"https:\/\/www.google.com\/recaptcha\/api\/js\/recaptcha_ajax.js","supreme-golf":"https:\/\/sgapps-staging.supremegolf.com\/search\/assets\/js\/bundle.js","taboola":"https:\/\/cdn.taboola.com\/libtrc\/cbsinteractive-cbssports\/loader.js","twitter":"https:\/\/platform.twitter.com\/widgets.js","video-avia":"https:\/\/vidtech.cbsinteractive.com\/avia-js\/2.12.0\/player\/avia.min.js","video-avia-ui":"https:\/\/vidtech.cbsinteractive.com\/avia-js\/2.12.0\/plugins\/ui\/avia.ui.min.js","video-avia-gam":"https:\/\/vidtech.cbsinteractive.com\/avia-js\/2.12.0\/plugins\/gam\/avia.gam.min.js","video-avia-hls":"https:\/\/vidtech.cbsinteractive.com\/avia-js\/2.12.0\/plugins\/hls\/avia.hls.min.js","video-avia-playlist":"https:\/\/vidtech.cbsinteractive.com\/avia-js\/2.12.0\/plugins\/playlist\/avia.playlist.min.js","video-ima3":"https:\/\/imasdk.googleapis.com\/js\/sdkloader\/ima3.js","video-ima3-dai":"https:\/\/imasdk.googleapis.com\/js\/sdkloader\/ima3_dai.js","video-utils":"https:\/\/sports.cbsimg.net\/js\/CBSi\/util\/Utils-min.js","video-vast-tracking":"https:\/\/vidtech.cbsinteractive.com\/sb55\/vast-js\/vtg-vast-client.js"}},"waitSeconds":300});
 
         
 </script>
@@ -267,7 +267,7 @@
         });
     </script>
 
-                        <script src="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediajs/js-build/fly/libs/guid-1.0.js"></script>
+                        <script src="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediajs/js-build/fly/libs/guid-1.0.js"></script>
 <script type="text/javascript">
     var __window_vguid = null;
 
@@ -288,7 +288,7 @@
             data: {"gpt":{"targeting":{"keywords":"readinglist","device":"desktop","ptype":"stories","cid":"2024-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-nations-are-winning-in-paris","env":"prod"},"adConfig":{"network":{"dev":8264,"local":8264,"qa":8264,"alpha":8264,"stage":8264,"beta":8264,"prod":8264},"method":"async-inline","regions":[],"adUnits":{"intromercial":{"outOfPage":true},"skyboxTop":{"sizes":[[5,5]],"position":"top"},"skyboxPlusTop":{"sizes":[[5,5],[728,90],[970,66]],"position":"top"},"skyboxSticky":{"sizes":[[5,5]],"position":"sticky"},"skyboxLeaderSticky":{"sizes":[[5,5],[728,90],[970,66]],"position":"sticky"},"omniSkyboxSticky":{"sizes":[[5,5],[6,6]],"position":"sticky"},"omniSkyboxLeaderSticky":{"sizes":[[5,5],[728,90],[970,66],[6,6]],"position":"sticky"},"leaderPlusTop":{"sizes":[[728,90],[970,66],[970,250],[970,90]],"position":"top","eventCallbacks":{"slotRenderEnded":"leaderboardCallback"}},"leaderPlus2Bottom":{"sizes":[[728,90],[970,66]],"position":"bottom"},"leaderTop":{"sizes":[[728,90],[970,66],[970,90]],"position":"top","eventCallbacks":{"slotRenderEnded":"leaderboardCallback"}},"leaderMiddle":{"sizes":[[728,90],[970,66]],"position":"middle"},"leaderBottom":{"sizes":[[970,66],[728,90]],"position":"bottom"},"mRailTopLeft":{"sizes":[[170,360]],"position":"top"},"mLeaderTop":{"sizes":[[1170,150]],"position":"top"},"mLeaderMiddle":{"sizes":[[1170,150]],"position":"middle"},"mRailTopRight":{"sizes":[[370,345]],"position":"top"},"mStoryInset":{"sizes":[[300,310]],"position":"top"},"mDropdown":{"sizes":[[220,350]],"position":"top"},"mpuBottom":{"sizes":[[300,250]],"position":"bottom","disableInitialLoad":false},"mpuMiddle":{"sizes":[[300,250]],"position":"middle"},"mpuTop":{"sizes":[[300,250]],"position":"top"},"mpuTopGametracker":{"sizes":[[300,250]],"position":"top","disableInitialLoad":true,"eventCallbacks":{"slotRenderEnded":"clear20second"}},"sharethroughTop":{"sizes":[[11,11],["fluid"]],"position":"top","customTargeting":{"strnativekey":"a749ea2b"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"sharethroughBottom":{"sizes":[[11,11],["fluid"],[300,250]],"position":"bottom","customTargeting":{"strnativekey":"a749ea2b"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"sharethroughArticle":{"sizes":[[11,11],["fluid"]],"position":"top","customTargeting":{"strnativekey":"433f2831"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"nativeHqTop":{"sizes":[[11,11],["fluid"]],"position":"top","customTargeting":{"strnativekey":"BAhUjps7CdLL2R6QfFqoXhbT"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"mpuHomeArenaFlex":{"sizes":[[11,11],["fluid"],[300,250]],"position":"top","customTargeting":{"strnativekey":"pHEZXrGTz8xAczhbvBryALrh"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"nativeArenaMiddle":{"sizes":[[11,11],["fluid"]],"position":"middle","customTargeting":{"strnativekey":"rSRFToMHkC84SmYyCbF6LsXG"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"nativeGtTop":{"sizes":[[11,11],["fluid"],[300,250]],"position":"top","customTargeting":{"strnativekey":"3b2acfdb"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"nativeStoryFlexTop":{"sizes":[[11,11],["fluid"],[300,251]],"position":"top","customTargeting":{"strnativekey":"pUtkm6PEEeEqSsKgmNRVvEGN"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"nativeStoryFlexInc":{"sizes":[[11,11],["fluid"],[300,250]],"position":"inc","disableInitialLoad":true,"customTargeting":{"strnativekey":"pUtkm6PEEeEqSsKgmNRVvEGN"}},"videoThumbnailTop":{"sizes":[[171,231]],"position":"top"},"marqueeTop":{"sizes":[[234,60]],"position":"top"},"hqSponsoredShelf":{"sizes":[[150,25]],"position":"top"},"gamblingPartner":{"sizes":[[8,8],["fluid"]],"position":"dynamic"},"gamblingPartnerFlexArticle":{"sizes":[["8x8"],["fluid"],["300x250"]],"position":"dynamic"},"gamblingPartnerLogo":{"sizes":[[8,8],["fluid"]],"position":"static"},"gamblingPartnerModal":{"sizes":[[8,8],["fluid"]],"position":"modal"}},"mobile":{"adUnits":{"intromercial":{"outOfPage":true},"mobileOmniSkyboxPlusSticky":{"sizes":[[5,5],[320,50],[6,6]],"position":"sticky"},"mobileOmniPlusSticky":{"sizes":[[320,50],[6,6]],"position":"sticky"},"mobileSkyboxPlusSticky":{"sizes":[[5,5],[320,50]],"position":"sticky"},"mobileHomeFlexTop":{"sizes":[[11,11],["fluid"],[300,250]],"position":"top","customTargeting":{"strnativekey":"FPbxvZ35anf9AJRvNfe6i5bj"}},"mobileHomeFlexSilentMiddle":{"sizes":[[11,11],["fluid"],[300,250]],"position":"middle","customTargeting":{"strnativekey":"4QaKVuofR1D6XYNp5djXh8m5"}},"mobileHomeFlexBottom":{"sizes":[[11,11],["fluid"],[300,250]],"position":"bottom","customTargeting":{"strnativekey":"FPbxvZ35anf9AJRvNfe6i5bj"}},"mobileHomeFlexSilentBottom2":{"sizes":[[11,11],["fluid"],[300,250]],"position":"bottom2","customTargeting":{"strnativekey":"4QaKVuofR1D6XYNp5djXh8m5"}},"mobileArenaFlexSilentMiddle":{"sizes":[[11,11],["fluid"],[300,250],[320,50]],"position":"middle","customTargeting":{"strnativekey":"p19egy6FqHCsS251t1yj2EBy"}},"mobileArenaFlexSilent":{"sizes":[[11,11],["fluid"],[300,250]],"position":"middle","customTargeting":{"strnativekey":"p19egy6FqHCsS251t1yj2EBy"}},"mobileArenaFlexSilentBottom2":{"sizes":[[11,11],["fluid"],[300,250],[320,50]],"position":"bottom2","customTargeting":{"strnativekey":"p19egy6FqHCsS251t1yj2EBy"}},"mobileFlexSilentTop":{"sizes":[[11,11],["fluid"],[300,250]],"position":"top","customTargeting":{"strnativekey":"gubJdWNSqW4KERyShJGTxkGt"}},"mobileFlexTop":{"sizes":[[300,250],[11,11],["fluid"]],"position":"top","customTargeting":{"strnativekey":"UhpLuUjohuTPZ7eAodkse53o"}},"mobileFlexInc":{"sizes":[[320,50],[300,250],[11,11],["fluid"]],"position":"inc","disableInitialLoad":true,"customTargeting":{"strnativekey":"UhpLuUjohuTPZ7eAodkse53o"}},"mobileBannerTop2":{"sizes":[[320,50]],"position":"top2"},"mpuBottom":{"sizes":[[300,250]],"position":"bottom"},"mobileMpuBottom":{"sizes":[[300,250]],"position":"bottom"},"mobileMpuBottom2":{"sizes":[[300,250]],"position":"bottom2"},"mpuMiddle":{"sizes":[[300,50]],"position":"middle"},"mpuTop":{"sizes":[[320,50]],"position":"top"},"mobileMpuTop":{"sizes":[[300,250]],"position":"top"},"mobileMpuMiddle":{"sizes":[[300,250]],"position":"middle"},"mobileMarketingMpuTop":{"sizes":[[320,100]],"position":"top"},"mobileMarketingMpuMiddle":{"sizes":[[320,100]],"position":"middle"},"mobileMarketingMpuBottom":{"sizes":[[320,100]],"position":"bottom"},"mobileNativeTop2":{"sizes":[[11,11],["fluid"]],"position":"top","customTargeting":{"strnativekey":"nJQjFMCYfivejGXoqNXYEKsY"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"mobileNativeTeamTop":{"sizes":[[11,11],["fluid"],[300,250]],"position":"top","customTargeting":{"strnativekey":"pjJXawoyvqmBkden6uzUT6kQ"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"mobileNativeGtTop":{"sizes":[[11,11],["fluid"],[300,250]],"position":"top","customTargeting":{"strnativekey":"83b0ae49"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"mobileNativeBottom2":{"sizes":[[11,11],["fluid"]],"position":"bottom","customTargeting":{"strnativekey":"nJQjFMCYfivejGXoqNXYEKsY"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"sharethroughPos2":{"sizes":[[11,11],["fluid"],[300,250]],"position":"top","customTargeting":{"strnativekey":"54ab0589"},"eventCallbacks":{"slotRenderEnded":"nativeAdContainerClear"}},"mobileNflnetworkTop":{"sizes":[[300,100]],"position":"top"},"mobileNflnetworkMarqueeTop":{"sizes":[[300,100]],"position":"top"},"mobileMpuTopGametracker":{"sizes":[[300,250]],"position":"top","disableInitialLoad":true,"eventCallbacks":{"slotRenderEnded":"clear20second"}},"mobileHqSponsoredShelf":{"sizes":[[150,25]],"position":"top"},"mobileGamblingPartnerFlexArticle":{"sizes":[["300x250"],["320x50"],["8x8"],["fluid"]],"position":"dynamic"},"mobileGamblingPartner":{"sizes":[[8,8],["fluid"]],"position":"dynamic"},"mobileGamblingPartnerLogo":{"sizes":[[8,8],["fluid"]],"position":"static"},"gamblingPartnerModal":{"sizes":[[8,8],["fluid"]],"position":"modal"},"mobileIncontentSocial":{"sizes":[[12,12]],"position":"top"}}},"siteName":"cbssports","collapseEmptyDiv":true,"setRefreshUnfilledSlots":false,"setClearUnfilledSlots":true,"disableInitialLoad":false,"disableInitialLoadCompanions":true,"disableInitialLoadRefresh":true,"enableSingleRequest":true,"enableHeaderBidding":true,"disableClearTargetingOnInit":true,"enableRepeatedAds":true,"defaultRegion":"aw","adOrder":[],"disableAdIncrement":false,"enableYieldIntelligence":"false"},"containerId":"20126a084788d","slotVars":{"network":"8264","siteName":"cbssports","collapseEmptyDiv":"1","topics":"olympics\/media\/stories","platform":"desktop"},"adType":"gpt","adDivIds":["omni-skybox-leader-sticky-20126a084788d","intromercial-20126a084788d"]},"cookieName":"cbssports_ad","cookieServicePath":"\/ad\/ad-cookie\/","session":6,"subSession":4,"useFirstPageTargeting":true}
         },
         assetsVersion: {
-            version: 'fly-0759'
+            version: 'fly-0760'
         },
         device: "desktop",
         environment: 'prod',
@@ -376,8 +376,8 @@
 
             <div class="page-shell         ">
                             
-<link rel="stylesheet" href="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediacss/css/header-footer/site-header.desktop.css">
-<link rel="stylesheet" href="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediacss/css/header-footer/site-footer.css">
+<link rel="stylesheet" href="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediacss/css/header-footer/site-header.desktop.css">
+<link rel="stylesheet" href="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediacss/css/header-footer/site-footer.css">
 
     
                                 <div id="skybox-wrapper" class="skybox-wrapper desktop">
@@ -482,7 +482,7 @@
 <meta itemprop="thumbnailUrl" content="https://sportshub.cbsistatic.com/i/r/2024/08/02/dbea1ed5-58d4-4eff-819c-67f3225f5acc/thumbnail/1200x675/892122aba8ebc5f7425ecfff9919310e/olympics-rings-louvre-g.png">
 <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
     <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
-        <meta itemprop="url" content="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediacss/images/core/cbssports-logo-60x289.png">
+        <meta itemprop="url" content="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediacss/images/core/cbssports-logo-60x289.png">
         <meta itemprop="width" content="289">
         <meta itemprop="height" content="60">
     </div>
@@ -668,7 +668,7 @@
         United States
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">27</td><td class="TableBase-bodyTd">35</td><td class="TableBase-bodyTd">32</td><td class="TableBase-bodyTd">94</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">27</td><td class="TableBase-bodyTd">35</td><td class="TableBase-bodyTd">33</td><td class="TableBase-bodyTd">95</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -689,7 +689,7 @@
         China
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">25</td><td class="TableBase-bodyTd">23</td><td class="TableBase-bodyTd">17</td><td class="TableBase-bodyTd">65</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">27</td><td class="TableBase-bodyTd">25</td><td class="TableBase-bodyTd">17</td><td class="TableBase-bodyTd">69</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -710,7 +710,7 @@
         Australia
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">18</td><td class="TableBase-bodyTd">12</td><td class="TableBase-bodyTd">11</td><td class="TableBase-bodyTd">41</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">18</td><td class="TableBase-bodyTd">14</td><td class="TableBase-bodyTd">11</td><td class="TableBase-bodyTd">43</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -794,7 +794,7 @@
         Japan
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">12</td><td class="TableBase-bodyTd">6</td><td class="TableBase-bodyTd">13</td><td class="TableBase-bodyTd">31</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">12</td><td class="TableBase-bodyTd">7</td><td class="TableBase-bodyTd">13</td><td class="TableBase-bodyTd">32</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -815,7 +815,7 @@
         Italy
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">9</td><td class="TableBase-bodyTd">10</td><td class="TableBase-bodyTd">8</td><td class="TableBase-bodyTd">27</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">10</td><td class="TableBase-bodyTd">11</td><td class="TableBase-bodyTd">9</td><td class="TableBase-bodyTd">30</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -836,7 +836,7 @@
         Netherlands
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">9</td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">6</td><td class="TableBase-bodyTd">20</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">10</td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">6</td><td class="TableBase-bodyTd">21</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -857,7 +857,7 @@
         Germany
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">8</td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">18</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">9</td><td class="TableBase-bodyTd">6</td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">20</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -887,6 +887,27 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
+            <img class=" is-lazy-image" alt="NZL" data-lazy="https://sports.cbsimg.net/fly/images/flags/NZL.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        NZL
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        New Zealand
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">4</td><td class="TableBase-bodyTd">6</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">12</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
             <img class=" is-lazy-image" alt="EIR" data-lazy="https://sports.cbsimg.net/fly/images/flags/EIR.svg" src="">
                     </div>
     
@@ -900,27 +921,6 @@
     </span>
 </div>
     </td><td class="TableBase-bodyTd">4</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">7</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
-            <img class=" is-lazy-image" alt="NZL" data-lazy="https://sports.cbsimg.net/fly/images/flags/NZL.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        NZL
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        New Zealand
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">6</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">10</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -962,7 +962,7 @@
         Hungary
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">8</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">9</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -983,7 +983,7 @@
         Sweden
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">8</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">9</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -1046,7 +1046,7 @@
         Spain
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">6</td><td class="TableBase-bodyTd">11</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">8</td><td class="TableBase-bodyTd">13</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -1433,6 +1433,27 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
+            <img class=" is-lazy-image" alt="ARG" data-lazy="https://sports.cbsimg.net/fly/images/flags/ARG.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        ARG
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Argentina
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">2</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
             <img class=" is-lazy-image" alt="CHI" data-lazy="https://sports.cbsimg.net/fly/images/flags/CHL.svg" src="">
                     </div>
     
@@ -1580,6 +1601,27 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
+            <img class=" is-lazy-image" alt="AUT" data-lazy="https://sports.cbsimg.net/fly/images/flags/AUT.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        AUT
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Austria
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">2</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
             <img class=" is-lazy-image" alt="CZE" data-lazy="https://sports.cbsimg.net/fly/images/flags/CZE.svg" src="">
                     </div>
     
@@ -1622,6 +1664,27 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
+            <img class=" is-lazy-image" alt="INA" data-lazy="https://sports.cbsimg.net/fly/images/flags/INA.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        INA
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Indonesia
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">2</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
             <img class=" is-lazy-image" alt="NOR" data-lazy="https://sports.cbsimg.net/fly/images/flags/NOR.svg" src="">
                     </div>
     
@@ -1653,27 +1716,6 @@
 
     <span class="CountryFlagNameLockup-name">
         Algeria
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">1</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
-            <img class=" is-lazy-image" alt="ARG" data-lazy="https://sports.cbsimg.net/fly/images/flags/ARG.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        ARG
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        Argentina
     </span>
 </div>
     </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">1</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
@@ -1790,27 +1832,6 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
-            <img class=" is-lazy-image" alt="ARM" data-lazy="https://sports.cbsimg.net/fly/images/flags/ARM.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        ARM
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        Armenia
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">3</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
             <img class=" is-lazy-image" alt="MEX" data-lazy="https://sports.cbsimg.net/fly/images/flags/MEX.svg" src="">
                     </div>
     
@@ -1821,6 +1842,27 @@
 
     <span class="CountryFlagNameLockup-name">
         Mexico
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">4</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
+            <img class=" is-lazy-image" alt="ARM" data-lazy="https://sports.cbsimg.net/fly/images/flags/ARM.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        ARM
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Armenia
     </span>
 </div>
     </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">3</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
@@ -2147,27 +2189,6 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
-            <img class=" is-lazy-image" alt="AUT" data-lazy="https://sports.cbsimg.net/fly/images/flags/AUT.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        AUT
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        Austria
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">1</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
             <img class=" is-lazy-image" alt="CPV" data-lazy="https://sports.cbsimg.net/fly/images/flags/CPV.svg" src="">
                     </div>
     
@@ -2220,27 +2241,6 @@
 
     <span class="CountryFlagNameLockup-name">
         Grenada
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">1</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
-            <img class=" is-lazy-image" alt="INA" data-lazy="https://sports.cbsimg.net/fly/images/flags/INA.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        INA
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        Indonesia
     </span>
 </div>
     </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">1</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
@@ -2430,6 +2430,69 @@
                                                                                 
                                                         
                 
+            <a href="/olympics/news/team-usa-vs-serbia-prediction-odds-start-time-2024-paris-olympics-mens-basketball-semifinal-expert-picks/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="giannis-greece-getty-1.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/08/bfa199b7-dfb3-4549-adfb-24ac8b66c790/thumbnail/160x160/3bd2d975e67341b8e65211603dc8a62f/lebron-usa-getty.jpg" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/team-usa-vs-serbia-prediction-odds-start-time-2024-paris-olympics-mens-basketball-semifinal-expert-picks/">
+                                    USA vs. Serbia odds, Olympic basketball picks, bets
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    CBS Sports Staff
+                                                                • 3 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
+            <a href="/olympics/news/egypt-vs-morocco-prediction-odds-time-2024-paris-olympics-picks-mens-soccer-best-bets-by-proven-expert/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="robert-lewandowski-barcelona-getty-images.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/06/0d56d773-a7c5-4852-a415-ecf64cf652b7/thumbnail/160x160/91daa46a6fa5ebacdc9930c748bb6873/hakimi-morocco-olympics-getty.jpg" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/egypt-vs-morocco-prediction-odds-time-2024-paris-olympics-picks-mens-soccer-best-bets-by-proven-expert/">
+                                    Egypt vs. Morocco odds, Olympic soccer picks, best bets
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    CBS Sports Staff
+                                                                • 3 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
+            <a href="/olympics/news/germany-vs-france-prediction-odds-time-2024-paris-olympics-mens-basketball-semifinal-expert-picks/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="giannis-greece-getty-1.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/06/e0bcbef8-dd86-49a1-b72d-261199f6b33d/thumbnail/160x160/09e0d896af8f3caeb7df321ae9734caa/victor-wembanyama-usatsi-cbs.jpg" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/germany-vs-france-prediction-odds-time-2024-paris-olympics-mens-basketball-semifinal-expert-picks/">
+                                    Germany vs. France odds, Olympic basketball picks, bets
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    CBS Sports Staff
+                                                                • 3 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
             <a href="/olympics/news/paris-olympics-kevin-durant-says-simone-biles-inspired-him-to-keep-tweeting-clapping-back-at-negativity/" class="LatestNewsBox-imageUrl">
                                                 <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="gettyimages-2164680413-1-1.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/08/509a38a6-bd7b-465b-ba86-8dd330ca5e0e/thumbnail/160x160/624490acb4fbb0d59fbbf54ba0050d65/gettyimages-2164680413-1-1.jpg" src="" height="160" width="160"></figure>
                     </a>
@@ -2485,69 +2548,6 @@
                             <h5 class="LatestNewsBox-itemInfo">
                                                                     Jasmyn Wimbish
                                                                 • 4 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/2024-paris-olympics-odds-predictions-for-thursday-august-8-expert-picks-for-basketball-volleyball-track/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="AS Monaco v RB Leipzig - UEFA Champions League" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/08/36efcb44-a3fc-45aa-a9f4-a20b6ba958ca/thumbnail/160x160/23bb8f201c04907048ba408c23979cae/femke-bol-olympics-usatsi.jpg" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/2024-paris-olympics-odds-predictions-for-thursday-august-8-expert-picks-for-basketball-volleyball-track/">
-                                    2024 Paris Olympics odds, predictions for August 8
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    CBS Sports Staff
-                                                                • 2 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/team-usa-womens-basketball-roster-schedule-for-2024-paris-olympics-americans-eyeing-eighth-consecutive-gold/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="gettyimages-2162842922-1-1.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/07/bf3ed2a3-791f-42df-8e66-65336f04de52/thumbnail/160x160/e9198091ab5ff77796b7f0acafd673a7/gettyimages-2165772855-1-1.jpg" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/team-usa-womens-basketball-roster-schedule-for-2024-paris-olympics-americans-eyeing-eighth-consecutive-gold/">
-                                    Team USA Women: Roster, schedule, outlook for Olympics
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Jack Maloney
-                                                                • 2 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/2024-paris-olympics-scouting-report-on-uswnts-opponents-brazil-ahead-of-gold-medal-game/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="fox.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/07/14d82f90-9a2d-43f3-9521-6e4831c76eb4/thumbnail/160x160/02697f551fa6564d30dc5ff2dbd2d917/fox.jpg" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/2024-paris-olympics-scouting-report-on-uswnts-opponents-brazil-ahead-of-gold-medal-game/">
-                                    What to know about USWNT's opponent Brazil
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Sandra Herrera
-                                                                • 3 min read
                             </h5>
                         </div>
                     </div>
@@ -3168,17 +3168,17 @@
     <div class="content-container">
         <div class="site-footer-row">
             <div class="site-footer-branding" tabindex="0" aria-label="CBS Sports Digital" title="CBS Sports Digital">
-                <img class="site-footer-logo" loading="lazy" width="254" height="19" src="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediacss/images/core/logo-cbs-sports-digital-blue.svg" alt="Commissioner.com">
+                <img class="site-footer-logo" loading="lazy" width="254" height="19" src="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediacss/images/core/logo-cbs-sports-digital-blue.svg" alt="Commissioner.com">
             </div>
         </div>
         <div class="site-footer-row">
             <div class="site-footer-branding" tabindex="0" aria-label="CBS Sports Golazo Network" title="CBS Sports Golazo Network">
-                <img class="site-footer-logo" loading="lazy" width="403" height="20" src="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediacss/images/core/logo-cbs-sports-golazo-network-blue.svg" alt="Commissioner.com">
+                <img class="site-footer-logo" loading="lazy" width="403" height="20" src="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediacss/images/core/logo-cbs-sports-golazo-network-blue.svg" alt="Commissioner.com">
             </div>
         </div>
         <div class="site-footer-row">
             <div class="site-footer-branding" tabindex="0" aria-label="Paramount Plus" title="Paramount Plus">
-                <img class="site-footer-logo" loading="lazy" width="139" height="33" src="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediacss/images/core/logo-paramount-plus-blue.svg" alt="Commissioner.com">
+                <img class="site-footer-logo" loading="lazy" width="139" height="33" src="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediacss/images/core/logo-paramount-plus-blue.svg" alt="Commissioner.com">
             </div>
         </div>
 
@@ -3230,31 +3230,31 @@
         <div class="site-footer-row">
             <div class="site-footer-partners">
                 <div class="site-footer-button" tabindex="0" title="Commissioner.com">
-                    <img class="footer-partner-commish" loading="lazy" width="100" height="28" src="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediacss/images/core/commissioner-button1.svg" alt="Commissioner.com">
+                    <img class="footer-partner-commish" loading="lazy" width="100" height="28" src="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediacss/images/core/commissioner-button1.svg" alt="Commissioner.com">
                 </div>
                 <div class="site-footer-button" tabindex="0" title="Commissioner.com">
-                    <img class="footer-partner-commish2" loading="lazy" width="104" height="38" src="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediacss/images/core/commissioner-button2.svg" alt="Commissioner.com">
+                    <img class="footer-partner-commish2" loading="lazy" width="104" height="38" src="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediacss/images/core/commissioner-button2.svg" alt="Commissioner.com">
                 </div>
                 <div class="site-footer-partner-break"></div>
                 <div class="site-footer-button" tabindex="0" title="Golfweb.com">
-                    <img class="footer-partner-golfweb" loading="lazy" width="140" height="25" src="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediacss/images/core/footer_golfweb.svg" alt="Golfweb.com">
+                    <img class="footer-partner-golfweb" loading="lazy" width="140" height="25" src="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediacss/images/core/footer_golfweb.svg" alt="Golfweb.com">
                 </div>
                 <div class="site-footer-button" tabindex="0" title="SportsLine.com">
                     <a href="https://www.sportsline.com/" target="_blank" rel="noopener" title="Sportsline text logo">
-                        <img class="footer-partner-sportsline" loading="lazy" width="125" height="26" src="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediacss/images/core/logo-sportsline-text.svg" alt="Sportsline.com">
+                        <img class="footer-partner-sportsline" loading="lazy" width="125" height="26" src="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediacss/images/core/logo-sportsline-text.svg" alt="Sportsline.com">
                     </a>
                 </div>
                 <div class="site-footer-button" tabindex="0" title="MVP.com">
-                    <img class="footer-partner-mvp" loading="lazy" width="50" height="26" src="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediacss/images/core/mvp-footer-button.svg" alt="MVP.com">
+                    <img class="footer-partner-mvp" loading="lazy" width="50" height="26" src="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediacss/images/core/mvp-footer-button.svg" alt="MVP.com">
                 </div>
                 <div class="site-footer-button" tabindex="0" title="Scout">
                     <a href="https://247sports.com" target="_blank" rel="noopener">
-                        <img class="footer-partner-scout" loading="lazy" width="65" height="28" src="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediacss/images/partners/scout-logo.svg" alt="Scout">
+                        <img class="footer-partner-scout" loading="lazy" width="65" height="28" src="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediacss/images/partners/scout-logo.svg" alt="Scout">
                     </a>
                 </div>
                 <div class="site-footer-button" tabindex="0" title="Scout Fantasy">
                     <a href="/fantasy/">
-                        <img class="footer-partner-scout-fantasy" loading="lazy" width="120" height="28" src="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediacss/images/partners/scout-fantasy.svg" alt="Scout Fantasy">
+                        <img class="footer-partner-scout-fantasy" loading="lazy" width="120" height="28" src="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediacss/images/partners/scout-fantasy.svg" alt="Scout Fantasy">
                     </a>
                 </div>
             </div>
@@ -3283,7 +3283,7 @@
 
 
 
-    <script type="text/javascript" charset="utf-8" data-requirecontext="_" data-requiremodule="jquery" src="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediajs/js-build/jquery.js">
+    <script type="text/javascript" charset="utf-8" data-requirecontext="_" data-requiremodule="jquery" src="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediajs/js-build/jquery.js">
     </script>
 
 
@@ -3293,7 +3293,7 @@
 
 
 
-    <script type="text/javascript" charset="utf-8" data-requirecontext="_" data-requiremodule="footer.lite" src="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediajs/js-build/footer.lite.js">
+    <script type="text/javascript" charset="utf-8" data-requirecontext="_" data-requiremodule="footer.lite" src="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediajs/js-build/footer.lite.js">
     </script>
 
 
@@ -3303,7 +3303,7 @@
 
 
 
-    <script async type="text/javascript" charset="utf-8" data-requirecontext="_" data-requiremodule="main.desktop" src="https://sportsfly.cbsistatic.com/fly-0759/bundles/sportsmediajs/js-build/main.desktop.js">
+    <script async type="text/javascript" charset="utf-8" data-requirecontext="_" data-requiremodule="main.desktop" src="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediajs/js-build/main.desktop.js">
     </script>
 
 
