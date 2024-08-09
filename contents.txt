@@ -2535,6 +2535,27 @@
                                                                                 
                                                         
                 
+            <a href="/olympics/news/2024-olympics-noah-lyles-says-i-believe-this-will-be-the-end-of-my-2024-olympics-as-he-battles-covid-19/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="untitled-design-2024-08-08t145136-795.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/08/4336f0a3-b597-4ce7-902d-4a58287e971c/thumbnail/160x160/ac18b6e86d531994ec9c20b9325e2928/untitled-design-2024-08-08t145136-795.png" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/2024-olympics-noah-lyles-says-i-believe-this-will-be-the-end-of-my-2024-olympics-as-he-battles-covid-19/">
+                                    Lyles: 'This will be the end of my 2024 Olympics'
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    Zachary Pereles
+                                                                • 1 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
             <a href="/olympics/news/team-usa-mens-basketball-vs-serbia-why-devin-booker-was-an-unsung-hero-in-americans-comeback/" class="LatestNewsBox-imageUrl">
                                                 <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="booker.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/08/c05aadd9-b8cf-4f07-b4ed-79db5a7e9416/thumbnail/160x160/8e6cb764d3167bc5b15f010e97ea6ed3/booker.png" src="" height="160" width="160"></figure>
                     </a>
@@ -2632,27 +2653,6 @@
                             <h5 class="LatestNewsBox-itemInfo">
                                                                     CBS Sports Staff
                                                                 • 2 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/usa-basketball-beats-serbia-damian-lillard-ja-morant-josh-hart-more-react-to-team-usas-thrilling-comeback/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="curry-usa-reacts-getty.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/08/f95f436e-ea74-4f65-8aea-c687ca60f2d7/thumbnail/160x160/186b73a2b7a7edebd64998da0142eb30/curry-usa-reacts-getty.png" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/usa-basketball-beats-serbia-damian-lillard-ja-morant-josh-hart-more-react-to-team-usas-thrilling-comeback/">
-                                    Dame, Ja, more react to Team USA's stunning comeback
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Zachary Pereles
-                                                                • 1 min read
                             </h5>
                         </div>
                     </div>
