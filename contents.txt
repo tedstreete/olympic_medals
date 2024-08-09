@@ -321,7 +321,7 @@
                 
     	
     <script type="text/javascript">
-        var _utag_obj = {"isEnabled":true,"articleAuthorId":["73d2ab1f-1fd8-4927-ad62-87e88ca51107"],"articleAuthorName":["Zachary Pereles"],"articleId":"4127b3de-155f-44b5-b9c8-26c85fb66f6a","articlePubDate":"2024-07-26 15:24:24","articleTitle":"2024 Olympics medal count: Tracker for how many gold, silver, bronze medals USA, nations are winning in Paris","articleType":"content_article_vembed:story","deviceType":"desktop","pageNum":1,"pageType":"stories","siteHier":["media","olympics","stories"],"siteSection":["media","olympics","","","stories",""],"siteType":"desktop web","topicId":["1a6353f0-049c-11e5-b0ea-005056a03fba"],"topicName":["olympics"],"userState":"not authenticated","userType":"anon","dwAccount":"cbsicbssportssite","dwHost":"dw.cbsi.com","siteId":175,"reportSuiteId":"cbsicbssportssite","bkSiteId":3344,"limit":4,"articleSequenceCount":"1","contentOrigin":"CBSSports.com Original","pageName":"\/olympics\/news\/2024-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-nations-are-winning-in-paris\/","taboolaFlag":"false","siteName":"cbssports","tealium":{"profile":"cbssportssite","env":"prod"},"brandPlatformId":"cbssports_site_desktop","isAvia":true};
+        var _utag_obj = {"isEnabled":true,"articleAuthorId":["73d2ab1f-1fd8-4927-ad62-87e88ca51107"],"articleAuthorName":["Zachary Pereles"],"articleId":"4127b3de-155f-44b5-b9c8-26c85fb66f6a","articlePubDate":"2024-07-26 15:24:24","articleTitle":"2024 Olympics medal count: Tracker for how many gold, silver, bronze medals USA, nations are winning in Paris","articleType":"content_article_vembed:story","deviceType":"desktop","pageNum":1,"pageType":"stories","siteHier":["media","olympics","stories"],"siteSection":["media","olympics","","","stories",""],"siteType":"desktop web","topicId":["1a6353f0-049c-11e5-b0ea-005056a03fba"],"topicName":["olympics"],"userId":44923904,"userState":"authenticated","userType":"registered","dwAccount":"cbsicbssportssite","dwHost":"dw.cbsi.com","siteId":175,"reportSuiteId":"cbsicbssportssite","bkSiteId":3344,"limit":4,"articleSequenceCount":"1","contentOrigin":"CBSSports.com Original","pageName":"\/olympics\/news\/2024-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-nations-are-winning-in-paris\/","taboolaFlag":"false","siteName":"cbssports","tealium":{"profile":"cbssportssite","env":"prod"},"brandPlatformId":"cbssports_site_desktop","isAvia":true};
         _utag_obj.pageViewGuid = __window_vguid;
         var utag_data = _utag_obj;
     </script>
@@ -2556,6 +2556,27 @@
                                                                                 
                                                         
                 
+            <a href="/olympics/news/france-vs-belgium-prediction-odds-time-2024-paris-olympics-womens-basketball-picks-by-proven-expert/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="giannis-greece-getty-1.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/09/97c614e0-64e4-42c5-a414-bb940a159f88/thumbnail/160x160/aaccd014a936b6f821c09062af44159d/gabby-williams-france-getty-images.jpg" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/france-vs-belgium-prediction-odds-time-2024-paris-olympics-womens-basketball-picks-by-proven-expert/">
+                                    France-Belgium odds, Olympic women's basketball bets
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    CBS Sports Staff
+                                                                • 4 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
             <a href="/olympics/news/2024-paris-olympics-odds-predictions-for-friday-august-9-expert-reveals-picks-for-boxing-track-and-field/" class="LatestNewsBox-imageUrl">
                                                 <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="AS Monaco v RB Leipzig - UEFA Champions League" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/08/ff337d08-6d72-4cde-a84e-8a2fe12b70c1/thumbnail/160x160/6b5743e7e124518d1686daa6802c08b7/sarah-mitton-canada-gettu.jpg" src="" height="160" width="160"></figure>
                     </a>
@@ -2653,27 +2674,6 @@
                             <h5 class="LatestNewsBox-itemInfo">
                                                                     Brad Botkin
                                                                 • 5 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/breaking-at-the-2024-paris-olympics-how-the-hip-hop-phenomenon-will-be-scored-and-judged-in-france/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="breakdancing-olympics.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/07/26/f8a84c16-6295-45a6-ba5c-6dae6717290b/thumbnail/160x160/abea4bde38eee3d5b8ea084439064a5a/breakdancing-olympics.jpg" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/breaking-at-the-2024-paris-olympics-how-the-hip-hop-phenomenon-will-be-scored-and-judged-in-france/">
-                                    What you need to know about Breaking in the Olympics
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Jordan Pagkalinawan
-                                                                • 1 min read
                             </h5>
                         </div>
                     </div>
