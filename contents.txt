@@ -31,7 +31,7 @@
 <meta property="og:site_name" content="CBSSports.com">
 <meta property="og:title" content="2024 Olympics medal count: Tracker for how many gold, silver, bronze medals USA, nations are winning in Paris">
 <meta property="og:description" content="Olympic medal count for the 2024 Paris Games being updated across each day of competition">
-    <meta property="og:image" content="https://sportshub.cbsistatic.com/i/r/2024/08/08/5bc3a2fb-beba-4742-bc08-49a7d3f0716f/thumbnail/1200x675/5cef3bc3f14fc73cef8e0e02227b8461/sydney-mclaughlin-olympics-g.jpg">
+    <meta property="og:image" content="https://sportshub.cbsistatic.com/i/r/2024/08/02/dbea1ed5-58d4-4eff-819c-67f3225f5acc/thumbnail/1200x675/892122aba8ebc5f7425ecfff9919310e/olympics-rings-louvre-g.png">
 <meta property="og:type" content="article">
     <meta property="og:url" content="https://www.cbssports.com/olympics/news/2024-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-nations-are-winning-in-paris/">
     <meta property="article:opinion" content="false">
@@ -53,7 +53,7 @@
 <meta content="@zach_pereles" name="twitter:creator">
 <meta content="2024 Olympics medal count: Tracker for how many gold, silver, bronze medals USA, nations are winning in Paris - CBSSports.com" name="twitter:title">
 <meta content="Olympic medal count for the 2024 Paris Games being updated across each day of competition" name="twitter:description">
-<meta content="https://sportshub.cbsistatic.com/i/r/2024/08/08/5bc3a2fb-beba-4742-bc08-49a7d3f0716f/thumbnail/1200x675/5cef3bc3f14fc73cef8e0e02227b8461/sydney-mclaughlin-olympics-g.jpg" name="twitter:image">
+<meta content="https://sportshub.cbsistatic.com/i/r/2024/08/02/dbea1ed5-58d4-4eff-819c-67f3225f5acc/thumbnail/1200x675/892122aba8ebc5f7425ecfff9919310e/olympics-rings-louvre-g.png" name="twitter:image">
 <meta content="CBSSports.com features live scoring and news for NFL football, MLB baseball, NBA basketball, NHL hockey, college basketball and football. CBSSports.com is also your source for fantasy sports news." name="msapplication-tooltip">
 <meta content="https://www.cbssports.com/" name="msapplication-starturl">
 <meta content="width=1024;height=768" name="msapplication-window">
@@ -472,14 +472,14 @@
 <meta itemprop="headline" content="2024 Olympics medal count: Tracker for how many gold, silver, bronze medals USA, nations are winning in Paris">
 <meta itemprop="description" content="Olympic medal count for the 2024 Paris Games being updated across each day of competition">
 <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-    <meta itemprop="url" content="https://sportshub.cbsistatic.com/i/r/2024/08/08/5bc3a2fb-beba-4742-bc08-49a7d3f0716f/thumbnail/1200x675/5cef3bc3f14fc73cef8e0e02227b8461/sydney-mclaughlin-olympics-g.jpg">
+    <meta itemprop="url" content="https://sportshub.cbsistatic.com/i/r/2024/08/02/dbea1ed5-58d4-4eff-819c-67f3225f5acc/thumbnail/1200x675/892122aba8ebc5f7425ecfff9919310e/olympics-rings-louvre-g.png">
     <meta itemprop="width" content="1200">
     <meta itemprop="height" content="675">
 </div>
 <meta itemprop="keywords" content="Olympics">
 <meta itemprop="url" content="https://www.cbssports.com/olympics/news/2024-olympics-medal-count-tracker-for-how-many-gold-silver-bronze-medals-usa-nations-are-winning-in-paris/">
 <meta itemprop="datePublished" content="2024-08-09 00:39:00">
-<meta itemprop="thumbnailUrl" content="https://sportshub.cbsistatic.com/i/r/2024/08/08/5bc3a2fb-beba-4742-bc08-49a7d3f0716f/thumbnail/1200x675/5cef3bc3f14fc73cef8e0e02227b8461/sydney-mclaughlin-olympics-g.jpg">
+<meta itemprop="thumbnailUrl" content="https://sportshub.cbsistatic.com/i/r/2024/08/02/dbea1ed5-58d4-4eff-819c-67f3225f5acc/thumbnail/1200x675/892122aba8ebc5f7425ecfff9919310e/olympics-rings-louvre-g.png">
 <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
     <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
         <meta itemprop="url" content="https://sportsfly.cbsistatic.com/fly-0760/bundles/sportsmediacss/images/core/cbssports-logo-60x289.png">
@@ -626,7 +626,7 @@
         
                 
     <div class="Article-featuredImage">
-                                <figure class=" img"><img class="Article-featuredImageImg is-lazy-image" alt="untitled-design-2024-08-06t184435-830.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/08/5bc3a2fb-beba-4742-bc08-49a7d3f0716f/thumbnail/770x433/3f0f5e2f11dd9291071bf0b396eaa877/sydney-mclaughlin-olympics-g.jpg" src="" height="433" width="770"></figure>
+                                <figure class=" img"><img class="Article-featuredImageImg is-lazy-image" alt="olympics-rings-louvre-g.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/02/dbea1ed5-58d4-4eff-819c-67f3225f5acc/thumbnail/770x433/0d05f527d459911a7f4f181961e5e07f/olympics-rings-louvre-g.png" src="" height="433" width="770"></figure>
         
                     <figcaption class="MediaShortcode-figcaption MediaShortcode-figcaption--indent">
                 <span class="MediaShortcode-credit">Getty Images</span>
@@ -639,7 +639,7 @@
         
                             
                 
-        <p>Team USA's track and field exploits continued on Wednesday, with Quincy Hall's jaw-dropping kick propelling him to the men's 400-meter gold and Kenneth Rooks coming from behind to take silver in the men's 3,000-meter steeplechase. Katie Moon, meanwhile, took silver in the women's pole vault.</p><p>The United States continued to rack up the medals away from the Stade de France, too. One day after Amit Elor won gold in women's 68-kilogram wrestling, Sarah Hildebrandt won gold in the women's 50-kilogram division. Team USA women's team pursuit cycling also took gold in thrilling fashion. Rounding out Wednesday's medal haul for the United States, artistic swimming earned silver, Tom Schaar took silver in men's park skateboarding, and Hampton Morris nabbed bronze in men's 61-kilogram weightlifting.</p><p>Through Wednesday, the USA remains far ahead in the total medal count with 94. China is second with 65. The U.S. also maintained the outright lead for gold medals with 27, two ahead of China's 25. The United States also leads the way in silvers (35) and bronzes (32).</p><p>The United States entered these Games with the most medals ever won in the Summer Olympics. The U.S. also holds the record for most gold medals won in a single games with 83 captured in 1984, one of the country's host years that took place as the Soviet Union led a 12-nation boycott of the Los Angeles Games. Such lofty totals will not happen this year. In Paris, America is simply looking to build upon the success that it had three years ago when the U.S. brought home 39 gold medals, 41 silvers and 33 bronze.</p>
+        <p>Another day, another dominant effort from Team USA in track &amp; field. The Star-Spangled Banner rang out at Stade de France all day as the Americans as a whole passed the 100-medal mark for these Olympics.</p><p>Here's where Thursday's golds came from for the Americans:</p><ul><li><span class="link"><a href="https://www.cbssports.com/olympics/news/2024-olympics-sydney-mclaughlin-levrone-destroys-own-400m-hurdles-world-record-first-to-win-two-gold-medals/" target="_blank">Women's 400-meter hurdles</a></span>: Syndney McLaughlin-LeVrone (gold) and Anna Cockrell (silver)</li><li>Men's 110-meter hurdles: Grant Holloway (gold) and Daniel Roberts (silver)</li><li>Women's long jump: Tara-Davis Woodhall (gold) and Jasmine Moore (bronze)<br></li><li>Men's 200 meters: Kenneth Bednarik (silver) and Noah Lyles (bronze), despite <span class="link"><a href="https://www.cbssports.com/olympics/news/2024-olympics-noah-lyles-dealing-with-covid-19-wins-bronze-medal-in-200-meters-kenny-bednarek-takes-silver/" target="_blank">dealing with COVID-19</a></span>)</li><li>Men's sport climbing: Sam Watson (bronze)</li></ul><p>Through Thursday, the United States remains far ahead in the total medal count with 103. China is second with 73. The U.S. also maintained the outright lead for gold medals with 30, one ahead of China's 29. The United States also leads the way in silvers (38) and bronzes (35).</p><p>The United States entered these Games with the most medals ever won in the Summer Olympics. The U.S. also holds the record for most gold medals won in a single games with 83 captured in 1984, one of the country's host years that took place as the Soviet Union led a 12-nation boycott of the Los Angeles Games. Such lofty totals will not happen this year. In Paris, America is simply looking to build upon the success that it had three years ago when the U.S. brought home 39 gold medals, 41 silvers and 33 bronze.</p>
         <div id="article-body-ad-0" class="native-story-ad">
         
         <div id="native_story_flex_top" class="ad-native-story-flex-top " data-ad="native-story-flex-top" data-ad-unit="native_story_flex_top">
@@ -2838,14 +2838,14 @@
                                         "moduleLocation": "article-2",
                                         "moduleAction": "click-hyperlink",
                                         "moduleCampaign": "infinite scroll"
-                                    }' data-url="/olympics/news/2024-olympics-noah-lyles-dealing-with-covid-19-wins-bronze-medal-in-200-meters-kenny-bednarek-takes-silver/">
+                                    }' data-url="/olympics/news/2024-olympics-sydney-mclaughlin-levrones-gold-adds-to-her-glory-while-covid-robs-noah-lyles-of-his-story/">
                                                             <article class="NewsFeed-container">
                                     <div class="NewsFeed-imageCol NewsFeed-imageCol--medium">
-                                                                                    <a href="/olympics/news/2024-olympics-noah-lyles-dealing-with-covid-19-wins-bronze-medal-in-200-meters-kenny-bednarek-takes-silver/">
+                                                                                    <a href="/olympics/news/2024-olympics-sydney-mclaughlin-levrones-gold-adds-to-her-glory-while-covid-robs-noah-lyles-of-his-story/">
                                                                                                                                                                                                                                         
                                                 
                                                 <div class="NewsFeed-image NewsFeed-image--medium">
-                                                                <figure class=" img"><img class=" " alt="" src="https://sportshub.cbsistatic.com/i/r/2024/08/08/6c0a8bf6-5641-4853-a0ec-d1600f2ec5be/thumbnail/140x140/6a1741c0ccb3a91be4a2390514e1c625/noah-lyles-gassed-200m-olymipcs-g.jpg" height="140" width="140"></figure>
+                                                                <figure class=" img"><img class=" " alt="" src="https://sportshub.cbsistatic.com/i/r/2024/08/09/fa82a7c3-55d6-43e3-9cb9-3ebd2dcb2f2f/thumbnail/140x140/b52c3397b0b7b10e42a191f1041bb805/untitled-design-2024-08-08t200248-064.png" height="140" width="140"></figure>
                                                                                                             <div class="NewsFeed-progressImageOverlay"></div>
                                                                                                     </div>
                                                                                                                                 </a>
@@ -2854,19 +2854,19 @@
                                     <div class="NewsFeed-content NewsFeed-content--medium">
                                                                                     <h3 class="NewsFeed-title NewsFeed-title--medium">
                                                                                                                                                                                                             
-                        <a href="/olympics/news/2024-olympics-noah-lyles-dealing-with-covid-19-wins-bronze-medal-in-200-meters-kenny-bednarek-takes-silver/" class="">Lyles battles COVID-19 to take bronze in 200m</a>
+                        <a href="/olympics/news/2024-olympics-sydney-mclaughlin-levrones-gold-adds-to-her-glory-while-covid-robs-noah-lyles-of-his-story/" class="">Gold adds to her glory; COVID-19 ruins his story</a>
             
                                                                                                                                                 </h3>
                                                                                 
                                         <div class="NewsFeed-byline">
                                             
                                                                                             <span class="NewsFeed-author NewsFeed-bylineItem">
-                                                    Adam Silverstein
+                                                    Matt Norlander
                                                 </span>
                                             
                                             
                                                                                             <span class="NewsFeed-date NewsFeed-bylineItem">
-                                                     2 min read
+                                                     6 min read
                                                 </span>
                                                                                     </div>
                                                                                     <div class="NewsFeed-progressBar" data-article-id="1">
@@ -2885,14 +2885,14 @@
                                         "moduleLocation": "article-3",
                                         "moduleAction": "click-hyperlink",
                                         "moduleCampaign": "infinite scroll"
-                                    }' data-url="/olympics/news/2024-olympics-sydney-mclaughlin-levrone-destroys-own-400m-hurdles-world-record-first-to-win-two-gold-medals/">
+                                    }' data-url="/olympics/news/2024-olympics-noah-lyles-dealing-with-covid-19-wins-bronze-medal-in-200-meters-kenny-bednarek-takes-silver/">
                                                             <article class="NewsFeed-container">
                                     <div class="NewsFeed-imageCol NewsFeed-imageCol--medium">
-                                                                                    <a href="/olympics/news/2024-olympics-sydney-mclaughlin-levrone-destroys-own-400m-hurdles-world-record-first-to-win-two-gold-medals/">
+                                                                                    <a href="/olympics/news/2024-olympics-noah-lyles-dealing-with-covid-19-wins-bronze-medal-in-200-meters-kenny-bednarek-takes-silver/">
                                                                                                                                                                                                                                         
                                                 
                                                 <div class="NewsFeed-image NewsFeed-image--medium">
-                                                                <figure class=" img"><img class=" " alt="" src="https://sportshub.cbsistatic.com/i/r/2024/08/08/5bc3a2fb-beba-4742-bc08-49a7d3f0716f/thumbnail/140x140/79aa9e669dd18180cd334bdf19793c54/sydney-mclaughlin-olympics-g.jpg" height="140" width="140"></figure>
+                                                                <figure class=" img"><img class=" " alt="" src="https://sportshub.cbsistatic.com/i/r/2024/08/08/6c0a8bf6-5641-4853-a0ec-d1600f2ec5be/thumbnail/140x140/6a1741c0ccb3a91be4a2390514e1c625/noah-lyles-gassed-200m-olymipcs-g.jpg" height="140" width="140"></figure>
                                                                                                             <div class="NewsFeed-progressImageOverlay"></div>
                                                                                                     </div>
                                                                                                                                 </a>
@@ -2901,7 +2901,7 @@
                                     <div class="NewsFeed-content NewsFeed-content--medium">
                                                                                     <h3 class="NewsFeed-title NewsFeed-title--medium">
                                                                                                                                                                                                             
-                        <a href="/olympics/news/2024-olympics-sydney-mclaughlin-levrone-destroys-own-400m-hurdles-world-record-first-to-win-two-gold-medals/" class="">McLaughlin breaks record in hurdles</a>
+                        <a href="/olympics/news/2024-olympics-noah-lyles-dealing-with-covid-19-wins-bronze-medal-in-200-meters-kenny-bednarek-takes-silver/" class="">Lyles battles COVID-19 to take 200m bronze</a>
             
                                                                                                                                                 </h3>
                                                                                 
@@ -2913,7 +2913,7 @@
                                             
                                             
                                                                                             <span class="NewsFeed-date NewsFeed-bylineItem">
-                                                     1 min read
+                                                     2 min read
                                                 </span>
                                                                                     </div>
                                                                                     <div class="NewsFeed-progressBar" data-article-id="2">
@@ -2930,6 +2930,53 @@
                         <li class="NewsFeed-item " data-article-id="3" data-reading-list-item="3" data-track-action='{
                                         "moduleName": "sideRail-suggestedContent",
                                         "moduleLocation": "article-4",
+                                        "moduleAction": "click-hyperlink",
+                                        "moduleCampaign": "infinite scroll"
+                                    }' data-url="/olympics/news/2024-olympics-sydney-mclaughlin-levrone-destroys-own-400m-hurdles-world-record-first-to-win-two-gold-medals/">
+                                                            <article class="NewsFeed-container">
+                                    <div class="NewsFeed-imageCol NewsFeed-imageCol--medium">
+                                                                                    <a href="/olympics/news/2024-olympics-sydney-mclaughlin-levrone-destroys-own-400m-hurdles-world-record-first-to-win-two-gold-medals/">
+                                                                                                                                                                                                                                        
+                                                
+                                                <div class="NewsFeed-image NewsFeed-image--medium">
+                                                                <figure class=" img"><img class=" " alt="" src="https://sportshub.cbsistatic.com/i/r/2024/08/08/5bc3a2fb-beba-4742-bc08-49a7d3f0716f/thumbnail/140x140/79aa9e669dd18180cd334bdf19793c54/sydney-mclaughlin-olympics-g.jpg" height="140" width="140"></figure>
+                                                                                                            <div class="NewsFeed-progressImageOverlay"></div>
+                                                                                                    </div>
+                                                                                                                                </a>
+                                                                            </div>
+
+                                    <div class="NewsFeed-content NewsFeed-content--medium">
+                                                                                    <h3 class="NewsFeed-title NewsFeed-title--medium">
+                                                                                                                                                                                                            
+                        <a href="/olympics/news/2024-olympics-sydney-mclaughlin-levrone-destroys-own-400m-hurdles-world-record-first-to-win-two-gold-medals/" class="">McLaughlin-Levrone sets world record</a>
+            
+                                                                                                                                                </h3>
+                                                                                
+                                        <div class="NewsFeed-byline">
+                                            
+                                                                                            <span class="NewsFeed-author NewsFeed-bylineItem">
+                                                    Adam Silverstein
+                                                </span>
+                                            
+                                            
+                                                                                            <span class="NewsFeed-date NewsFeed-bylineItem">
+                                                     1 min read
+                                                </span>
+                                                                                    </div>
+                                                                                    <div class="NewsFeed-progressBar" data-article-id="3">
+                                                <div class="NewsFeed-progressBarSlider"></div>
+                                            </div>
+                                                                            </div>
+                                </article>
+                                                    </li>
+                                                                                                                                                                                                                                                                                                                                
+                        
+                                                
+                                                                                                                                                                                                                    
+                        
+                        <li class="NewsFeed-item " data-article-id="4" data-reading-list-item="4" data-track-action='{
+                                        "moduleName": "sideRail-suggestedContent",
+                                        "moduleLocation": "article-5",
                                         "moduleAction": "click-hyperlink",
                                         "moduleCampaign": "infinite scroll"
                                     }' data-url="/olympics/news/2024-olympics-boxing-who-is-imane-khelif-how-the-algerian-boxer-became-a-symbol-of-the-gender-debate/">
@@ -2963,7 +3010,7 @@
                                                      4 min read
                                                 </span>
                                                                                     </div>
-                                                                                    <div class="NewsFeed-progressBar" data-article-id="3">
+                                                                                    <div class="NewsFeed-progressBar" data-article-id="4">
                                                 <div class="NewsFeed-progressBarSlider"></div>
                                             </div>
                                                                             </div>
@@ -2974,9 +3021,9 @@
                                                 
                                                                                                                                                                                                                     
                         
-                        <li class="NewsFeed-item " data-article-id="4" data-reading-list-item="4" data-track-action='{
+                        <li class="NewsFeed-item " data-article-id="5" data-reading-list-item="5" data-track-action='{
                                         "moduleName": "sideRail-suggestedContent",
-                                        "moduleLocation": "article-5",
+                                        "moduleLocation": "article-6",
                                         "moduleAction": "click-hyperlink",
                                         "moduleCampaign": "infinite scroll"
                                     }' data-url="/olympics/news/2024-olympics-who-is-the-masked-shot-putter-why-you-wont-see-raven-saunders-face-during-their-competition/">
@@ -3010,7 +3057,7 @@
                                                      1 min read
                                                 </span>
                                                                                     </div>
-                                                                                    <div class="NewsFeed-progressBar" data-article-id="4">
+                                                                                    <div class="NewsFeed-progressBar" data-article-id="5">
                                                 <div class="NewsFeed-progressBarSlider"></div>
                                             </div>
                                                                             </div>
@@ -3021,9 +3068,9 @@
                                                 
                                                                                                                                                                                                                     
                         
-                        <li class="NewsFeed-item " data-article-id="5" data-reading-list-item="5" data-track-action='{
+                        <li class="NewsFeed-item " data-article-id="6" data-reading-list-item="6" data-track-action='{
                                         "moduleName": "sideRail-suggestedContent",
-                                        "moduleLocation": "article-6",
+                                        "moduleLocation": "article-7",
                                         "moduleAction": "click-hyperlink",
                                         "moduleCampaign": "infinite scroll"
                                     }' data-url="/olympics/news/2024-paris-olympics-daily-schedule-where-to-watch-noah-lyles-lebron-james-and-team-usa-compete-on-day-13/">
@@ -3057,7 +3104,7 @@
                                                      3 min read
                                                 </span>
                                                                                     </div>
-                                                                                    <div class="NewsFeed-progressBar" data-article-id="5">
+                                                                                    <div class="NewsFeed-progressBar" data-article-id="6">
                                                 <div class="NewsFeed-progressBarSlider"></div>
                                             </div>
                                                                             </div>
@@ -3068,9 +3115,9 @@
                                                 
                                                                                                                                                                                                                     
                         
-                        <li class="NewsFeed-item " data-article-id="6" data-reading-list-item="6" data-track-action='{
+                        <li class="NewsFeed-item " data-article-id="7" data-reading-list-item="7" data-track-action='{
                                         "moduleName": "sideRail-suggestedContent",
-                                        "moduleLocation": "article-7",
+                                        "moduleLocation": "article-8",
                                         "moduleAction": "click-hyperlink",
                                         "moduleCampaign": "infinite scroll"
                                     }' data-url="/olympics/news/2022-u-s-figure-skating-team-retroactively-receives-gold-medals-in-special-ceremony-at-2024-olympics/">
@@ -3104,7 +3151,7 @@
                                                      1 min read
                                                 </span>
                                                                                     </div>
-                                                                                    <div class="NewsFeed-progressBar" data-article-id="6">
+                                                                                    <div class="NewsFeed-progressBar" data-article-id="7">
                                                 <div class="NewsFeed-progressBarSlider"></div>
                                             </div>
                                                                             </div>
@@ -3115,9 +3162,9 @@
                                                 
                                                                                                                                                                                                                     
                         
-                        <li class="NewsFeed-item " data-article-id="7" data-reading-list-item="7" data-track-action='{
+                        <li class="NewsFeed-item " data-article-id="8" data-reading-list-item="8" data-track-action='{
                                         "moduleName": "sideRail-suggestedContent",
-                                        "moduleLocation": "article-8",
+                                        "moduleLocation": "article-9",
                                         "moduleAction": "click-hyperlink",
                                         "moduleCampaign": "infinite scroll"
                                     }' data-url="/olympics/news/2024-paris-olympics-noah-lyles-gabby-thomas-cole-hocker-have-united-states-ahead-of-the-pack-on-the-track/">
@@ -3151,7 +3198,7 @@
                                                      5 min read
                                                 </span>
                                                                                     </div>
-                                                                                    <div class="NewsFeed-progressBar" data-article-id="7">
+                                                                                    <div class="NewsFeed-progressBar" data-article-id="8">
                                                 <div class="NewsFeed-progressBarSlider"></div>
                                             </div>
                                                                             </div>
@@ -3162,9 +3209,9 @@
                                                 
                                                                                                                                                                                                                     
                         
-                        <li class="NewsFeed-item " data-article-id="8" data-reading-list-item="8" data-track-action='{
+                        <li class="NewsFeed-item " data-article-id="9" data-reading-list-item="9" data-track-action='{
                                         "moduleName": "sideRail-suggestedContent",
-                                        "moduleLocation": "article-9",
+                                        "moduleLocation": "article-10",
                                         "moduleAction": "click-hyperlink",
                                         "moduleCampaign": "infinite scroll"
                                     }' data-url="/olympics/news/paris-olympics-2024-how-the-polluted-seine-river-has-affected-athletes-health-outdoor-swimming-events/">
@@ -3196,53 +3243,6 @@
                                             
                                                                                             <span class="NewsFeed-date NewsFeed-bylineItem">
                                                      4 min read
-                                                </span>
-                                                                                    </div>
-                                                                                    <div class="NewsFeed-progressBar" data-article-id="8">
-                                                <div class="NewsFeed-progressBarSlider"></div>
-                                            </div>
-                                                                            </div>
-                                </article>
-                                                    </li>
-                                                                                                                                                                                                                                                                                                                                
-                        
-                                                
-                                                                                                                                                                                                                    
-                        
-                        <li class="NewsFeed-item " data-article-id="9" data-reading-list-item="9" data-track-action='{
-                                        "moduleName": "sideRail-suggestedContent",
-                                        "moduleLocation": "article-10",
-                                        "moduleAction": "click-hyperlink",
-                                        "moduleCampaign": "infinite scroll"
-                                    }' data-url="/olympics/news/winter-olympics-2018-five-questions-for-team-usa-bobsledder-elana-meyers-taylor/">
-                                                            <article class="NewsFeed-container">
-                                    <div class="NewsFeed-imageCol NewsFeed-imageCol--medium">
-                                                                                    <a href="/olympics/news/winter-olympics-2018-five-questions-for-team-usa-bobsledder-elana-meyers-taylor/">
-                                                                                                                                                                                                                                        
-                                                
-                                                <div class="NewsFeed-image NewsFeed-image--medium">
-                                                                <figure class=" img"><img class=" " alt="" src="https://sportshub.cbsistatic.com/i/r/2018/02/23/967e914d-69fb-47d7-a22a-d94b9048cc46/thumbnail/140x140/bdaf3141acb5269457fab704ac6613e9/usatsi-10637970.jpg" height="140" width="140"></figure>
-                                                                                                            <div class="NewsFeed-progressImageOverlay"></div>
-                                                                                                    </div>
-                                                                                                                                </a>
-                                                                            </div>
-
-                                    <div class="NewsFeed-content NewsFeed-content--medium">
-                                                                                    <h3 class="NewsFeed-title NewsFeed-title--medium">
-                                                                                                                                                                                                            
-                        <a href="/olympics/news/winter-olympics-2018-five-questions-for-team-usa-bobsledder-elana-meyers-taylor/" class="">Five questions for Elana Meyers Taylor</a>
-            
-                                                                                                                                                </h3>
-                                                                                
-                                        <div class="NewsFeed-byline">
-                                            
-                                                                                            <span class="NewsFeed-author NewsFeed-bylineItem">
-                                                    Cody Benjamin
-                                                </span>
-                                            
-                                            
-                                                                                            <span class="NewsFeed-date NewsFeed-bylineItem">
-                                                     2 min read
                                                 </span>
                                                                                     </div>
                                                                                     <div class="NewsFeed-progressBar" data-article-id="9">
