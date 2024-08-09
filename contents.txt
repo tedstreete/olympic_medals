@@ -656,27 +656,6 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
-            <img class=" is-lazy-image" alt="CHN" data-lazy="https://sports.cbsimg.net/fly/images/flags/CHN.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        CHN
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        China
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">32</td><td class="TableBase-bodyTd">25</td><td class="TableBase-bodyTd">21</td><td class="TableBase-bodyTd">78</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
             <img class=" is-lazy-image" alt="USA" data-lazy="https://sports.cbsimg.net/fly/images/flags/USA.svg" src="">
                     </div>
     
@@ -689,7 +668,28 @@
         United States
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">31</td><td class="TableBase-bodyTd">39</td><td class="TableBase-bodyTd">38</td><td class="TableBase-bodyTd">108</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">33</td><td class="TableBase-bodyTd">39</td><td class="TableBase-bodyTd">39</td><td class="TableBase-bodyTd">111</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
+            <img class=" is-lazy-image" alt="CHN" data-lazy="https://sports.cbsimg.net/fly/images/flags/CHN.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        CHN
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        China
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">33</td><td class="TableBase-bodyTd">26</td><td class="TableBase-bodyTd">23</td><td class="TableBase-bodyTd">82</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -719,19 +719,19 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
-            <img class=" is-lazy-image" alt="FRA" data-lazy="https://sports.cbsimg.net/fly/images/flags/FRA.svg" src="">
+            <img class=" is-lazy-image" alt="JPN" data-lazy="https://sports.cbsimg.net/fly/images/flags/JPN.svg" src="">
                     </div>
     
 
     <span class="CountryFlagNameLockup-name--mobile">
-        FRA
+        JPN
     </span>
 
     <span class="CountryFlagNameLockup-name">
-        France
+        Japan
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">14</td><td class="TableBase-bodyTd">20</td><td class="TableBase-bodyTd">22</td><td class="TableBase-bodyTd">56</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">16</td><td class="TableBase-bodyTd">8</td><td class="TableBase-bodyTd">13</td><td class="TableBase-bodyTd">37</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -752,7 +752,7 @@
         Great Britain
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">14</td><td class="TableBase-bodyTd">20</td><td class="TableBase-bodyTd">22</td><td class="TableBase-bodyTd">56</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">14</td><td class="TableBase-bodyTd">20</td><td class="TableBase-bodyTd">23</td><td class="TableBase-bodyTd">57</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -761,19 +761,19 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
-            <img class=" is-lazy-image" alt="JPN" data-lazy="https://sports.cbsimg.net/fly/images/flags/JPN.svg" src="">
+            <img class=" is-lazy-image" alt="FRA" data-lazy="https://sports.cbsimg.net/fly/images/flags/FRA.svg" src="">
                     </div>
     
 
     <span class="CountryFlagNameLockup-name--mobile">
-        JPN
+        FRA
     </span>
 
     <span class="CountryFlagNameLockup-name">
-        Japan
+        France
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">14</td><td class="TableBase-bodyTd">8</td><td class="TableBase-bodyTd">13</td><td class="TableBase-bodyTd">35</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">14</td><td class="TableBase-bodyTd">20</td><td class="TableBase-bodyTd">22</td><td class="TableBase-bodyTd">56</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -803,6 +803,27 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
+            <img class=" is-lazy-image" alt="NED" data-lazy="https://sports.cbsimg.net/fly/images/flags/NLD.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        NED
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Netherlands
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">13</td><td class="TableBase-bodyTd">6</td><td class="TableBase-bodyTd">10</td><td class="TableBase-bodyTd">29</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
             <img class=" is-lazy-image" alt="GER" data-lazy="https://sports.cbsimg.net/fly/images/flags/DEU.svg" src="">
                     </div>
     
@@ -824,27 +845,6 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
-            <img class=" is-lazy-image" alt="NED" data-lazy="https://sports.cbsimg.net/fly/images/flags/NLD.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        NED
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        Netherlands
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">12</td><td class="TableBase-bodyTd">6</td><td class="TableBase-bodyTd">9</td><td class="TableBase-bodyTd">27</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
             <img class=" is-lazy-image" alt="ITA" data-lazy="https://sports.cbsimg.net/fly/images/flags/ITA.svg" src="">
                     </div>
     
@@ -857,7 +857,28 @@
         Italy
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">11</td><td class="TableBase-bodyTd">11</td><td class="TableBase-bodyTd">11</td><td class="TableBase-bodyTd">33</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">11</td><td class="TableBase-bodyTd">12</td><td class="TableBase-bodyTd">13</td><td class="TableBase-bodyTd">36</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
+            <img class=" is-lazy-image" alt="CAN" data-lazy="https://sports.cbsimg.net/fly/images/flags/CAN.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        CAN
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Canada
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">7</td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">11</td><td class="TableBase-bodyTd">23</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -887,27 +908,6 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
-            <img class=" is-lazy-image" alt="CAN" data-lazy="https://sports.cbsimg.net/fly/images/flags/CAN.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        CAN
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        Canada
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">6</td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">11</td><td class="TableBase-bodyTd">22</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
             <img class=" is-lazy-image" alt="HUN" data-lazy="https://sports.cbsimg.net/fly/images/flags/HUN.svg" src="">
                     </div>
     
@@ -920,7 +920,49 @@
         Hungary
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">4</td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">14</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">15</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
+            <img class=" is-lazy-image" alt="UZB" data-lazy="https://sports.cbsimg.net/fly/images/flags/UZB.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        UZB
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Uzbekistan
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">8</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
+            <img class=" is-lazy-image" alt="ESP" data-lazy="https://sports.cbsimg.net/fly/images/flags/ESP.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        ESP
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Spain
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">4</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">8</td><td class="TableBase-bodyTd">15</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -1013,19 +1055,19 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
-            <img class=" is-lazy-image" alt="ESP" data-lazy="https://sports.cbsimg.net/fly/images/flags/ESP.svg" src="">
+            <img class=" is-lazy-image" alt="BUL" data-lazy="https://sports.cbsimg.net/fly/images/flags/BUL.svg" src="">
                     </div>
     
 
     <span class="CountryFlagNameLockup-name--mobile">
-        ESP
+        BUL
     </span>
 
     <span class="CountryFlagNameLockup-name">
-        Spain
+        Bulgaria
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">8</td><td class="TableBase-bodyTd">14</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">7</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -1046,28 +1088,7 @@
         Belgium
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">8</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
-            <img class=" is-lazy-image" alt="UZB" data-lazy="https://sports.cbsimg.net/fly/images/flags/UZB.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        UZB
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        Uzbekistan
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">6</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">6</td><td class="TableBase-bodyTd">9</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -1088,7 +1109,7 @@
         Brazil
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">6</td><td class="TableBase-bodyTd">8</td><td class="TableBase-bodyTd">16</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">6</td><td class="TableBase-bodyTd">9</td><td class="TableBase-bodyTd">17</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -1109,7 +1130,7 @@
         Iran
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">6</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">4</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">8</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -1118,19 +1139,19 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
-            <img class=" is-lazy-image" alt="BUL" data-lazy="https://sports.cbsimg.net/fly/images/flags/BUL.svg" src="">
+            <img class=" is-lazy-image" alt="AZE" data-lazy="https://sports.cbsimg.net/fly/images/flags/AZE.svg" src="">
                     </div>
     
 
     <span class="CountryFlagNameLockup-name--mobile">
-        BUL
+        AZE
     </span>
 
     <span class="CountryFlagNameLockup-name">
-        Bulgaria
+        Azerbaijan
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">6</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">5</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -1181,19 +1202,40 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
-            <img class=" is-lazy-image" alt="AZE" data-lazy="https://sports.cbsimg.net/fly/images/flags/AZE.svg" src="">
+            <img class=" is-lazy-image" alt="KEN" data-lazy="https://sports.cbsimg.net/fly/images/flags/KEN.svg" src="">
                     </div>
     
 
     <span class="CountryFlagNameLockup-name--mobile">
-        AZE
+        KEN
     </span>
 
     <span class="CountryFlagNameLockup-name">
-        Azerbaijan
+        Kenya
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">4</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">6</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
+            <img class=" is-lazy-image" alt="SRB" data-lazy="https://sports.cbsimg.net/fly/images/flags/SRB.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        SRB
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Serbia
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">3</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -1307,27 +1349,6 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
-            <img class=" is-lazy-image" alt="SRB" data-lazy="https://sports.cbsimg.net/fly/images/flags/SRB.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        SRB
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        Serbia
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">2</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
             <img class=" is-lazy-image" alt="ISR" data-lazy="https://sports.cbsimg.net/fly/images/flags/ISR.svg" src="">
                     </div>
     
@@ -1424,7 +1445,7 @@
         Switzerland
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">4</td><td class="TableBase-bodyTd">7</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">5</td><td class="TableBase-bodyTd">8</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -1443,6 +1464,48 @@
 
     <span class="CountryFlagNameLockup-name">
         Denmark
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">5</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
+            <img class=" is-lazy-image" alt="RSA" data-lazy="https://sports.cbsimg.net/fly/images/flags/RSA.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        RSA
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        South Africa
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">5</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
+            <img class=" is-lazy-image" alt="ECU" data-lazy="https://sports.cbsimg.net/fly/images/flags/ECU.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        ECU
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Ecuador
     </span>
 </div>
     </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">4</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
@@ -1467,27 +1530,6 @@
     </span>
 </div>
     </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">4</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
-            <img class=" is-lazy-image" alt="ECU" data-lazy="https://sports.cbsimg.net/fly/images/flags/ECU.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        ECU
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        Ecuador
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">3</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -1538,48 +1580,6 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
-            <img class=" is-lazy-image" alt="KEN" data-lazy="https://sports.cbsimg.net/fly/images/flags/KEN.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        KEN
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        Kenya
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">5</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
-            <img class=" is-lazy-image" alt="RSA" data-lazy="https://sports.cbsimg.net/fly/images/flags/RSA.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        RSA
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        South Africa
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">4</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
             <img class=" is-lazy-image" alt="ARG" data-lazy="https://sports.cbsimg.net/fly/images/flags/ARG.svg" src="">
                     </div>
     
@@ -1590,6 +1590,48 @@
 
     <span class="CountryFlagNameLockup-name">
         Argentina
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">3</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
+            <img class=" is-lazy-image" alt="NOR" data-lazy="https://sports.cbsimg.net/fly/images/flags/NOR.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        NOR
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Norway
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">3</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
+            <img class=" is-lazy-image" alt="TUN" data-lazy="https://sports.cbsimg.net/fly/images/flags/TUN.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        TUN
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Tunisia
     </span>
 </div>
     </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">3</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
@@ -1790,27 +1832,6 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
-            <img class=" is-lazy-image" alt="NOR" data-lazy="https://sports.cbsimg.net/fly/images/flags/NOR.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        NOR
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        Norway
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">2</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
             <img class=" is-lazy-image" alt="ALG" data-lazy="https://sports.cbsimg.net/fly/images/flags/ALG.svg" src="">
                     </div>
     
@@ -1895,6 +1916,69 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
+            <img class=" is-lazy-image" alt="TKE" data-lazy="https://sports.cbsimg.net/fly/images/flags/TKE.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        TKE
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Turkiye
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">6</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
+            <img class=" is-lazy-image" alt="MEX" data-lazy="https://sports.cbsimg.net/fly/images/flags/MEX.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        MEX
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Mexico
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">5</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
+            <img class=" is-lazy-image" alt="COL" data-lazy="https://sports.cbsimg.net/fly/images/flags/COL.svg" src="">
+                    </div>
+    
+
+    <span class="CountryFlagNameLockup-name--mobile">
+        COL
+    </span>
+
+    <span class="CountryFlagNameLockup-name">
+        Colombia
+    </span>
+</div>
+    </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">3</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+        
+                            
+                
+    
+    
+    
+            <div class="CountryFlag CountryFlag--medium">
+                                                                            
             <img class=" is-lazy-image" alt="PRK" data-lazy="https://sports.cbsimg.net/fly/images/flags/PRK.svg" src="">
                     </div>
     
@@ -1916,37 +2000,16 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
-            <img class=" is-lazy-image" alt="TKE" data-lazy="https://sports.cbsimg.net/fly/images/flags/TKE.svg" src="">
+            <img class=" is-lazy-image" alt="LTU" data-lazy="https://sports.cbsimg.net/fly/images/flags/LTU.svg" src="">
                     </div>
     
 
     <span class="CountryFlagNameLockup-name--mobile">
-        TKE
+        LTU
     </span>
 
     <span class="CountryFlagNameLockup-name">
-        Turkiye
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">5</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
-            <img class=" is-lazy-image" alt="MEX" data-lazy="https://sports.cbsimg.net/fly/images/flags/MEX.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        MEX
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        Mexico
+        Lithuania
     </span>
 </div>
     </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">4</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
@@ -1979,19 +2042,19 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
-            <img class=" is-lazy-image" alt="COL" data-lazy="https://sports.cbsimg.net/fly/images/flags/COL.svg" src="">
+            <img class=" is-lazy-image" alt="POR" data-lazy="https://sports.cbsimg.net/fly/images/flags/POR.svg" src="">
                     </div>
     
 
     <span class="CountryFlagNameLockup-name--mobile">
-        COL
+        POR
     </span>
 
     <span class="CountryFlagNameLockup-name">
-        Colombia
+        Portugal
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">2</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">3</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -2063,19 +2126,19 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
-            <img class=" is-lazy-image" alt="LTU" data-lazy="https://sports.cbsimg.net/fly/images/flags/LTU.svg" src="">
+            <img class=" is-lazy-image" alt="MDA" data-lazy="https://sports.cbsimg.net/fly/images/flags/MDA.svg" src="">
                     </div>
     
 
     <span class="CountryFlagNameLockup-name--mobile">
-        LTU
+        MDA
     </span>
 
     <span class="CountryFlagNameLockup-name">
-        Lithuania
+        Moldova
     </span>
 </div>
-    </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">2</td><td class="TableBase-bodyTd">3</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
+    </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">4</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -2094,48 +2157,6 @@
 
     <span class="CountryFlagNameLockup-name">
         Kosovo
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">2</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
-            <img class=" is-lazy-image" alt="POR" data-lazy="https://sports.cbsimg.net/fly/images/flags/POR.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        POR
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        Portugal
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">2</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
-            <img class=" is-lazy-image" alt="TUN" data-lazy="https://sports.cbsimg.net/fly/images/flags/TUN.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        TUN
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        Tunisia
     </span>
 </div>
     </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">2</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
@@ -2223,27 +2244,6 @@
     </span>
 </div>
     </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">1</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">1</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
-        
-                            
-                
-    
-    
-    
-            <div class="CountryFlag CountryFlag--medium">
-                                                                            
-            <img class=" is-lazy-image" alt="MDA" data-lazy="https://sports.cbsimg.net/fly/images/flags/MDA.svg" src="">
-                    </div>
-    
-
-    <span class="CountryFlagNameLockup-name--mobile">
-        MDA
-    </span>
-
-    <span class="CountryFlagNameLockup-name">
-        Moldova
-    </span>
-</div>
-    </td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">0</td><td class="TableBase-bodyTd">3</td><td class="TableBase-bodyTd">3</td></tr><tr class="TableBase-bodyTr"><td class="TableBase-bodyTd"><div class="CountryFlagNameLockup">
         
                             
                 
@@ -2556,6 +2556,27 @@
                                                                                 
                                                         
                 
+            <a href="/olympics/news/2024-olympic-boxing-imane-khelif-earns-gold-medal-in-final-match-amid-continued-gender-controversy/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="imane-khelif-celebrate-gold.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/09/8c38cdff-8223-4f3a-9bf1-d906a77f89f0/thumbnail/160x160/8a4fed9841deb7449e6dfddeec3bc7d9/imane-khelif-celebrate-gold.jpg" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/2024-olympic-boxing-imane-khelif-earns-gold-medal-in-final-match-amid-continued-gender-controversy/">
+                                    Khelif earns gold in boxing amid gender debate
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    Brent Brookhouse
+                                                                • 2 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
             <a href="/olympics/news/spain-take-home-gold-in-mens-soccer-at-2024-paris-olympics-after-epic-5-3-extra-time-win-over-france/" class="LatestNewsBox-imageUrl">
                                                 <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="untitled-design-2024-08-09t211213-980.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/09/7fef95cb-16e1-46c6-a361-4ba3304311e4/thumbnail/160x160/abf476541841d0e8cb1bfa7707703238/untitled-design-2024-08-09t211213-980.png" src="" height="160" width="160"></figure>
                     </a>
@@ -2653,27 +2674,6 @@
                             <h5 class="LatestNewsBox-itemInfo">
                                                                     CBS Sports Staff
                                                                 • 3 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/france-vs-belgium-prediction-odds-time-2024-paris-olympics-womens-basketball-picks-by-proven-expert/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="giannis-greece-getty-1.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/09/97c614e0-64e4-42c5-a414-bb940a159f88/thumbnail/160x160/aaccd014a936b6f821c09062af44159d/gabby-williams-france-getty-images.jpg" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/france-vs-belgium-prediction-odds-time-2024-paris-olympics-womens-basketball-picks-by-proven-expert/">
-                                    France-Belgium odds, Olympic women's basketball bets
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    CBS Sports Staff
-                                                                • 4 min read
                             </h5>
                         </div>
                     </div>
