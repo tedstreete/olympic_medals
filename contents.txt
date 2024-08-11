@@ -2669,6 +2669,27 @@
                                                                                 
                                                         
                 
+            <a href="/olympics/news/usa-gymnastics-files-appeal-for-jordan-chiles-bronze-medal-with-video-proof-scoring-inquiry-was-filed-on-time/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="untitled-design-2024-08-11t145812-193.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/11/dbb4ef25-a833-43d6-9e19-51d059089d26/thumbnail/160x160/099bb3b939e16e27b2c9105d975b0aab/untitled-design-2024-08-11t145812-193.png" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/usa-gymnastics-files-appeal-for-jordan-chiles-bronze-medal-with-video-proof-scoring-inquiry-was-filed-on-time/">
+                                    USA Gymnastics: Chiles' bronze appeal filed on time
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    Zachary Pereles
+                                                                • 1 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
             <a href="/olympics/news/olympic-star-guerschon-yabusele-seeking-nba-return-reportedly-has-2-5-million-buyout-in-real-madrid-contract/" class="LatestNewsBox-imageUrl">
                                                 <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="yabu.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/11/056323b6-20bf-4059-a228-1c8bbf7f7868/thumbnail/160x160/5ef81ae25e2b01c55de9cd06bcefa573/yabu.png" src="" height="160" width="160"></figure>
                     </a>
@@ -2766,27 +2787,6 @@
                             <h5 class="LatestNewsBox-itemInfo">
                                                                     Lyle Fitzsimmons
                                                                 • 1 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/2024-olympics-noah-lyles-shacarri-richardson-were-great-but-was-paris-best-ever-for-u-s-track-field/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="untitled-design-2024-08-11t102654-009.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/11/bcb3d492-7b3a-4240-bda8-1deed8342793/thumbnail/160x160/bf86d73d3dc874a32ed1c7812bccf981/untitled-design-2024-08-11t102654-009.png" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/2024-olympics-noah-lyles-shacarri-richardson-were-great-but-was-paris-best-ever-for-u-s-track-field/">
-                                    Where does 2024 U.S. Olympic Track &amp; Field team rank?
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Lyle Fitzsimmons
-                                                                • 5 min read
                             </h5>
                         </div>
                     </div>
