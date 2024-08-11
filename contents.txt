@@ -2669,6 +2669,27 @@
                                                                                 
                                                         
                 
+            <a href="/olympics/news/olympic-star-guerschon-yabusele-seeking-nba-return-reportedly-has-2-5-million-buyout-in-real-madrid-contract/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="yabu.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/11/056323b6-20bf-4059-a228-1c8bbf7f7868/thumbnail/160x160/5ef81ae25e2b01c55de9cd06bcefa573/yabu.png" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/olympic-star-guerschon-yabusele-seeking-nba-return-reportedly-has-2-5-million-buyout-in-real-madrid-contract/">
+                                    French Olympic star Yabusele seeks NBA return
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    Sam Quinn
+                                                                • 2 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
             <a href="/olympics/news/lebron-james-stephen-curry-unlikely-to-play-in-2028-olympics-kevin-durant-says-well-see/" class="LatestNewsBox-imageUrl">
                                                 <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="kd-lebron-steph.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/11/a6fd7409-b61f-43eb-a7eb-e3419589a8e2/thumbnail/160x160/9988ee9e652621953afe7996d031f259/kd-lebron-steph.png" src="" height="160" width="160"></figure>
                     </a>
@@ -2718,7 +2739,7 @@
                         <div class="LatestNewsBox-textGroup">
                             <h4 class="LatestNewsBox-itemTitle">
                                 <a href="/olympics/news/paris-olympics-2024-aja-wilson-named-womens-basketball-mvp-after-leading-u-s-to-eighth-straight-gold-medal/">
-                                    Aces' A'ja Wilson named MVP of 2024 Paris Olympics
+                                    Aces' Wilson named MVP of Olympic women's basketball
                                 </a>
                             </h4>
                             <h5 class="LatestNewsBox-itemInfo">
@@ -2766,27 +2787,6 @@
                             <h5 class="LatestNewsBox-itemInfo">
                                                                     Lyle Fitzsimmons
                                                                 • 5 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/stephen-curry-wins-first-gold-medal-in-fitting-fashion-by-leaving-the-entire-basketball-world-speechless/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="steph-curry-usa-getty-1.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/11/5da6bd3e-84f5-4005-aae4-911ceee6d9e7/thumbnail/160x160/85550d11fe9ed2572956ad6573effb92/steph-curry-usa-getty-1.png" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/stephen-curry-wins-first-gold-medal-in-fitting-fashion-by-leaving-the-entire-basketball-world-speechless/">
-                                    Steph Curry wins first gold medal in fitting fashion
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Brad Botkin
-                                                                • 3 min read
                             </h5>
                         </div>
                     </div>
