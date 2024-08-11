@@ -647,7 +647,7 @@
 
     </div>
 
-<p>Through Saturday, the United States remains far ahead (plus-32 to be exact) in the total medal count with 122. The United States also has the outright lead in silver and and bronze with 42 in each category. Overall, China is second with 90 medals, with Great Britain (63), France (62) and Australia (50) rounding out the top five.</p><p>The United States entered these Games with the most medals ever won in the Summer Olympics. The U.S. also holds the record for most gold medals won in a single games with 83 captured in 1984, one of the country's host years that took place as the Soviet Union led a 12-nation boycott of the Los Angeles Games. Such lofty totals will obviously not happen in 2024, although America was able to build upon its showing of 113 medals at the Tokyo Games of three years ago. One more gold medal will match the 39 won by the U.S. Olympic delegation in 2021, and America has already gone plus-one in its silver tally, up from 41, and far surpassed the previous number of bronze medals won, posting a plus-nine, up from 33.</p>
+<p>Through Saturday, the United States remains far ahead (plus-32 to be exact) in the total medal count with 122. The United States also has the outright lead in silver and and bronze with 42 in each category. Overall, China is second with 90 medals, with Great Britain (63), France (62) and Australia (50) rounding out the top five.</p><p>The United States entered these Games with the most medals ever won in the Summer Olympics. The U.S. also holds the record for most gold medals won in a single games with 83 captured in 1984, one of the country's host years that took place as the Soviet Union led a 12-nation boycott of the Los Angeles Games. Such lofty totals will obviously not happen in 2024, although America was able to build upon its showing of 113 medals at the Tokyo Games of three years ago. One more gold medal will match the 39 won by the U.S. Olympic delegation in 2021, and America has already gone plus-one in its silver tally, up from 41, and far surpassed the previous number of bronze medals won, posting a plus-nine, up from 33.</p>
         <div id="article-body-ad-1" class="gambling-partner-ad">
         
         <div id="gambling_partner_flex_article" class="ad-gambling-partner-flex-article GamblingPartnerAd lazyload lazypreload" data-ad="gambling-partner-flex-article" data-ad-unit="gambling_partner_flex_article">
@@ -2512,12 +2512,12 @@
     
             <div class="CountryFlag CountryFlag--medium">
                                                                             
-            <img class=" is-lazy-image" alt="SIN" data-lazy="https://sports.cbsimg.net/fly/images/flags/SIN.svg" src="">
+            <img class=" is-lazy-image" alt="SGP" data-lazy="https://sports.cbsimg.net/fly/images/flags/SGP.svg" src="">
                     </div>
     
 
     <span class="CountryFlagNameLockup-name--mobile">
-        SIN
+        SGP
     </span>
 
     <span class="CountryFlagNameLockup-name">
@@ -2669,6 +2669,48 @@
                                                                                 
                                                         
                 
+            <a href="/olympics/news/uswnt-player-ratings-mallory-swanson-alyssa-naeher-clinch-gold-medal-for-usa-vs-brazil-at-paris-olympics/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="mal1.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/10/883e3fdd-3d4d-4658-b9f5-aa6da38671a3/thumbnail/160x160/a3aae170b8a4864cb656d17242162bda/mal1.jpg" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/uswnt-player-ratings-mallory-swanson-alyssa-naeher-clinch-gold-medal-for-usa-vs-brazil-at-paris-olympics/">
+                                    USWNT player ratings: Swanson nets gold-medal clincher
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    Sandra Herrera
+                                                                • 3 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
+            <a href="/olympics/news/olympic-womens-boxing-gold-medalist-imane-khelif-files-legal-complaint-citing-online-harassment-over-gender/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="untitled-design-2024-08-10t175622-754.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/11/64f54aa0-03c4-4e0d-8977-d89d4142ad01/thumbnail/160x160/70ab22f5d4225ae4fe547884ca68ddc4/untitled-design-2024-08-10t175622-754.png" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/olympic-womens-boxing-gold-medalist-imane-khelif-files-legal-complaint-citing-online-harassment-over-gender/">
+                                    Algeria's Khelif files legal complaint of harassment
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    Shakiel Mahjouri
+                                                                • 1 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
             <a href="/olympics/news/australia-vs-belgium-prediction-odds-2024-paris-olympics-womens-basketball-bronze-medal-game-expert-picks/" class="LatestNewsBox-imageUrl">
                                                 <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="giannis-greece-getty-1.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/10/df30647b-464e-4763-b8aa-fd5ec3b738cb/thumbnail/160x160/207370200c71335ce0ce7ac3fd90bf17/sami-whitcomb-australia-getty-images.jpg" src="" height="160" width="160"></figure>
                     </a>
@@ -2745,48 +2787,6 @@
                             <h5 class="LatestNewsBox-itemInfo">
                                                                     Sam Quinn
                                                                 • 1 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/lebron-james-named-2024-olympics-mvp-stephen-curry-joins-usa-teammate-on-all-star-five-team-in-paris/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="lebron-james-usa-medal-getty.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/10/72be07c5-ab6c-446c-80c5-1fd90cdd2908/thumbnail/160x160/1f559490c71c5101f3038d2381b2e151/lebron-james-usa-medal-getty.png" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/lebron-james-named-2024-olympics-mvp-stephen-curry-joins-usa-teammate-on-all-star-five-team-in-paris/">
-                                    LeBron James named Olympics MVP as USA wins gold
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Sam Quinn
-                                                                • 2 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/usa-basketball-steph-curry-lebron-james-kevin-durant-keep-team-usa-golden-by-doing-what-all-time-greats-do/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="lebron-kd-steph-usa-medal-getty.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/10/a0110e0e-543f-4df4-bf1a-660be328433b/thumbnail/160x160/96c879b96395516bd9102ef6c4879f61/lebron-kd-steph-usa-medal-getty.png" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/usa-basketball-steph-curry-lebron-james-kevin-durant-keep-team-usa-golden-by-doing-what-all-time-greats-do/">
-                                    Steph, LeBron, KD add golden chapter to their legacies
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Bill Reiter
-                                                                • 3 min read
                             </h5>
                         </div>
                     </div>
