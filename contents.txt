@@ -2669,6 +2669,27 @@
                                                                                 
                                                         
                 
+            <a href="/olympics/news/team-usa-finishes-atop-2024-olympics-medal-count-nfl-preseason-week-1-takeaways/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="untitled-design-2024-08-12t011713-284.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/12/3d404661-0ff6-4d2b-9068-8550bf1c9667/thumbnail/160x160/a6569d3f80adcc909476dbf895f1ca56/untitled-design-2024-08-12t011713-284.png" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/team-usa-finishes-atop-2024-olympics-medal-count-nfl-preseason-week-1-takeaways/">
+                                    Team USA finishes atop 2024 Olympics medal count
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    Zachary Pereles
+                                                                • 7 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
             <a href="/olympics/news/paris-olympics-from-noah-lyles-to-b-girl-raygun-24-of-the-most-unforgettable-moments-of-the-2024-games/" class="LatestNewsBox-imageUrl">
                                                 <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="untitled-design-2024-08-11t235323-289.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/12/bbea24fd-fdae-4efb-84ea-5a1239f605cb/thumbnail/160x160/7bff8c5c38659c0d53e1672204fcc066/untitled-design-2024-08-11t235323-289.png" src="" height="160" width="160"></figure>
                     </a>
@@ -2765,27 +2786,6 @@
                             </h4>
                             <h5 class="LatestNewsBox-itemInfo">
                                                                     Sam Quinn
-                                                                • 1 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/paris-olympics-2024-aja-wilson-named-womens-basketball-mvp-after-leading-u-s-to-eighth-straight-gold-medal/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="gettyimages-2166344550-1-1.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/11/2bd761ac-e9e8-47c5-a4e3-99437b70654b/thumbnail/160x160/06b2bb2224da017d11775f370ccc072a/gettyimages-2166344550-1-1.jpg" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/paris-olympics-2024-aja-wilson-named-womens-basketball-mvp-after-leading-u-s-to-eighth-straight-gold-medal/">
-                                    Aces' Wilson named MVP of Olympic women's basketball
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Jack Maloney
                                                                 • 1 min read
                             </h5>
                         </div>
