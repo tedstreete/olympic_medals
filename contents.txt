@@ -2669,6 +2669,27 @@
                                                                                 
                                                         
                 
+            <a href="/olympics/news/paris-olympics-from-noah-lyles-to-b-girl-raygun-24-of-the-most-unforgettable-moments-of-the-2024-games/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="untitled-design-2024-08-11t235323-289.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/12/bbea24fd-fdae-4efb-84ea-5a1239f605cb/thumbnail/160x160/7bff8c5c38659c0d53e1672204fcc066/untitled-design-2024-08-11t235323-289.png" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/paris-olympics-from-noah-lyles-to-b-girl-raygun-24-of-the-most-unforgettable-moments-of-the-2024-games/">
+                                    From Noah Lyles to B-girl Raygun, 24 moments from Paris
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    Matt Norlander
+                                                                • 15 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
             <a href="/olympics/news/usa-gymnastics-files-appeal-for-jordan-chiles-bronze-medal-with-video-proof-scoring-inquiry-was-filed-on-time/" class="LatestNewsBox-imageUrl">
                                                 <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="untitled-design-2024-08-11t145812-193.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/11/dbb4ef25-a833-43d6-9e19-51d059089d26/thumbnail/160x160/099bb3b939e16e27b2c9105d975b0aab/untitled-design-2024-08-11t145812-193.png" src="" height="160" width="160"></figure>
                     </a>
@@ -2765,27 +2786,6 @@
                             </h4>
                             <h5 class="LatestNewsBox-itemInfo">
                                                                     Jack Maloney
-                                                                • 1 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/paris-olympics-2024-simone-biles-shacarri-richardson-among-u-s-athletes-collecting-bonuses-for-medaling/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="gettyimages-2165413275-1-1.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/11/639d1cb5-11cf-428b-9844-f6b1daa9889c/thumbnail/160x160/e3b91f02a3b60968c8681f58fd405f15/gettyimages-2165413275-1-1.jpg" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/paris-olympics-2024-simone-biles-shacarri-richardson-among-u-s-athletes-collecting-bonuses-for-medaling/">
-                                    Biles, Richardson among U.S. athletes getting bonuses
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Lyle Fitzsimmons
                                                                 • 1 min read
                             </h5>
                         </div>
