@@ -2669,6 +2669,48 @@
                                                                                 
                                                         
                 
+            <a href="/olympics/news/jayson-tatum-says-tough-personal-experience-in-paris-wont-impact-decision-on-playing-in-2028-olympics/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="tatum-getty.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/12/89b4fbb9-bd5b-4d63-bb0d-426d67511f9a/thumbnail/160x160/b05fa5edd0a50b218151ae517bf66030/tatum-getty.png" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/jayson-tatum-says-tough-personal-experience-in-paris-wont-impact-decision-on-playing-in-2028-olympics/">
+                                    Tatum: Paris won't impact 2028 Olympics decision
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    Jack Maloney
+                                                                • 2 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
+            <a href="/olympics/news/flavor-flav-offers-bronze-clock-necklace-to-jordan-chiles-after-u-s-gymnast-has-medal-stripped/" class="LatestNewsBox-imageUrl">
+                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="gettyimages-2165381856-1-1.jpg" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/12/a748617f-2595-4492-8114-d8b7652d4cc0/thumbnail/160x160/d94572c27518374c2054eae85db420ef/gettyimages-2165381856-1-1.jpg" src="" height="160" width="160"></figure>
+                    </a>
+    
+                        <div class="LatestNewsBox-textGroup">
+                            <h4 class="LatestNewsBox-itemTitle">
+                                <a href="/olympics/news/flavor-flav-offers-bronze-clock-necklace-to-jordan-chiles-after-u-s-gymnast-has-medal-stripped/">
+                                    Flavor Flav offers Jordan Chiles bronze clock necklace
+                                </a>
+                            </h4>
+                            <h5 class="LatestNewsBox-itemInfo">
+                                                                    Chris Bengel
+                                                                • 1 min read
+                            </h5>
+                        </div>
+                    </div>
+                                                                            
+                                    <div class="LatestNewsBox-item">
+                                                                                
+                                                        
+                
             <a href="/olympics/news/team-usa-finishes-atop-2024-olympics-medal-count-nfl-preseason-week-1-takeaways/" class="LatestNewsBox-imageUrl">
                                                 <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="untitled-design-2024-08-12t011713-284.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/12/3d404661-0ff6-4d2b-9068-8550bf1c9667/thumbnail/160x160/a6569d3f80adcc909476dbf895f1ca56/untitled-design-2024-08-12t011713-284.png" src="" height="160" width="160"></figure>
                     </a>
@@ -2745,48 +2787,6 @@
                             <h5 class="LatestNewsBox-itemInfo">
                                                                     Sam Quinn
                                                                 • 2 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/lebron-james-stephen-curry-unlikely-to-play-in-2028-olympics-kevin-durant-says-well-see/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="kd-lebron-steph.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/11/a6fd7409-b61f-43eb-a7eb-e3419589a8e2/thumbnail/160x160/9988ee9e652621953afe7996d031f259/kd-lebron-steph.png" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/lebron-james-stephen-curry-unlikely-to-play-in-2028-olympics-kevin-durant-says-well-see/">
-                                    LeBron, Durant, Curry uncertain for 2028 Olympics
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Sam Quinn
-                                                                • 1 min read
-                            </h5>
-                        </div>
-                    </div>
-                                                                            
-                                    <div class="LatestNewsBox-item">
-                                                                                
-                                                        
-                
-            <a href="/olympics/news/victor-wembanyama-sends-solemn-warning-to-opponents-everywhere-after-winning-silver-at-paris-olympics/" class="LatestNewsBox-imageUrl">
-                                                <figure class="LatestNewsBox-image img"><img class="LatestNewsBox-imageImage is-lazy-image" alt="wemby.png" data-lazy="https://sportshub.cbsistatic.com/i/r/2024/08/11/4ad9da12-2c97-4217-a107-3e3eab226f0c/thumbnail/160x160/21431b2ecc6f2d222612bd4d2f1b7f6b/wemby.png" src="" height="160" width="160"></figure>
-                    </a>
-    
-                        <div class="LatestNewsBox-textGroup">
-                            <h4 class="LatestNewsBox-itemTitle">
-                                <a href="/olympics/news/victor-wembanyama-sends-solemn-warning-to-opponents-everywhere-after-winning-silver-at-paris-olympics/">
-                                    Wembanyama warns opponents after silver medal win
-                                </a>
-                            </h4>
-                            <h5 class="LatestNewsBox-itemInfo">
-                                                                    Sam Quinn
-                                                                • 1 min read
                             </h5>
                         </div>
                     </div>
